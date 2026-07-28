@@ -31,6 +31,19 @@
      "value": "public, max-age=600"
     }
    ]
+  },
+  {
+   "source": "/email/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=86400"
+    },
+    {
+     "key": "X-Robots-Tag",
+     "value": "noindex"
+    }
+   ]
   }
  ]
 }

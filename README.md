@@ -46,14 +46,46 @@ site/
     01/
       index.html       Full report for issue 01
       issue.json       Metadata: issue number, headline, week, publish date
+      img/             Images used only by this issue (create when needed)
   data/
     energy-30_2026.md         Weekly data appendix
     energy-FY2026-27.md       Cumulative financial-year appendix
+  email/              Images referenced by the weekly email. Stable public
+                       URLs — filenames must never change. See below.
 ```
 
 Each new issue gets its own folder under `energy/NN/`, plus an updated
 entry in the root `index.html` linking to it, and updated `data/*.md`
 files with the new week's figures appended.
+
+Images that belong to a single issue go in that issue's own `img/` folder,
+so each issue stays self-contained and filenames can repeat week to week.
+Anything shared across every issue belongs in `email/` or at the root.
+
+## Email assets — do not rename or move
+
+Gmail refuses base64-embedded images, so the five marks in the weekly email
+are referenced from public https URLs on this domain:
+
+```
+https://current.startt.ai/email/claude.png              96 x 96   Claude mark, black
+https://current.startt.ai/email/openai.png              96 x 96   ChatGPT mark, black
+https://current.startt.ai/email/perplexity.png          96 x 96   Perplexity mark, black
+https://current.startt.ai/email/startt-glyph-black.png  62 x 80   Startt gem, white masthead
+https://current.startt.ai/email/startt-glyph-white.png  62 x 80   Startt gem, black footer
+```
+
+They are 96px and 80px tall but displayed at 18px and 20px, so they stay
+sharp on retina screens.
+
+These URLs are baked into every email already sent. Renaming, moving or
+deleting a file breaks the marks in every archived copy of the newsletter,
+including issues sent months ago. Replace the file contents if a mark needs
+updating; never change the path.
+
+All five are marked decorative in the email, so if one fails to load the
+layout does not shift and the named Claude, ChatGPT and Perplexity links
+still work.
 
 ## Important — do not remove
 
