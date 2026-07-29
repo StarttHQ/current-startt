@@ -1,24 +1,391 @@
 name: Deploy to Production
 
+# In plain English, this does two things:
+#   1. Puts the new files on the web server (exactly as it always has).
+#   2. Then checks, from the outside, that https://current.startt.ai is really
+#      showing THIS update - every page, image and data file.
+#
+# Green tick = the live site is showing this issue. Safe to send the email.
+# Red X      = something is wrong. Do NOT send the email. Read the FAILED lines.
+
 on:
   push:
     branches: [main]
 
+# Two pushes close together would otherwise update the same server folder at the
+# same moment and leave it half-updated. This makes the second one wait its turn.
+# A deploy is never cancelled halfway, because that would leave the server in an
+# unknown state.
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
-      - name: Deploy to EC2
+      # Needed so the checks below can compare the live site against the exact
+      # files in this update, byte for byte.
+      - name: Get the files that should go live
+        uses: actions/checkout@v4
+
+      - name: Copy the files to the web server
         uses: appleboy/ssh-action@v1.0.3
+        env:
+          DEPLOY_SHA: ${{ github.sha }}
+          DEPLOY_STAMP: ${{ github.run_id }}-${{ github.run_attempt }}
         with:
           host: ${{ secrets.EC2_HOST }}
           username: ubuntu
           key: ${{ secrets.EC2_SSH_KEY }}
           command_timeout: 10m
+          # These two values are handed over as environment variables and are
+          # never pasted into the script text. This repo is public, so nothing
+          # from a commit message or a branch name can ever become a command.
+          envs: DEPLOY_SHA,DEPLOY_STAMP
           script: |
-            set -e
+            # Here we DO want to stop at the first problem, so that nothing is
+            # left half-done on the server.
+            set -euo pipefail
             cd /home/ubuntu/app
-            git fetch origin main
-            git reset --hard origin/main
-            sudo nginx -t
+
+            echo "Step 1 of 5: downloading the new files from GitHub..."
+            if ! git fetch origin main; then
+              echo "FAILED: the server could not download the new files from GitHub."
+              echo "        Nothing changed. The live site is still showing the previous issue."
+              echo "        Do NOT send the newsletter email."
+              exit 1
+            fi
+
+            echo "Step 2 of 5: making sure this is the newest update..."
+            if ! git cat-file -e "$DEPLOY_SHA^{commit}" 2>/dev/null; then
+              echo "FAILED: the update you pushed never arrived on the server."
+              echo "        The live site is still showing the previous issue."
+              echo "        Do NOT send the newsletter email."
+              exit 1
+            fi
+            LATEST="$(git rev-parse origin/main)"
+            if [ "$LATEST" != "$DEPLOY_SHA" ]; then
+              echo "FAILED: a newer update has already been pushed, so this older one is"
+              echo "        not being published - that would put the website back in time."
+              echo "        Look at the deploy for the newest update instead."
+              echo "        Do NOT send the newsletter email from this run."
+              exit 1
+            fi
+
+            echo "Step 3 of 5: switching the website folder to this update..."
+            if ! git reset --hard "$DEPLOY_SHA" >/dev/null; then
+              echo "FAILED: the server could not switch the website folder to this update."
+              echo "        The live site may still be showing the previous issue."
+              echo "        Do NOT send the newsletter email."
+              exit 1
+            fi
+
+            echo "Step 4 of 5: checking every file arrived and nothing was altered..."
+            CHANGED="$(git status --porcelain --untracked-files=no)"
+            if [ -n "$CHANGED" ]; then
+              echo "FAILED: the files on the server do not match this update. Some are"
+              echo "        missing, damaged, or were edited directly on the server:"
+              echo "$CHANGED"
+              echo "        Do NOT send the newsletter email."
+              exit 1
+            fi
+            EMPTY=""
+            for f in $(git ls-files); do
+              [ -s "$f" ] || EMPTY="$EMPTY $f"
+            done
+            if [ -n "$EMPTY" ]; then
+              echo "FAILED: these files landed on the server empty:$EMPTY"
+              echo "        Do NOT send the newsletter email."
+              exit 1
+            fi
+            if ! sudo nginx -t; then
+              echo "FAILED: the web server software reported a problem with its own settings."
+              echo "        Do NOT send the newsletter email."
+              exit 1
+            fi
+
+            echo "Step 5 of 5: leaving a note saying which update is now live..."
+            # The next step reads this note back over the internet. That is how it
+            # proves current.startt.ai really is serving this folder.
+            printf '%s %s\n' "$DEPLOY_SHA" "$DEPLOY_STAMP" > deploy-status.tmp
+            mv -f deploy-status.tmp deploy-status.txt
+
+            echo "The server is updated. Now checking the live website..."
+
+      - name: Check the live website is really showing this update
+        env:
+          SITE: https://current.startt.ai
+          DEPLOY_SHA: ${{ github.sha }}
+          DEPLOY_STAMP: ${{ github.run_id }}-${{ github.run_attempt }}
+        run: |
+          # "set +e" is deliberate and important. GitHub normally stops a step at
+          # the first command that fails, but this step is built to collect EVERY
+          # problem and explain them all at the end. Please do not remove it.
+          set +e
+          set -uo pipefail
+
+          SITE="${SITE%/}"
+          FAILURES=0
+          TMP="$(mktemp -d)"
+
+          note() { echo "  $1"; }
+          pass() { echo "PASSED: $1"; }
+          fail() { echo ""; echo "FAILED: $1"; FAILURES=$((FAILURES + 1)); }
+
+          # Cloudflare, the service sitting in front of the website, can hand back
+          # a saved copy of a file for up to 4 hours. Adding a value that has never
+          # been used before to the end of the address forces it to ask the real
+          # server. The nanosecond clock never repeats, so every request is fresh.
+          fresh_url() { printf '%s/%s?cb=%s-%s' "$SITE" "$1" "$DEPLOY_STAMP" "$(date +%s%N)"; }
+
+          # Both helpers download a file and print "<status code> <file type>".
+          # There is no -L, so a redirect shows up as a 3xx code rather than being
+          # quietly followed.
+          get_fresh() {
+            curl -sS -o "$2" -w '%{http_code} %{content_type}' --max-time 30 \
+              --retry 3 --retry-delay 3 --retry-connrefused "$(fresh_url "$1")" || echo "000 none"
+          }
+          get_as_a_reader_sees_it() {
+            curl -sS -o "$2" -w '%{http_code} %{content_type}' --max-time 30 \
+              --retry 3 --retry-delay 3 --retry-connrefused "$SITE/$1" || echo "000 none"
+          }
+          code_of() { echo "$1" | cut -d' ' -f1; }
+
+          # True only for a real Cloudflare block page. Cloudflare also adds a small
+          # invisible script to every healthy page, so this is only ever consulted
+          # once the status code is already known not to be 200.
+          blocked_by_cloudflare() {
+            grep -qi 'Just a moment\|Attention Required\|Enable JavaScript and cookies to continue\|cf-error-details\|Sorry, you have been blocked' "$1" 2>/dev/null
+          }
+
+          # Compares what issue.json says against what the live page shows, ignoring
+          # curly-vs-straight quotes and differences in spacing. It always finishes
+          # cleanly and prints a plain-English problem, or nothing when all is well.
+          cat > "$TMP/check_issue.py" <<'PYEOF'
+          import json, re, sys
+
+          try:
+              meta = json.load(open(sys.argv[1], encoding="utf-8"))
+          except Exception as err:
+              print("the details file %s could not be read (%s)" % (sys.argv[1], err))
+              raise SystemExit(0)
+
+          def norm(text):
+              for a, b in (("’", "'"), ("‘", "'"), ("“", '"'), ("”", '"'),
+                           ("&#39;", "'"), ("&rsquo;", "'"), ("&quot;", '"'), ("&amp;", "&")):
+                  text = text.replace(a, b)
+              return re.sub(r"\s+", " ", text)
+
+          page = norm(open(sys.argv[2], encoding="utf-8", errors="replace").read())
+          problems = []
+          for key in ("week", "headline"):
+              value = str(meta.get(key, "")).strip()
+              if not value:
+                  problems.append('%s has no "%s" line, so the page cannot be checked'
+                                  % (sys.argv[1], key))
+              elif norm(value) not in page:
+                  problems.append('the live page does not show the %s from %s ("%s")'
+                                  % (key, sys.argv[1], value))
+          print(" / ".join(problems))
+          PYEOF
+
+          echo "=========================================================="
+          echo "Checking the live website: $SITE"
+          echo "=========================================================="
+
+          # ---------------------------------------------------------------
+          echo ""
+          echo "Check 1: is the live website serving this update?"
+          # The server just wrote a note naming this exact update. If that note can
+          # be read back through current.startt.ai, then the address really is
+          # serving the folder that was updated.
+          EXPECTED="$DEPLOY_SHA $DEPLOY_STAMP"
+          DEADLINE=$(( $(date +%s) + 120 ))
+          RECEIPT_OK=0
+          LAST_CODE="000"
+          LAST_LINE=""
+          while true; do
+            LAST_CODE="$(code_of "$(get_fresh "deploy-status.txt" "$TMP/receipt.txt")")"
+            if [ "$LAST_CODE" = "200" ]; then
+              LAST_LINE="$(tr -d '\r' < "$TMP/receipt.txt" | head -n 1)"
+              if [ "$LAST_LINE" = "$EXPECTED" ]; then
+                RECEIPT_OK=1
+                break
+              fi
+            fi
+            if [ "$(date +%s)" -ge "$DEADLINE" ]; then
+              break
+            fi
+            note "not showing this update yet, waiting 5 seconds and trying again..."
+            sleep 5
+          done
+
+          if [ "$RECEIPT_OK" = "1" ]; then
+            pass "the live website is serving this update (${DEPLOY_SHA:0:7})."
+          elif [ "$LAST_CODE" != "200" ] && blocked_by_cloudflare "$TMP/receipt.txt"; then
+            fail "we could not check the live website, because Cloudflare blocked this automated check."
+            note "This does not by itself mean the website is broken."
+            note "Open $SITE in a browser to see the real state, and ask whoever manages"
+            note "Cloudflare to let GitHub Actions reach the site."
+          elif [ "$LAST_CODE" = "404" ]; then
+            fail "the live website is not serving the file the server just wrote."
+            note "The files were updated on the server, but $SITE is not showing them,"
+            note "so visitors may be being served from somewhere else entirely."
+          elif [ "$LAST_CODE" != "200" ]; then
+            fail "the live website did not respond properly (status code $LAST_CODE)."
+            note "Wait until $SITE loads correctly before sending anything."
+          else
+            fail "the live website is still showing an older update after waiting 2 minutes."
+            note "Expected: ${DEPLOY_SHA:0:7} (run $DEPLOY_STAMP)"
+            note "Actually showing: ${LAST_LINE:-nothing readable}"
+            note "This is exactly the case where the emailed link shows last week's issue."
+          fi
+
+          # ---------------------------------------------------------------
+          echo ""
+          echo "Check 2: are the images and data files live and identical to this update?"
+          # Everything a reader downloads, except the pages themselves (Cloudflare
+          # adds an invisible script to pages, so those are checked by their content
+          # in Check 4 instead) and files that are only repository housekeeping.
+          ASSETS="$(git ls-files | grep -v -E '^\.|\.html$|^(README\.md|vercel\.json)$' || true)"
+          ASSETS_OK=1
+          if [ -z "$ASSETS" ]; then
+            fail "this update contains no images or data files at all, which should never happen."
+            ASSETS_OK=0
+          fi
+          for f in $ASSETS; do
+            CODE="$(code_of "$(get_fresh "$f" "$TMP/asset.bin")")"
+            if [ "$CODE" != "200" ]; then
+              fail "the file /$f is not available on the live website (status code $CODE)."
+              note "Anything pointing at it, including the newsletter, shows a broken item."
+              ASSETS_OK=0
+            elif [ "$(sha256sum < "$TMP/asset.bin")" != "$(sha256sum < "$f")" ]; then
+              fail "the live website is serving an out-of-date version of /$f."
+              note "The file on the website is not the one in this update."
+              ASSETS_OK=0
+            fi
+          done
+          if [ "$ASSETS_OK" = "1" ]; then
+            pass "all $(echo "$ASSETS" | wc -w | tr -d ' ') images and data files are live and correct."
+          fi
+
+          # ---------------------------------------------------------------
+          echo ""
+          echo "Check 3: will the images inside the newsletter email still load?"
+          # Asked for with no cache-busting, exactly the way an email program asks
+          # for them. Every newsletter ever sent points at these same addresses.
+          EMAIL_IMAGES="$(git ls-files 'email/*.png')"
+          EMAIL_OK=1
+          if [ -z "$EMAIL_IMAGES" ]; then
+            fail "the newsletter images folder (email/) is empty in this update."
+            note "Emails already sent point at those images, so they must never disappear."
+            EMAIL_OK=0
+          fi
+          for f in $EMAIL_IMAGES; do
+            RESULT="$(get_as_a_reader_sees_it "$f" "$TMP/img.bin")"
+            CODE="$(code_of "$RESULT")"
+            TYPE="$(echo "$RESULT" | cut -d' ' -f2)"
+            if [ "$CODE" != "200" ]; then
+              fail "the newsletter image /$f does not load (status code $CODE)."
+              note "Emails already sent point at this exact address, so they break too."
+              EMAIL_OK=0
+            elif [ "${TYPE#image/png}" = "$TYPE" ]; then
+              fail "the newsletter image /$f is being served as '$TYPE' instead of an image."
+              note "Email programs will refuse to display it."
+              EMAIL_OK=0
+            fi
+          done
+          if [ "$EMAIL_OK" = "1" ]; then
+            pass "all newsletter images load correctly."
+          fi
+
+          # ---------------------------------------------------------------
+          echo ""
+          echo "Check 4: do the issue pages open and show the right issue?"
+          # Every folder in this update that holds a page, for example energy/01.
+          ISSUE_DIRS="$(git ls-files '*/index.html' | sed 's|/index\.html$||' | sort)"
+          if [ -z "$ISSUE_DIRS" ]; then
+            fail "this update contains no issue pages at all."
+          fi
+          for d in $ISSUE_DIRS; do
+            CODE="$(code_of "$(get_as_a_reader_sees_it "$d/" "$TMP/issue.html")")"
+            if [ "$CODE" != "200" ]; then
+              if blocked_by_cloudflare "$TMP/issue.html"; then
+                fail "Cloudflare blocked this automated check of $SITE/$d/ (status code $CODE)."
+                note "This does not by itself mean the page is broken. Open it in a browser."
+              else
+                fail "the issue page $SITE/$d/ does not open (status code $CODE)."
+                note "If the newsletter links to this page, readers hit a dead link."
+              fi
+            elif [ ! -f "$d/issue.json" ]; then
+              pass "$SITE/$d/ opens."
+            else
+              PROBLEM="$(python3 "$TMP/check_issue.py" "$d/issue.json" "$TMP/issue.html" 2>&1)"
+              if [ -n "$PROBLEM" ]; then
+                fail "$SITE/$d/ is not showing the issue it should: $PROBLEM"
+                note "The live page looks like an older version of this issue."
+              else
+                pass "$SITE/$d/ opens and shows the correct issue."
+              fi
+            fi
+          done
+
+          # ---------------------------------------------------------------
+          echo ""
+          echo "Check 5: does the front page match the issues in this update?"
+          CODE="$(code_of "$(get_as_a_reader_sees_it "" "$TMP/home.html")")"
+          if [ "$CODE" != "200" ] && blocked_by_cloudflare "$TMP/home.html"; then
+            fail "Cloudflare blocked this automated check of the front page (status code $CODE)."
+            note "This does not by itself mean the site is broken. Open $SITE in a browser."
+          elif [ "$CODE" != "200" ]; then
+            fail "the front page $SITE does not open (status code $CODE)."
+          else
+            # a) every issue in this update must be reachable from the front page.
+            for d in $ISSUE_DIRS; do
+              if grep -qF "/$d/" "$TMP/home.html"; then
+                pass "the front page links to /$d/."
+              else
+                fail "the front page does not link to /$d/, which is part of this update."
+                note "Anyone landing on $SITE will only see the older issues."
+                note "The front page (index.html) most likely still needs updating."
+              fi
+            done
+            # b) every link on the live front page must actually open. This is what
+            #    catches a new issue folder that was written but never uploaded.
+            LINKS="$(grep -oE 'href="/[^"?#]*"' "$TMP/home.html" \
+              | sed 's|^href="||; s|"$||' | grep -v '\.' | grep -v '^/$' | sort -u || true)"
+            LINKS_OK=1
+            for l in $LINKS; do
+              CODE="$(code_of "$(get_as_a_reader_sees_it "${l#/}" "$TMP/link.html")")"
+              if [ "$CODE" != "200" ]; then
+                fail "the front page links to $SITE$l but that page does not open (status code $CODE)."
+                note "Readers clicking it, in the newsletter or on the site, get a dead page."
+                note "The folder for that issue was most likely never included in this update."
+                LINKS_OK=0
+              fi
+            done
+            if [ -n "$LINKS" ] && [ "$LINKS_OK" = "1" ]; then
+              pass "every page linked from the front page opens."
+            fi
+          fi
+
+          # ---------------------------------------------------------------
+          echo ""
+          echo "=========================================================="
+          if [ "$FAILURES" -gt 0 ]; then
+            echo "RESULT: $FAILURES problem(s) found."
+            echo ""
+            echo "The live website is NOT confirmed to be showing this update."
+            echo "Do NOT send the newsletter email until this run passes."
+            echo "Each FAILED line above says exactly what is wrong."
+            echo "=========================================================="
+            exit 1
+          fi
+          echo "RESULT: all checks passed."
+          echo ""
+          echo "$SITE is live and serving this update."
+          echo "It is safe to send the newsletter email."
+          echo "=========================================================="
