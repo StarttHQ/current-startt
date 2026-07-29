@@ -1,7 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>CURRENT by Startt &middot; Energy patent intelligence</title>
-<link rel="icon" href="/favicon.ico" sizes="any">
 <meta name="description" content="A free weekly read of the energy patent record in India and Europe. No registration.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
@@ -54,6 +53,9 @@ p .run{font-weight:600}
 .split7{display:grid;grid-template-columns:7fr 5fr;gap:0 64px;align-items:start;margin-top:34px}
 .cap{font-family:Inter,sans-serif;font-size:12px;line-height:1.45;color:#757575;border-top:1px solid #e0e0e0;padding-top:8px;margin-top:12px}
 .cap.nb{border-top:0;padding-top:12px}
+/* Every table is wrapped in .tbl so a narrow screen can scroll the table
+   on its own instead of widening the whole page. */
+.tbl{max-width:100%}
 table{width:100%;border-collapse:collapse;font-family:Inter,sans-serif;font-size:14px;margin:10px 0 28px}
 th{text-align:left;font-size:11.5px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;padding:9px 12px 9px 0;border-bottom:1px solid #000}
 td{padding:14px 12px 14px 0;border-bottom:1px solid #e0e0e0;vertical-align:top;line-height:1.5}
@@ -80,10 +82,13 @@ footer .w{font-family:Inter,sans-serif;font-size:15px;font-weight:700;letter-spa
 footer p{font-family:Inter,sans-serif;font-size:14px;line-height:1.5;color:#c9c9c9;margin:0 0 6px}
 footer .h{font-family:Inter,sans-serif;font-size:12px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;color:#fff;margin-bottom:10px}
 [hidden]{display:none !important}
-@media(max-width:1000px){.hero,.split,.split7,.kpis,footer .shell{grid-template-columns:1fr;gap:22px}
- h1{font-size:40px} .head{display:grid;grid-template-columns:1fr auto;align-items:center;gap:0 64px;
- padding:38px 0 34px}
-.headr{display:flex;align-items:center;gap:44px}
+@media(max-width:1000px){.hero,.split,.split7,footer .shell{grid-template-columns:1fr;gap:22px}
+ .hero>*,.split>*,.split7>*,.datastrip>*,.tri>*{min-width:0}
+ .kpis{grid-template-columns:1fr 1fr}
+ .kpi:nth-child(odd){padding-left:0} .kpi:nth-child(even){padding-right:0}
+ h1{font-size:40px} .head{display:grid;grid-template-columns:1fr auto;align-items:center;gap:0 32px;
+ padding:30px 0 26px}
+.headr{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:18px 24px}
 .title{font-size:42px} .shell{padding:0 20px} .kpi{border-right:0;border-bottom:1px solid #e0e0e0}
  .toggle{flex-direction:column} .tb{margin:0 0 -1px 0}}
 
@@ -151,8 +156,27 @@ footer .w .glyph{width:24px;height:31px;color:#fff;opacity:.95;flex:none}
 .ai svg{width:18px;height:18px;display:block}
 .ai:hover{background:#000;color:#fff}
 .ai.done{background:#000;color:#fff}
-@media(max-width:1000px){.head{padding:22px 0 20px}
- .headr{flex-direction:column;align-items:flex-start;gap:16px}}
+/* Phones. The header is the only two column thing left above, so it collapses here.
+   Wide tables scroll inside their own box rather than pushing the page sideways. */
+@media(max-width:700px){
+ .head{grid-template-columns:1fr;gap:18px 0;padding:22px 0 20px}
+ .headr{flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:14px}
+ .askbar{width:100%;justify-content:flex-start}
+ .kpis{grid-template-columns:1fr}
+ /* Stacked, every number must start on the same left edge as the body text.
+    The desktop rule zeroes the left padding on the first one only, which is
+    correct in a row and wrong in a column. */
+ .kpi,.kpi:first-child,.kpi:last-child{padding:24px 0 22px 0}
+ .kpi:last-child{border-bottom:0}
+ h1{font-size:33px} .title{font-size:38px}
+ .toggle{width:100%} .tb{flex:1;padding:12px 10px;text-align:center}
+ .tbl{overflow-x:auto;-webkit-overflow-scrolling:touch;min-width:0}
+ .tbl table{font-size:13px;min-width:100%}
+ .tbl td:first-child,.tbl th:first-child{min-width:150px}
+ .datastrip{margin-top:44px}
+ .btns .btn{flex:1 1 auto;text-align:center}
+ .md{inset:0;border-width:0} .mdb{padding:18px 16px;font-size:12px}
+ .toast{left:16px;right:16px;bottom:16px;max-width:none}}
 
 /* what happened, said out loud. A blocked popup otherwise looks like a dead button. */
 .toast{position:fixed;right:24px;bottom:24px;max-width:380px;background:#000;color:#fff;
@@ -189,7 +213,7 @@ footer .w .glyph{width:24px;height:31px;color:#fff;opacity:.95;flex:none}
  <a class="ix" href="/energy/01/">
    <div class="ixn">No. 01</div>
    <div class="ixt">India's energy patents come from campuses, not companies.</div>
-   <div class="ixd">Week of 24/07/2026 &nbsp;&middot;&nbsp; published 2026-07-26</div></a>
+   <div class="ixd">Week of 24/07/2026 &nbsp;&middot;&nbsp; published 2026-07-29</div></a>
  </div>
 </div>
 <footer><div class="shell">
