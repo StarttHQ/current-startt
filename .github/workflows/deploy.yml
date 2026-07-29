@@ -250,7 +250,13 @@ jobs:
           # Everything a reader downloads, except the pages themselves (Cloudflare
           # adds an invisible script to pages, so those are checked by their content
           # in Check 4 instead) and files that are only repository housekeeping.
-          ASSETS="$(git ls-files | grep -v -E '^\.|\.html$|^(README\.md|vercel\.json)$' || true)"
+          #
+          # robots.txt is excluded here for the same reason as the pages: Cloudflare
+          # does not serve ours as written. It puts its own managed block in front of
+          # it, so the file that arrives is always longer than the one we published.
+          # Comparing it letter for letter would fail every single time and mean
+          # nothing. Check 6 checks its contents instead, which is what matters.
+          ASSETS="$(git ls-files | grep -v -E '^\.|\.html$|^(README\.md|vercel\.json|robots\.txt)$' || true)"
           ASSETS_OK=1
           if [ -z "$ASSETS" ]; then
             fail "this update contains no images or data files at all, which should never happen."
@@ -369,6 +375,40 @@ jobs:
             done
             if [ -n "$LINKS" ] && [ "$LINKS_OK" = "1" ]; then
               pass "every page linked from the front page opens."
+            fi
+          fi
+
+          # ---------------------------------------------------------------
+          if [ -f robots.txt ]; then
+            echo ""
+            echo "Check 6: does robots.txt still invite the AI assistants in?"
+            # Cloudflare puts its own block in front of ours, so we check that our
+            # lines survived rather than that the file matches letter for letter.
+            CODE="$(code_of "$(get_fresh "robots.txt" "$TMP/robots.txt")")"
+            if [ "$CODE" != "200" ]; then
+              fail "robots.txt does not load (status code $CODE)."
+              note "Assistants read this file first. Without it they may skip the data files."
+            else
+              MISSING=""
+              for bot in $(grep -iE '^User-agent:' robots.txt | sed 's/^[Uu]ser-agent:[[:space:]]*//' | grep -v '^\*$'); do
+                grep -qiF "$bot" "$TMP/robots.txt" || MISSING="$MISSING $bot"
+              done
+              if [ -n "$MISSING" ]; then
+                fail "robots.txt on the live site is missing these assistants:$MISSING"
+                note "They were in the file we published, so something rewrote it."
+              else
+                pass "robots.txt is live and names every assistant we published."
+              fi
+              # Cloudflare's managed block can say the opposite of ours for the same
+              # assistant. That is a warning, not a failure: the real blocking is the
+              # 403 at Cloudflare's edge, and only a Cloudflare setting fixes either.
+              if grep -qiE '^[[:space:]]*Disallow:[[:space:]]*/[[:space:]]*$' "$TMP/robots.txt"; then
+                note "NOTE: the live robots.txt also contains Disallow rules that we did not"
+                note "      publish. Cloudflare is adding them. Ours are still there, but the"
+                note "      two contradict each other. Turning off Cloudflare's AI bot"
+                note "      blocking removes them, and is the same setting that fixes the"
+                note "      403 those assistants currently get."
+              fi
             fi
           fi
 
