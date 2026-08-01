@@ -310,13 +310,18 @@ jobs:
 
           # ---------------------------------------------------------------
           echo ""
-          echo "Check 4: do the issue pages open and show the right issue?"
-          # Every folder in this update that holds a page, for example energy/01.
-          ISSUE_DIRS="$(git ls-files '*/index.html' | sed 's|/index\.html$||' | sort)"
-          if [ -z "$ISSUE_DIRS" ]; then
-            fail "this update contains no issue pages at all."
+          echo "Check 4: do the pages open and show the right issue?"
+          # PAGE_DIRS is every folder holding a page. ISSUE_DIRS is the subset that are
+          # actual newsletter issues, which we know because an issue carries an
+          # issue.json alongside its page. Standalone pages such as /brief/ are pages
+          # but not issues: they must open, but the front page is not expected to list
+          # them the way it lists every issue.
+          PAGE_DIRS="$(git ls-files '*/index.html' | sed 's|/index\.html$||' | sort)"
+          ISSUE_DIRS="$(git ls-files '*/issue.json' | sed 's|/issue\.json$||' | sort)"
+          if [ -z "$PAGE_DIRS" ]; then
+            fail "this update contains no pages at all."
           fi
-          for d in $ISSUE_DIRS; do
+          for d in $PAGE_DIRS; do
             CODE="$(code_of "$(get_as_a_reader_sees_it "$d/" "$TMP/issue.html")")"
             if [ "$CODE" != "200" ]; then
               if blocked_by_cloudflare "$TMP/issue.html"; then
@@ -349,7 +354,8 @@ jobs:
           elif [ "$CODE" != "200" ]; then
             fail "the front page $SITE does not open (status code $CODE)."
           else
-            # a) every issue in this update must be reachable from the front page.
+            # a) every ISSUE in this update must be reachable from the front page.
+            #    Standalone pages are deliberately not required here.
             for d in $ISSUE_DIRS; do
               if grep -qF "/$d/" "$TMP/home.html"; then
                 pass "the front page links to /$d/."
