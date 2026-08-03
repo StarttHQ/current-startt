@@ -17,13 +17,13 @@ Patent applications published by the official registers in India and Europe and 
 
 | Measure | Value |
 |---|---|
-| Weeks loaded | 17 |
-| Sector records | 2252 |
-| All publications | 42385 |
-| Sector share of everything published | 5.3% |
-| Weekly average | 132.5 |
-| Weekly low and high | 54 to 219 |
-| Normal weekly range, one standard deviation | 98 to 169 |
+| Weeks loaded | 18 |
+| Sector records | 2361 |
+| All publications | 45057 |
+| Sector share of everything published | 5.2% |
+| Weekly average | 131.2 |
+| Weekly low and high | 54 to 216 |
+| Normal weekly range, one standard deviation | 98 to 166 |
 
 ### Weekly series
 
@@ -35,71 +35,72 @@ Patent applications published by the official registers in India and Europe and 
 | 24/04 | 163 | 2862 | 5.7% |
 | 01/05 | 158 | 2695 | 5.9% |
 | 08/05 | 82 | 2083 | 3.9% |
-| 15/05 | 219 | 3247 | 6.7% |
+| 15/05 | 216 | 3247 | 6.7% |
 | 22/05 | 114 | 2397 | 4.8% |
 | 29/05 | 164 | 3056 | 5.4% |
 | 05/06 | 117 | 2433 | 4.8% |
 | 12/06 | 141 | 2782 | 5.1% |
 | 19/06 | 133 | 2237 | 5.9% |
-| 26/06 | 122 | 2407 | 5.1% |
+| 26/06 | 121 | 2407 | 5.0% |
 | 03/07 | 139 | 2676 | 5.2% |
 | 10/07 | 138 | 2746 | 5.0% |
 | 17/07 | 126 | 3107 | 4.1% |
-| 24/07 | 120 | 1971 | 6.1% |
+| 24/07 | 119 | 1971 | 6.0% |
+| 31/07 | 114 | 2672 | 4.3% |
 
 ### Who filed, year to date
 
 | Applicant type | Records | Share | Report week |
 |---|---|---|---|
-| Company | 1074 | 48% | 65 |
-| University or public body | 834 | 38% | 40 |
-| Named individual | 309 | 14% | 15 |
+| Company | 1123 | 48% | 51 |
+| University or public body | 875 | 38% | 44 |
+| Named individual | 328 | 14% | 19 |
 | Unresolved | 35 |  | 0 |
 
 ### Origin
 
 | Measure | Value |
 |---|---|
-| Home applicants | 1255 |
-| Filed in from abroad | 929 |
-| No usable address country | 68 |
+| Home applicants | 1327 |
+| Filed in from abroad | 965 |
+| No usable address country | 69 |
 | Country recovered from the same applicant elsewhere | 7 |
 
 | Applicant country | Records |
 |---|---|
-| India | 1255 |
-| Republic of Korea | 223 |
-| U.S.A | 153 |
-| Japan | 141 |
-| China | 92 |
-| Germany | 59 |
-| France | 47 |
+| India | 1327 |
+| Republic of Korea | 237 |
+| U.S.A | 156 |
+| Japan | 149 |
+| China | 96 |
+| Germany | 60 |
+| France | 49 |
 | U.K | 35 |
-| Netherlands | 25 |
+| Netherlands | 28 |
 | Belgium | 19 |
+| Switzerland | 17 |
 | Italy | 17 |
-| Switzerland | 16 |
 | Denmark | 14 |
 | Finland | 10 |
-| Singapore | 10 |
 | Australia | 9 |
-| Taiwan | 8 |
+| Singapore | 9 |
+| Canada | 8 |
 | Spain | 7 |
+| Taiwan | 7 |
 | Norway | 7 |
-| Canada | 7 |
 | Austria | 7 |
 | Sweden | 7 |
 | Brazil | 4 |
 | Luxembourg | 3 |
 | Malaysia | 2 |
 
-### Home applicants only, 1255 records
+### Home applicants only, 1327 records
 
 | Applicant type | Records | Share |
 |---|---|---|
-| Company | 173 | 14% |
-| University or public body | 795 | 63% |
-| Named individual | 287 | 23% |
+| Company | 188 | 14% |
+| University or public body | 836 | 63% |
+| Named individual | 303 | 23% |
 
 **Largest home companies**
 
@@ -111,131 +112,131 @@ Patent applications published by the official registers in India and Europe and 
 | TVS Motor Company Limited | 5 |
 | BHARAT HEAVY ELECTRICALS LIMITED | 3 |
 | Bharat Petroleum Corporation Limited | 3 |
+| Bosch Global Software Technologies Private | 3 |
+| ENCRATE PRIVATE LIMITED | 3 |
 | Eicher Motors Limited | 3 |
 | GODI INDIA PVT. LTD | 3 |
-| Indian Oil Corporation Limited | 3 |
-| SMART GRID ANALYTICS PRIVATE LIMITED | 3 |
 
 **Largest home institutions**
 
 | Applicant | Records |
 |---|---|
 | SR University | 46 |
-| VELLORE INSTITUTE OF TECHNOLOGY | 31 |
+| VELLORE INSTITUTE OF TECHNOLOGY | 30 |
 | VELLORE INSTITUTE OF TECHNOLOGY, CHENNAI | 17 |
-| INDIAN INSTITUTE OF TECHNOLOGY DELHI | 14 |
+| INDIAN INSTITUTE OF TECHNOLOGY DELHI | 16 |
 | VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI | 14 |
 | SONA COLLEGE OF TECHNOLOGY | 13 |
 | SAGE UNIVERSITY | 12 |
+| INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR | 11 |
 | JIS COLLEGE OF ENGINEERING | 11 |
 | KALASALINGAM ACADEMY OF RESEARCH AND EDUCATION | 11 |
-| INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR | 10 |
 
 **Home applicants by sub sector**
 
 | Sub sector | Total | Company | University or public body | Individual |
 |---|---|---|---|---|
-| Grid & power networks | 444 | 37 | 303 | 104 |
-| Batteries & fuel cells | 252 | 62 | 144 | 46 |
-| PV generation | 157 | 8 | 106 | 43 |
-| Power conversion | 139 | 17 | 99 | 23 |
-| Solar collectors | 86 | 4 | 66 | 16 |
-| PV devices (legacy) | 59 | 1 | 37 | 21 |
-| Electrolysis | 59 | 12 | 37 | 10 |
-| Wind | 55 | 9 | 30 | 16 |
-| Thermal storage | 44 | 7 | 25 | 12 |
-| Gas separation & carbon capture | 43 | 10 | 22 | 11 |
-| Fuels & biofuels | 42 | 6 | 24 | 12 |
-| Combustion | 36 | 7 | 25 | 4 |
-| Solar thermal & other motors | 34 | 3 | 23 | 8 |
-| Supercapacitors | 33 | 0 | 27 | 6 |
-| Synthetic fuels | 27 | 10 | 11 | 6 |
-| Hydro & wave | 21 | 1 | 13 | 7 |
-| PV devices | 16 | 1 | 13 | 2 |
+| Grid & power networks | 470 | 41 | 318 | 111 |
+| Batteries & fuel cells | 261 | 64 | 150 | 47 |
+| PV generation | 162 | 10 | 107 | 45 |
+| Power conversion | 148 | 17 | 108 | 23 |
+| Solar collectors | 91 | 5 | 68 | 18 |
+| Electrolysis | 61 | 12 | 39 | 10 |
+| PV devices (legacy) | 60 | 1 | 37 | 22 |
+| Wind | 57 | 9 | 32 | 16 |
+| Fuels & biofuels | 47 | 9 | 25 | 13 |
+| Thermal storage | 46 | 7 | 25 | 14 |
+| Gas separation & carbon capture | 45 | 10 | 24 | 11 |
+| Solar thermal & other motors | 40 | 5 | 27 | 8 |
+| Combustion | 40 | 8 | 26 | 6 |
+| Supercapacitors | 37 | 1 | 30 | 6 |
+| Synthetic fuels | 29 | 11 | 12 | 6 |
+| Hydro & wave | 22 | 1 | 14 | 7 |
+| PV devices | 13 | 1 | 10 | 2 |
 | Hydrogen | 13 | 2 | 8 | 3 |
 | Nuclear | 9 | 2 | 4 | 3 |
-| Steam | 6 | 2 | 1 | 3 |
+| Steam | 8 | 2 | 2 | 4 |
 | Hydro plant | 5 | 0 | 4 | 1 |
 
 ### Largest filers in from abroad
 
 | Applicant | Records |
 |---|---|
-| LG ENERGY SOLUTION, LTD. | 185 |
-| NINGDE AMPEREX TECHNOLOGY LIMITED | 21 |
+| LG ENERGY SOLUTION, LTD. | 196 |
+| NINGDE AMPEREX TECHNOLOGY LIMITED | 22 |
 | AESC JAPAN LTD. | 20 |
+| PANASONIC INTELLECTUAL PROPERTY MANAGEMENT | 16 |
 | IFP ENERGIES NOUVELLES | 15 |
 | GE VERNOVA INFRASTRUCTURE TECHNOLOGY LLC | 12 |
-| PANASONIC INTELLECTUAL PROPERTY MANAGEMENT | 12 |
 | UOP LLC | 12 |
 | Xiamen Hithium Energy Storage Technology | 11 |
+| HANWHA SOLUTIONS CORPORATION | 10 |
 | POSCO HOLDINGS INC. | 10 |
-| UMICORE | 10 |
 
 ### Sub sectors, year to date
 
 | Sub sector | Records | Share | Report week | Company | University or public body | Individual |
 |---|---|---|---|---|---|---|
-| Batteries & fuel cells | 718 | 31.9% | 38 | 510 | 150 | 47 |
-| Grid & power networks | 564 | 25.0% | 28 | 133 | 311 | 109 |
-| PV generation | 190 | 8.4% | 11 | 33 | 109 | 46 |
-| Power conversion | 183 | 8.1% | 12 | 54 | 103 | 23 |
-| Wind | 110 | 4.9% | 8 | 62 | 30 | 17 |
-| Synthetic fuels | 107 | 4.8% | 11 | 85 | 13 | 8 |
-| Gas separation & carbon capture | 107 | 4.8% | 8 | 65 | 26 | 14 |
-| Electrolysis | 106 | 4.7% | 8 | 52 | 42 | 11 |
-| Solar collectors | 99 | 4.4% | 5 | 15 | 67 | 16 |
-| PV devices (legacy) | 77 | 3.4% | 3 | 15 | 39 | 21 |
-| Thermal storage | 64 | 2.8% | 0 | 23 | 27 | 13 |
-| Fuels & biofuels | 57 | 2.5% | 1 | 18 | 24 | 14 |
-| Supercapacitors | 54 | 2.4% | 2 | 18 | 29 | 6 |
-| Combustion | 54 | 2.4% | 3 | 22 | 27 | 5 |
-| Hydrogen | 44 | 2.0% | 1 | 30 | 10 | 4 |
-| Solar thermal & other motors | 39 | 1.7% | 2 | 5 | 24 | 9 |
-| PV devices | 36 | 1.6% | 3 | 18 | 14 | 2 |
-| Hydro & wave | 28 | 1.2% | 1 | 5 | 14 | 9 |
+| Batteries & fuel cells | 746 | 31.6% | 28 | 531 | 156 | 48 |
+| Grid & power networks | 592 | 25.1% | 29 | 139 | 326 | 116 |
+| PV generation | 198 | 8.4% | 8 | 38 | 110 | 48 |
+| Power conversion | 195 | 8.3% | 12 | 57 | 112 | 23 |
+| Electrolysis | 112 | 4.7% | 6 | 55 | 44 | 12 |
+| Wind | 112 | 4.7% | 2 | 62 | 32 | 17 |
+| Synthetic fuels | 111 | 4.7% | 4 | 88 | 14 | 8 |
+| Gas separation & carbon capture | 110 | 4.7% | 3 | 66 | 28 | 14 |
+| Solar collectors | 105 | 4.4% | 6 | 17 | 69 | 18 |
+| PV devices (legacy) | 78 | 3.3% | 1 | 15 | 39 | 22 |
+| Thermal storage | 68 | 2.9% | 4 | 24 | 27 | 16 |
+| Fuels & biofuels | 62 | 2.6% | 5 | 21 | 25 | 15 |
+| Supercapacitors | 58 | 2.5% | 4 | 19 | 32 | 6 |
+| Combustion | 58 | 2.5% | 4 | 23 | 28 | 7 |
+| Solar thermal & other motors | 46 | 1.9% | 7 | 7 | 28 | 10 |
+| Hydrogen | 45 | 1.9% | 1 | 31 | 10 | 4 |
+| PV devices | 33 | 1.4% | 1 | 18 | 11 | 2 |
+| Hydro & wave | 29 | 1.2% | 1 | 5 | 15 | 9 |
 | Nuclear | 21 | 0.9% | 0 | 12 | 5 | 4 |
-| Steam | 11 | 0.5% | 0 | 7 | 1 | 3 |
+| Steam | 13 | 0.6% | 2 | 7 | 2 | 4 |
 
 ### Sub sector weekly history
 
-| Sub sector | 03/04 | 10/04 | 17/04 | 24/04 | 01/05 | 08/05 | 15/05 | 22/05 | 29/05 | 05/06 | 12/06 | 19/06 | 26/06 | 03/07 | 10/07 | 17/07 | 24/07 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Batteries & fuel cells | 17 | 23 | 65 | 56 | 37 | 18 | 90 | 29 | 43 | 28 | 41 | 62 | 56 | 32 | 54 | 29 | 38 |
-| Grid & power networks | 14 | 36 | 31 | 35 | 54 | 24 | 54 | 36 | 39 | 35 | 33 | 20 | 24 | 42 | 24 | 35 | 28 |
-| PV generation | 6 | 10 | 9 | 8 | 19 | 7 | 13 | 12 | 20 | 11 | 17 | 6 | 10 | 12 | 6 | 13 | 11 |
-| Power conversion | 7 | 11 | 12 | 10 | 10 | 6 | 14 | 5 | 16 | 12 | 11 | 10 | 10 | 14 | 15 | 8 | 12 |
-| Wind | 3 | 3 | 9 | 7 | 2 | 6 | 17 | 4 | 9 | 4 | 7 | 4 | 1 | 12 | 7 | 7 | 8 |
-| Synthetic fuels | 0 | 6 | 4 | 8 | 12 | 3 | 3 | 7 | 10 | 6 | 8 | 3 | 4 | 8 | 9 | 5 | 11 |
-| Gas separation & carbon capture | 3 | 4 | 2 | 11 | 6 | 5 | 10 | 7 | 9 | 4 | 8 | 6 | 5 | 5 | 8 | 6 | 8 |
-| Electrolysis | 2 | 6 | 3 | 14 | 6 | 4 | 4 | 6 | 4 | 8 | 6 | 5 | 3 | 14 | 7 | 6 | 8 |
-| Solar collectors | 3 | 2 | 3 | 5 | 9 | 8 | 13 | 3 | 11 | 6 | 7 | 6 | 5 | 2 | 3 | 8 | 5 |
-| PV devices (legacy) | 2 | 2 | 6 | 4 | 8 | 2 | 3 | 9 | 4 | 5 | 2 | 6 | 4 | 6 | 3 | 8 | 3 |
-| Thermal storage | 0 | 3 | 4 | 5 | 6 | 3 | 3 | 1 | 9 | 3 | 7 | 6 | 1 | 2 | 7 | 4 | 0 |
-| Fuels & biofuels | 1 | 2 | 3 | 4 | 3 | 1 | 4 | 3 | 6 | 4 | 5 | 4 | 2 | 5 | 5 | 4 | 1 |
-| Supercapacitors | 2 | 5 | 2 | 7 | 1 | 3 | 1 | 3 | 6 | 1 | 3 | 7 | 1 | 3 | 2 | 5 | 2 |
-| Combustion | 1 | 8 | 3 | 6 | 2 | 3 | 3 | 2 | 0 | 4 | 3 | 3 | 1 | 5 | 5 | 2 | 3 |
-| Hydrogen | 0 | 3 | 2 | 4 | 2 | 5 | 2 | 6 | 3 | 1 | 2 | 2 | 4 | 3 | 2 | 2 | 1 |
-| Solar thermal & other motors | 0 | 1 | 3 | 0 | 2 | 0 | 7 | 2 | 3 | 1 | 1 | 2 | 2 | 6 | 4 | 3 | 2 |
-| PV devices | 2 | 1 | 0 | 0 | 1 | 1 | 12 | 2 | 2 | 3 | 3 | 1 | 3 | 0 | 1 | 1 | 3 |
-| Hydro & wave | 1 | 1 | 2 | 3 | 3 | 1 | 3 | 1 | 0 | 2 | 3 | 0 | 2 | 0 | 4 | 1 | 1 |
-| Nuclear | 1 | 2 | 3 | 2 | 2 | 1 | 2 | 1 | 3 | 0 | 0 | 3 | 1 | 0 | 0 | 0 | 0 |
-| Steam | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 3 | 0 | 0 | 2 | 0 | 1 | 0 |
+| Sub sector | 03/04 | 10/04 | 17/04 | 24/04 | 01/05 | 08/05 | 15/05 | 22/05 | 29/05 | 05/06 | 12/06 | 19/06 | 26/06 | 03/07 | 10/07 | 17/07 | 24/07 | 31/07 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Batteries & fuel cells | 17 | 23 | 65 | 56 | 37 | 18 | 90 | 29 | 43 | 28 | 41 | 62 | 56 | 32 | 54 | 29 | 38 | 28 |
+| Grid & power networks | 14 | 36 | 31 | 35 | 54 | 24 | 54 | 36 | 39 | 35 | 33 | 20 | 24 | 42 | 24 | 35 | 27 | 29 |
+| PV generation | 6 | 10 | 9 | 8 | 19 | 7 | 13 | 12 | 20 | 11 | 17 | 6 | 10 | 12 | 6 | 13 | 11 | 8 |
+| Power conversion | 7 | 11 | 12 | 10 | 10 | 6 | 14 | 5 | 16 | 12 | 11 | 10 | 10 | 14 | 15 | 8 | 12 | 12 |
+| Electrolysis | 2 | 6 | 3 | 14 | 6 | 4 | 4 | 6 | 4 | 8 | 6 | 5 | 3 | 14 | 7 | 6 | 8 | 6 |
+| Wind | 3 | 3 | 9 | 7 | 2 | 6 | 17 | 4 | 9 | 4 | 7 | 4 | 1 | 12 | 7 | 7 | 8 | 2 |
+| Synthetic fuels | 0 | 6 | 4 | 8 | 12 | 3 | 3 | 7 | 10 | 6 | 8 | 3 | 4 | 8 | 9 | 5 | 11 | 4 |
+| Gas separation & carbon capture | 3 | 4 | 2 | 11 | 6 | 5 | 10 | 7 | 9 | 4 | 8 | 6 | 5 | 5 | 8 | 6 | 8 | 3 |
+| Solar collectors | 3 | 2 | 3 | 5 | 9 | 8 | 13 | 3 | 11 | 6 | 7 | 6 | 5 | 2 | 3 | 8 | 5 | 6 |
+| PV devices (legacy) | 2 | 2 | 6 | 4 | 8 | 2 | 3 | 9 | 4 | 5 | 2 | 6 | 4 | 6 | 3 | 8 | 3 | 1 |
+| Thermal storage | 0 | 3 | 4 | 5 | 6 | 3 | 3 | 1 | 9 | 3 | 7 | 6 | 1 | 2 | 7 | 4 | 0 | 4 |
+| Fuels & biofuels | 1 | 2 | 3 | 4 | 3 | 1 | 4 | 3 | 6 | 4 | 5 | 4 | 2 | 5 | 5 | 4 | 1 | 5 |
+| Supercapacitors | 2 | 5 | 2 | 7 | 1 | 3 | 1 | 3 | 6 | 1 | 3 | 7 | 1 | 3 | 2 | 5 | 2 | 4 |
+| Combustion | 1 | 8 | 3 | 6 | 2 | 3 | 3 | 2 | 0 | 4 | 3 | 3 | 1 | 5 | 5 | 2 | 3 | 4 |
+| Solar thermal & other motors | 0 | 1 | 3 | 0 | 2 | 0 | 7 | 2 | 3 | 1 | 1 | 2 | 2 | 6 | 4 | 3 | 2 | 7 |
+| Hydrogen | 0 | 3 | 2 | 4 | 2 | 5 | 2 | 6 | 3 | 1 | 2 | 2 | 4 | 3 | 2 | 2 | 1 | 1 |
+| PV devices | 2 | 1 | 0 | 0 | 1 | 1 | 9 | 2 | 2 | 3 | 3 | 1 | 2 | 0 | 1 | 1 | 3 | 1 |
+| Hydro & wave | 1 | 1 | 2 | 3 | 3 | 1 | 3 | 1 | 0 | 2 | 3 | 0 | 2 | 0 | 4 | 1 | 1 | 1 |
+| Nuclear | 1 | 2 | 3 | 2 | 2 | 1 | 2 | 1 | 3 | 0 | 0 | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Steam | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 3 | 0 | 0 | 2 | 0 | 1 | 0 | 2 |
 
 ### Most active applicants, year to date
 
 | Applicant | Records |
 |---|---|
-| LG ENERGY SOLUTION, LTD. | 185 |
+| LG ENERGY SOLUTION, LTD. | 196 |
 | SR University | 46 |
-| VELLORE INSTITUTE OF TECHNOLOGY | 31 |
-| NINGDE AMPEREX TECHNOLOGY LIMITED | 21 |
+| VELLORE INSTITUTE OF TECHNOLOGY | 30 |
+| NINGDE AMPEREX TECHNOLOGY LIMITED | 22 |
 | AESC JAPAN LTD. | 20 |
 | VELLORE INSTITUTE OF TECHNOLOGY, CHENNAI | 17 |
+| INDIAN INSTITUTE OF TECHNOLOGY DELHI | 16 |
+| PANASONIC INTELLECTUAL PROPERTY MANAGEMENT | 16 |
 | IFP ENERGIES NOUVELLES | 15 |
-| INDIAN INSTITUTE OF TECHNOLOGY DELHI | 14 |
 | VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI | 14 |
-| SONA COLLEGE OF TECHNOLOGY | 13 |
 
 ## Europe
 
@@ -243,87 +244,88 @@ Patent applications published by the official registers in India and Europe and 
 
 | Measure | Value |
 |---|---|
-| Weeks loaded | 17 |
-| Sector records | 9634 |
-| All publications | 109803 |
-| Sector share of everything published | 8.8% |
-| Weekly average | 566.7 |
-| Weekly low and high | 411 to 736 |
-| Normal weekly range, one standard deviation | 491 to 662 |
+| Weeks loaded | 18 |
+| Sector records | 10078 |
+| All publications | 116044 |
+| Sector share of everything published | 8.7% |
+| Weekly average | 559.9 |
+| Weekly low and high | 408 to 731 |
+| Normal weekly range, one standard deviation | 471 to 653 |
 
 ### Weekly series
 
 | Week | Sector records | All publications | Sector share |
 |---|---|---|---|
-| 01/04 | 513 | 5916 | 8.7% |
-| 08/04 | 704 | 8243 | 8.5% |
-| 15/04 | 548 | 6346 | 8.6% |
-| 22/04 | 567 | 6763 | 8.4% |
-| 29/04 | 675 | 7390 | 9.1% |
-| 06/05 | 670 | 8438 | 7.9% |
-| 13/05 | 484 | 5752 | 8.4% |
-| 20/05 | 496 | 6260 | 7.9% |
-| 27/05 | 537 | 6132 | 8.8% |
-| 03/06 | 483 | 5444 | 8.9% |
-| 10/06 | 543 | 5986 | 9.1% |
-| 17/06 | 553 | 6228 | 8.9% |
-| 24/06 | 672 | 6852 | 9.8% |
-| 01/07 | 736 | 6872 | 10.7% |
-| 08/07 | 586 | 6023 | 9.7% |
-| 15/07 | 456 | 5391 | 8.5% |
-| 22/07 | 411 | 5767 | 7.1% |
+| 01/04 | 507 | 5916 | 8.6% |
+| 08/04 | 697 | 8243 | 8.5% |
+| 15/04 | 540 | 6346 | 8.5% |
+| 22/04 | 565 | 6763 | 8.4% |
+| 29/04 | 669 | 7390 | 9.1% |
+| 06/05 | 667 | 8438 | 7.9% |
+| 13/05 | 483 | 5752 | 8.4% |
+| 20/05 | 492 | 6260 | 7.9% |
+| 27/05 | 535 | 6132 | 8.7% |
+| 03/06 | 478 | 5444 | 8.8% |
+| 10/06 | 536 | 5986 | 9.0% |
+| 17/06 | 550 | 6228 | 8.8% |
+| 24/06 | 667 | 6852 | 9.7% |
+| 01/07 | 731 | 6872 | 10.6% |
+| 08/07 | 581 | 6023 | 9.6% |
+| 15/07 | 451 | 5391 | 8.4% |
+| 22/07 | 408 | 5767 | 7.1% |
+| 29/07 | 521 | 6241 | 8.3% |
 
 ### Who filed, year to date
 
 | Applicant type | Records | Share | Report week |
 |---|---|---|---|
-| Company | 9062 | 94% | 382 |
-| University or public body | 412 | 4% | 24 |
-| Named individual | 160 | 2% | 5 |
+| Company | 9483 | 94% | 490 |
+| University or public body | 430 | 4% | 26 |
+| Named individual | 165 | 2% | 5 |
 | Unresolved | 0 |  | 0 |
 
 ### Origin
 
 | Measure | Value |
 |---|---|
-| Home applicants | 42 |
-| Filed in from abroad | 9592 |
+| Home applicants | 43 |
+| Filed in from abroad | 10035 |
 | No usable address country | 0 |
 | Country recovered from the same applicant elsewhere | 0 |
 
 | Applicant country | Records |
 |---|---|
-| KR | 2212 |
-| CN | 1402 |
-| US | 1257 |
-| JP | 1110 |
-| DE | 904 |
-| FR | 525 |
-| GB | 226 |
-| DK | 224 |
-| CH | 213 |
-| NL | 185 |
-| IT | 174 |
-| HK | 147 |
-| ES | 135 |
-| CA | 115 |
-| AT | 110 |
-| SE | 97 |
-| TW | 92 |
-| BE | 62 |
+| KR | 2318 |
+| CN | 1457 |
+| US | 1335 |
+| JP | 1130 |
+| DE | 984 |
+| FR | 542 |
+| DK | 235 |
+| GB | 230 |
+| CH | 220 |
+| NL | 193 |
+| IT | 180 |
+| HK | 152 |
+| ES | 141 |
+| CA | 120 |
+| AT | 117 |
+| SE | 103 |
+| TW | 91 |
+| BE | 63 |
 | FI | 53 |
-| IN | 42 |
-| NO | 35 |
-| SG | 34 |
-| AU | 34 |
+| IN | 43 |
+| NO | 38 |
+| AU | 36 |
+| SG | 35 |
 | IL | 33 |
-| IE | 24 |
+| IE | 25 |
 
-### Home applicants only, 42 records
+### Home applicants only, 43 records
 
 | Applicant type | Records | Share |
 |---|---|---|
-| Company | 33 | 79% |
+| Company | 34 | 79% |
 | University or public body | 4 | 9% |
 | Named individual | 5 | 12% |
 
@@ -334,9 +336,9 @@ Patent applications published by the official registers in India and Europe and 
 | TVS Motor Company Limited | 7 |
 | Tata Consultancy Services Limited | 5 |
 | Attero Recycling Pvt. Ltd. | 4 |
+| Indian Oil Corporation Limited | 3 |
 | Ola Electric Mobility Limited | 3 |
 | Hindustan Petroleum Corporation Limited | 2 |
-| Indian Oil Corporation Limited | 2 |
 | Nash Energy (I) Private Limited | 2 |
 | Dish Network Technologies India Private | 1 |
 | Dorf-Ketal Chemicals India Limited | 1 |
@@ -355,7 +357,7 @@ Patent applications published by the official registers in India and Europe and 
 | Sub sector | Total | Company | University or public body | Individual |
 |---|---|---|---|---|
 | Batteries & fuel cells | 19 | 16 | 2 | 1 |
-| Gas separation & carbon capture | 8 | 6 | 1 | 1 |
+| Gas separation & carbon capture | 9 | 7 | 1 | 1 |
 | Synthetic fuels | 5 | 5 | 0 | 0 |
 | Grid & power networks | 2 | 2 | 0 | 0 |
 | Wind | 2 | 1 | 0 | 1 |
@@ -372,92 +374,92 @@ Patent applications published by the official registers in India and Europe and 
 
 | Applicant | Records |
 |---|---|
-| LG Energy Solution, Ltd. | 1185 |
-| Contemporary Amperex Technology Co., Limited | 419 |
-| SAMSUNG SDI CO., LTD. | 407 |
-| Panasonic Intellectual Property Management | 151 |
-| SK On Co., Ltd. | 141 |
-| Ningde Amperex Technology Limited | 118 |
-| TOYOTA JIDOSHA KABUSHIKI KAISHA | 104 |
-| Samsung Electronics Co., Ltd. | 75 |
-| Siemens Gamesa Renewable Energy A/S | 72 |
-| Siemens Energy Global GmbH & Co. KG | 66 |
+| LG Energy Solution, Ltd. | 1227 |
+| SAMSUNG SDI CO., LTD. | 434 |
+| Contemporary Amperex Technology Co., Limited | 428 |
+| Panasonic Intellectual Property Management | 154 |
+| SK On Co., Ltd. | 143 |
+| Ningde Amperex Technology Limited | 119 |
+| TOYOTA JIDOSHA KABUSHIKI KAISHA | 106 |
+| Samsung Electronics Co., Ltd. | 81 |
+| Siemens Energy Global GmbH & Co. KG | 74 |
+| Siemens Gamesa Renewable Energy A/S | 73 |
 
 ### Sub sectors, year to date
 
 | Sub sector | Records | Share | Report week | Company | University or public body | Individual |
 |---|---|---|---|---|---|---|
-| Batteries & fuel cells | 4635 | 48.1% | 179 | 4493 | 123 | 19 |
-| Grid & power networks | 1206 | 12.5% | 55 | 1152 | 43 | 11 |
-| Power conversion | 611 | 6.3% | 24 | 584 | 22 | 5 |
-| Wind | 525 | 5.4% | 19 | 495 | 14 | 16 |
-| Gas separation & carbon capture | 472 | 4.9% | 15 | 425 | 30 | 17 |
-| Thermal storage | 436 | 4.5% | 32 | 407 | 12 | 17 |
-| PV devices | 423 | 4.4% | 20 | 363 | 55 | 5 |
-| Combustion | 395 | 4.1% | 12 | 373 | 12 | 10 |
-| Electrolysis | 392 | 4.1% | 15 | 346 | 37 | 9 |
-| Nuclear | 311 | 3.2% | 17 | 249 | 48 | 14 |
-| Synthetic fuels | 293 | 3.0% | 16 | 283 | 7 | 3 |
-| PV generation | 248 | 2.6% | 17 | 215 | 13 | 20 |
-| Hydrogen | 239 | 2.5% | 14 | 213 | 18 | 8 |
-| Fuels & biofuels | 139 | 1.4% | 6 | 128 | 7 | 4 |
-| Solar collectors | 124 | 1.3% | 9 | 106 | 5 | 13 |
-| Supercapacitors | 116 | 1.2% | 4 | 104 | 11 | 1 |
-| Hydro & wave | 63 | 0.7% | 3 | 43 | 4 | 16 |
-| Solar thermal & other motors | 53 | 0.6% | 2 | 41 | 3 | 9 |
+| Batteries & fuel cells | 4849 | 48.1% | 214 | 4705 | 125 | 19 |
+| Grid & power networks | 1288 | 12.8% | 82 | 1232 | 45 | 11 |
+| Power conversion | 654 | 6.5% | 43 | 624 | 25 | 5 |
+| Wind | 554 | 5.5% | 29 | 521 | 16 | 17 |
+| Gas separation & carbon capture | 510 | 5.1% | 38 | 457 | 36 | 17 |
+| Thermal storage | 466 | 4.6% | 30 | 435 | 12 | 19 |
+| Electrolysis | 418 | 4.1% | 26 | 366 | 43 | 9 |
+| Combustion | 416 | 4.1% | 21 | 392 | 13 | 11 |
+| PV devices | 369 | 3.7% | 23 | 313 | 51 | 5 |
+| Nuclear | 325 | 3.2% | 14 | 259 | 52 | 14 |
+| Synthetic fuels | 304 | 3.0% | 11 | 294 | 7 | 3 |
+| PV generation | 267 | 2.6% | 19 | 233 | 13 | 21 |
+| Hydrogen | 254 | 2.5% | 15 | 227 | 19 | 8 |
+| Fuels & biofuels | 148 | 1.5% | 9 | 136 | 8 | 4 |
+| Solar collectors | 133 | 1.3% | 9 | 113 | 6 | 14 |
+| Supercapacitors | 121 | 1.2% | 5 | 109 | 11 | 1 |
+| Hydro & wave | 64 | 0.6% | 1 | 44 | 4 | 16 |
+| Solar thermal & other motors | 61 | 0.6% | 8 | 48 | 3 | 10 |
 | Steam | 50 | 0.5% | 0 | 48 | 1 | 1 |
 | PV devices (legacy) | 21 | 0.2% | 0 | 13 | 7 | 1 |
 
 ### Sub sector weekly history
 
-| Sub sector | 01/04 | 08/04 | 15/04 | 22/04 | 29/04 | 06/05 | 13/05 | 20/05 | 27/05 | 03/06 | 10/06 | 17/06 | 24/06 | 01/07 | 08/07 | 15/07 | 22/07 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Batteries & fuel cells | 230 | 352 | 239 | 277 | 290 | 326 | 235 | 240 | 231 | 222 | 267 | 288 | 333 | 410 | 331 | 185 | 179 |
-| Grid & power networks | 62 | 83 | 73 | 74 | 87 | 71 | 62 | 53 | 64 | 53 | 72 | 71 | 89 | 105 | 66 | 66 | 55 |
-| Power conversion | 26 | 36 | 38 | 43 | 41 | 46 | 22 | 29 | 29 | 34 | 35 | 40 | 43 | 41 | 45 | 39 | 24 |
-| Wind | 48 | 33 | 29 | 36 | 50 | 59 | 24 | 16 | 26 | 15 | 30 | 29 | 40 | 30 | 20 | 21 | 19 |
-| Gas separation & carbon capture | 23 | 38 | 35 | 25 | 33 | 34 | 23 | 32 | 36 | 31 | 24 | 19 | 35 | 20 | 19 | 30 | 15 |
-| Thermal storage | 32 | 28 | 30 | 27 | 36 | 28 | 32 | 17 | 30 | 20 | 19 | 23 | 22 | 19 | 14 | 27 | 32 |
-| PV devices | 28 | 25 | 27 | 15 | 38 | 18 | 19 | 18 | 25 | 26 | 22 | 20 | 34 | 40 | 21 | 27 | 20 |
-| Combustion | 30 | 34 | 29 | 24 | 40 | 18 | 19 | 21 | 30 | 15 | 20 | 20 | 27 | 19 | 22 | 15 | 12 |
-| Electrolysis | 26 | 27 | 28 | 26 | 35 | 26 | 20 | 26 | 29 | 18 | 21 | 19 | 20 | 19 | 22 | 15 | 15 |
-| Nuclear | 11 | 20 | 19 | 17 | 16 | 24 | 13 | 22 | 19 | 21 | 16 | 19 | 20 | 23 | 16 | 18 | 17 |
-| Synthetic fuels | 14 | 24 | 10 | 22 | 17 | 22 | 12 | 18 | 14 | 27 | 13 | 20 | 13 | 17 | 11 | 23 | 16 |
-| PV generation | 10 | 15 | 17 | 15 | 14 | 16 | 14 | 11 | 15 | 12 | 19 | 6 | 20 | 15 | 12 | 20 | 17 |
-| Hydrogen | 6 | 35 | 10 | 8 | 19 | 18 | 9 | 25 | 20 | 12 | 11 | 6 | 13 | 4 | 18 | 11 | 14 |
-| Fuels & biofuels | 4 | 11 | 10 | 7 | 10 | 10 | 4 | 10 | 8 | 10 | 12 | 9 | 15 | 5 | 1 | 7 | 6 |
-| Solar collectors | 5 | 9 | 2 | 7 | 6 | 9 | 9 | 6 | 9 | 6 | 6 | 2 | 10 | 9 | 7 | 13 | 9 |
-| Supercapacitors | 6 | 8 | 8 | 4 | 10 | 6 | 4 | 11 | 5 | 6 | 5 | 8 | 7 | 7 | 11 | 6 | 4 |
-| Hydro & wave | 2 | 3 | 3 | 3 | 6 | 8 | 2 | 2 | 4 | 4 | 3 | 3 | 5 | 2 | 7 | 3 | 3 |
-| Solar thermal & other motors | 3 | 5 | 4 | 5 | 3 | 4 | 5 | 0 | 2 | 2 | 5 | 1 | 4 | 2 | 5 | 1 | 2 |
-| Steam | 7 | 4 | 4 | 3 | 4 | 0 | 2 | 1 | 4 | 5 | 2 | 3 | 1 | 6 | 3 | 1 | 0 |
-| PV devices (legacy) | 2 | 6 | 3 | 4 | 4 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Sub sector | 01/04 | 08/04 | 15/04 | 22/04 | 29/04 | 06/05 | 13/05 | 20/05 | 27/05 | 03/06 | 10/06 | 17/06 | 24/06 | 01/07 | 08/07 | 15/07 | 22/07 | 29/07 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Batteries & fuel cells | 230 | 352 | 239 | 277 | 290 | 326 | 235 | 240 | 231 | 222 | 267 | 288 | 333 | 410 | 331 | 185 | 179 | 214 |
+| Grid & power networks | 62 | 83 | 73 | 74 | 87 | 71 | 62 | 53 | 64 | 53 | 72 | 71 | 89 | 105 | 66 | 66 | 55 | 82 |
+| Power conversion | 26 | 36 | 38 | 43 | 41 | 46 | 22 | 29 | 29 | 34 | 35 | 40 | 43 | 41 | 45 | 39 | 24 | 43 |
+| Wind | 48 | 33 | 29 | 36 | 50 | 59 | 24 | 16 | 26 | 15 | 30 | 29 | 40 | 30 | 20 | 21 | 19 | 29 |
+| Gas separation & carbon capture | 23 | 38 | 35 | 25 | 33 | 34 | 23 | 32 | 36 | 31 | 24 | 19 | 35 | 20 | 19 | 30 | 15 | 38 |
+| Thermal storage | 32 | 28 | 30 | 27 | 36 | 28 | 32 | 17 | 30 | 20 | 19 | 23 | 22 | 19 | 14 | 27 | 32 | 30 |
+| Electrolysis | 26 | 27 | 28 | 26 | 35 | 26 | 20 | 26 | 29 | 18 | 21 | 19 | 20 | 19 | 22 | 15 | 15 | 26 |
+| Combustion | 30 | 34 | 29 | 24 | 40 | 18 | 19 | 21 | 30 | 15 | 20 | 20 | 27 | 19 | 22 | 15 | 12 | 21 |
+| PV devices | 22 | 18 | 19 | 13 | 32 | 15 | 18 | 14 | 23 | 21 | 15 | 17 | 29 | 35 | 16 | 22 | 17 | 23 |
+| Nuclear | 11 | 20 | 19 | 17 | 16 | 24 | 13 | 22 | 19 | 21 | 16 | 19 | 20 | 23 | 16 | 18 | 17 | 14 |
+| Synthetic fuels | 14 | 24 | 10 | 22 | 17 | 22 | 12 | 18 | 14 | 27 | 13 | 20 | 13 | 17 | 11 | 23 | 16 | 11 |
+| PV generation | 10 | 15 | 17 | 15 | 14 | 16 | 14 | 11 | 15 | 12 | 19 | 6 | 20 | 15 | 12 | 20 | 17 | 19 |
+| Hydrogen | 6 | 35 | 10 | 8 | 19 | 18 | 9 | 25 | 20 | 12 | 11 | 6 | 13 | 4 | 18 | 11 | 14 | 15 |
+| Fuels & biofuels | 4 | 11 | 10 | 7 | 10 | 10 | 4 | 10 | 8 | 10 | 12 | 9 | 15 | 5 | 1 | 7 | 6 | 9 |
+| Solar collectors | 5 | 9 | 2 | 7 | 6 | 9 | 9 | 6 | 9 | 6 | 6 | 2 | 10 | 9 | 7 | 13 | 9 | 9 |
+| Supercapacitors | 6 | 8 | 8 | 4 | 10 | 6 | 4 | 11 | 5 | 6 | 5 | 8 | 7 | 7 | 11 | 6 | 4 | 5 |
+| Hydro & wave | 2 | 3 | 3 | 3 | 6 | 8 | 2 | 2 | 4 | 4 | 3 | 3 | 5 | 2 | 7 | 3 | 3 | 1 |
+| Solar thermal & other motors | 3 | 5 | 4 | 5 | 3 | 4 | 5 | 0 | 2 | 2 | 5 | 1 | 4 | 2 | 5 | 1 | 2 | 8 |
+| Steam | 7 | 4 | 4 | 3 | 4 | 0 | 2 | 1 | 4 | 5 | 2 | 3 | 1 | 6 | 3 | 1 | 0 | 0 |
+| PV devices (legacy) | 2 | 6 | 3 | 4 | 4 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
 
 ### Most active applicants, year to date
 
 | Applicant | Records |
 |---|---|
-| LG Energy Solution, Ltd. | 1185 |
-| Contemporary Amperex Technology Co., Limited | 419 |
-| SAMSUNG SDI CO., LTD. | 407 |
-| Panasonic Intellectual Property Management | 151 |
-| SK On Co., Ltd. | 141 |
-| Ningde Amperex Technology Limited | 118 |
-| TOYOTA JIDOSHA KABUSHIKI KAISHA | 104 |
-| Commissariat à l'Energie Atomique et aux | 75 |
-| Samsung Electronics Co., Ltd. | 75 |
-| Siemens Gamesa Renewable Energy A/S | 72 |
+| LG Energy Solution, Ltd. | 1227 |
+| SAMSUNG SDI CO., LTD. | 434 |
+| Contemporary Amperex Technology Co., Limited | 428 |
+| Panasonic Intellectual Property Management | 154 |
+| SK On Co., Ltd. | 143 |
+| Ningde Amperex Technology Limited | 119 |
+| TOYOTA JIDOSHA KABUSHIKI KAISHA | 106 |
+| Samsung Electronics Co., Ltd. | 81 |
+| Commissariat à l'Energie Atomique et aux | 76 |
+| Siemens Energy Global GmbH & Co. KG | 74 |
 
 ## Home against abroad
 
 | Measure | Value |
 |---|---|
-| Home applicant filings at the home office | 1255 |
-| Home applicant filings at the foreign office | 42 |
+| Home applicant filings at the home office | 1327 |
+| Home applicant filings at the foreign office | 43 |
 | Distinct home applicants at the foreign office | 23 |
-| Of those filings, from companies | 33 |
-| Foreign office filings naming a home resident inventor at a foreign employer | 83 |
-| University share at the home office | 37.0% |
+| Of those filings, from companies | 34 |
+| Foreign office filings naming a home resident inventor at a foreign employer | 91 |
+| University share at the home office | 37.1% |
 | University share at the foreign office | 4.3% |
 | Foreign office volume against home office | 4.3 times |
 
@@ -468,10 +470,10 @@ Patent applications published by the official registers in India and Europe and 
 | TVS Motor Company Limited | 7 |
 | Tata Consultancy Services Limited | 5 |
 | Attero Recycling Pvt. Ltd. | 4 |
+| Indian Oil Corporation Limited | 3 |
 | Ola Electric Mobility Limited | 3 |
 | Council of Scientific & Industrial Research | 2 |
 | Hindustan Petroleum Corporation Limited | 2 |
-| Indian Oil Corporation Limited | 2 |
 | Nash Energy (I) Private Limited | 2 |
 | Chairman, Defence Research&Development | 1 |
 | Dish Network Technologies India Private | 1 |
@@ -480,18 +482,18 @@ Patent applications published by the official registers in India and Europe and 
 
 | Applicant | Filings |
 |---|---|
-| General Electric Company | 14 |
+| General Electric Company | 20 |
 | GE Vernova Technology GmbH | 5 |
 | Siemens Gamesa Renewable Energy A/S | 5 |
+| General Electric Renovables España S.L. | 4 |
 | RE Technologies GmbH | 4 |
 | GE VERNOVA RENOVABLES ESPAÑA, S.L. | 3 |
-| General Electric Renovables España S.L. | 3 |
 | Nordex Energy SE & Co. KG | 3 |
 | Schneider Electric IT Corporation | 3 |
 | Hitachi Energy Ltd | 2 |
 | Nextpower LLC | 2 |
 
-## Every energy record, India, financial year to date, 2252 records
+## Every energy record, India, financial year to date, 2361 records
 
 | Week | ID | Type | Applicant | Country | Sub sector | Claims | Title |
 |---|---|---|---|---|---|---|---|
@@ -1270,13 +1272,10 @@ Patent applications published by the official registers in India and Europe and 
 | 15/05 | 202641053973 | individual | C. B. Priya | India | Electrolysis | 10 | NANOSTRUCTURED SELECTIVE COATING FOR ENHANCED THERMAL EFFICIENCY IN SOLAR WATER HEATING SYSTEMS |
 | 15/05 | 202641054075 | institute | Sri Krishna College of Engineering and Technolog | India | Solar thermal & other motors, Solar collecto | 5 | A Bifurcated Latent Heat Thermal Energy Storage Integrated Tandem Solar Dehydration System for High -Density A |
 | 15/05 | 202641054141 | institute | SR University | India | Electrolysis | 8 | A Hierarchical Ternary Electrocatalyst Comprising Zinc Indium Sulfide, Nickel Cobalt Oxide and MXene (Ti3C2Tx) |
-| 15/05 | 202641054232 | institute | VELLORE INSTITUTE OF TECHNOLOGY, CHENNAI | India | PV devices | 10 | INTELLIGENT FRUIT CLASSIFICATION AND SORTING SYSTEM |
 | 15/05 | 202641054359 | institute | Pragati Engineering College | India | Grid & power networks | 10 | A System and Method for Multi -Modal Data Fusion and Context -Aware Intelligence Generation |
 | 15/05 | 202641054509 | institute | Malla Reddy (MR) Deemed to be University | India | Nuclear | 1 | Implementation for modern aspects of entropy generationin magnetizedCarreau -Yasuda nanofluidflow past a stret |
 | 15/05 | 202641054551 | institute | THASSIM BEEVI ABDUL KADER COLLEGE FOR WOMEN | India | Fuels & biofuels | 4 | A METHOD OF SYNTHESISING A PRESERVATIVE AND A PRESERVATIVE THEREOF |
 | 15/05 | 202641054674 | institute | SR UNIVERSITY | India | Power conversion, PV generation | 10 | ADAPTIVE REINFORCEMENT LEARNING -BASED MULTI -SLOPE DROOP CONTROL FOR MICROGRIDS SYSTEM |
-| 15/05 | 202641054730 | institute | Pragati Engineering College | India | PV devices | 10 | System and Method for Real -Time Multi -Modal Data Fusion and Autonomous Decision -Making |
-| 15/05 | 202641054888 | institute | VELLORE INSTITUTE OF TECHNOLOGY | India | PV devices | 10 | SYSTEM AND METHOD FOR CRYPTOGRAPHICALLY CONTROLLED TEMPORAL SYNCHRONIZATION -BASED AUTHENTICATION OF AUDIOVISU |
 | 15/05 | 202641054938 | individual | Dharsana Dharani VG | India | Power conversion | 5 | SOULSYNC: A Privacy -Preserving Multi -Modal Emotional AI Companion |
 | 15/05 | 202641054942 | institute | PPG Institute of Technology | India | Synthetic fuels | 5 | NANOCELLULOSE BASED HEMOSTATIC PATCH FROM BANANA PEEL |
 | 15/05 | 202641054970 | individual | Keerthiga S | India | Power conversion | 6 | A Compact Tri -Band Branch -Line Coupler Using Stepped Impedance Resonators |
@@ -2214,7 +2213,6 @@ Patent applications published by the official registers in India and Europe and 
 | 26/06 | 202441102480 | company | SAINT -GOBAIN GLASS FRANCE | France | Grid & power networks | 18 | A LAMINATED GLAZING STACK WITH INTEGRATED PDLC, AND METHODS OF CONTROLLING AND MANUFACTURING THEREOF |
 | 26/06 | 202441102914 | individual | Dr. Shareefraju J. Ukkund | India | Power conversion | 8 | Bioreactor Apparatus for Controlled Biosynthesis of Nanoparticles |
 | 26/06 | 202441102954 | company | TVS Motor Company Limited | India | Batteries & fuel cells | 10 | AN ENERGY STORAGE DEVICE |
-| 26/06 | 202544114483 | company | PROGRESS Y&Y CORP. | Taiwan | PV devices | 7 | HEAT BONDING MACHINE |
 | 26/06 | 202647058601 | company | P&E POWER&ENERGY GMBH | Germany | Power conversion | 15 | METHOD, COMPUTER PROGRAM AND DEVICE FOR CONTROLLING MULTIPLE UNITS BY MEANS OF A MASTER CONTROLLER |
 | 26/06 | 202647058622 | company | ANDRITZ OY | Finland | Combustion | 21 | A DEVICE AND A METHOD FOR PROVIDING AIR INTO A COMBUSTION FURNACE AND A COMBUSTION FURNACE |
 | 26/06 | 202647074485 | company | NORTHVOLT AB | Sweden | Batteries & fuel cells | 21 | SODIUM ION CELLS WITH HIGH PERFORMANCE |
@@ -2719,7 +2717,6 @@ Patent applications published by the official registers in India and Europe and 
 | 24/07 | 202541004748 | individual | P PRAVEEN KUMAR | India | PV generation, PV devices | 10 | SOLAR POWER BOX - MODULAR COMPACT SOLAR POWER GENERATION SYSTEM WITH LAYERED SOLAR PANELS, LIGHT CONC |
 | 24/07 | 202541005329 | company | SUN Mobility Pte Ltd. | Singapore | Batteries & fuel cells | 20 | Systems and methods for detecting coolant leakage in a thermal management system |
 | 24/07 | 202541005353 | company | SUN Mobility Pte Ltd. | Singapore | Grid & power networks | 12 | A battery dock |
-| 24/07 | 202541005360 | company | SUN Mobility Pte Ltd. | Singapore | Grid & power networks | 10 | A locking unit for a battery charging and interchange station |
 | 24/07 | 202644004468 | company | Shenzhen Hithium Energy Storage Technology Co.,  | China | Batteries & fuel cells | 3 | SAMPLING ASSEMBLY, ENERGY STORAGE DEVICE, AND ENERGY STORAGE SYSTEM |
 | 24/07 | 202644005054 | company | ADVANCED LITHIUM ELECTROCHEMISTRY CO., LTD. | Taiwan | Batteries & fuel cells | 10 | LITHIUM IRON PHOSPHATE PRECURSOR, LITHIUM IRON PHOSPHATE CATHODE MATERIAL WITH HIGH COMPACTION DENSITY, AND MA |
 | 24/07 | 202644005731 | company | Xiamen Hithium Energy Storage Technology Co.,Ltd | China | Batteries & fuel cells | 12 | ENERGY STORAGE CABINET AND ENERGY STORAGE EQUIPMENT |
@@ -2747,8 +2744,122 @@ Patent applications published by the official registers in India and Europe and 
 | 24/07 | 202647088783 | company | QUALCOMM INCORPORATED | U.S.A | Grid & power networks | 20 | MULTI -CAPACITOR ENERGY HARVESTING |
 | 24/07 | 202647089048 | company | ABB SCHWEIZ AG | Switzerland | Grid & power networks, Power conversion | 18 | POWER CONVERSION SYSTEM |
 | 24/07 | 202637083467 | company | THYSSENKRUPP NUCERA AG & CO. KGAA | Germany | Electrolysis, Grid & power networks | 14 | METHOD FOR OPERATING AN ELECTROLYSIS PLANT AND ELECTROLYSIS PLANT |
+| 31/07 | 202511006950 | institute | INDIAN INSTITUTE OF TECHNOLOGY JAMMU | India | Batteries & fuel cells | 9 | A MICROFLUIDIC FUEL CELL DEVICE FOR SUB -FREEZING CONDITIONS AND METHOD OF PREPARATION THEREOF |
+| 31/07 | 202511066864 | company | PRAKRITIK TECHNOENGINEERING PRIVATE LIMITED | India | Solar thermal & other motors | 15 | INTEGRATED ELECTRICITY GENERATION SYSTEM |
+| 31/07 | 202511081079 | company | HARINARAYAN RECYCLERS PRIVATE LIMITED | India | Synthetic fuels | 8 | A CATALYTIC PYROLYSIS METHOD FOR PRODUCING FUEL OIL FROM WASTE PLASTIC |
+| 31/07 | 202611021882 | institute | Indian Institute of Technology (Banaras Hindu Un | India | Power conversion | 10 | TRANSFORMER -LESS SINGLE -SOURCE SWITCHED -CAPACITOR BOOST MULTILEVEL POWER INVERTER |
+| 31/07 | 202611073963 | institute | Chandigarh University | India | Grid & power networks | 10 | SECURED ELEVATING SMART UTILITY COLUMN WITH CONTACTLESS POWER TRANSFER |
+| 31/07 | 202611073759 | company | UPES | India | Supercapacitors | 10 | A BINDER -FREE LASER -INTEGRATED MWCNT/MXENE/LASER -INDUCED GRAPHENE HYBRID ELECTRODE FOR SUPERCAPACITORS AND  |
+| 31/07 | 202611073981 | institute | Chandigarh University | India | Solar collectors | 10 | ROCK -BED HEATED SMART GRID -INDEPENDENT SEED GERMINATION CHAMBER |
+| 31/07 | 202611073982 | institute | Chandigarh University | India | Grid & power networks | 8 | SILICONE -BASED WIRELESS CHARGING MAT FOR PORTABLE COMPUTING DEVICES |
+| 31/07 | 202611074020 | individual | Sumit Kumar | India | Solar collectors, PV generation | 10 | DUAL -AXIS SOLAR TRACKING APPARATUS |
+| 31/07 | 202611074179 | institute | Shree Guru Gobind Singh Tricentenary University | India | Gas separation & carbon capture | 6 | BIO -SYNTHETIC ATMOSPHERIC REMEDIATION DEVICE |
+| 31/07 | 202611074662 | institute | Indian Institute of Technology Kanpur | India | Power conversion | 10 | INDUCTOR -ASSISTED SWITCHED -CAPACITOR MULTILEVEL INVERTER SYSTEM FOR CONVERTING DIRECT CURRENT (DC) POWER INT |
+| 31/07 | 202611074606 | individual | Praduman Amroliya | India | Grid & power networks | 10 | Hybrid Deep Reinforcement Learning Control for Efficient Wideband MIMO -WPT via Dynamic Wave -front Control |
+| 31/07 | 202617071142 | company | CONTEMPORARY AMPEREX TECHNOLOGY CO., LIMITED | China | Batteries & fuel cells | 23 | SODIUM SECONDARY BATTERY AND ELECTRICAL APPARATUS |
+| 31/07 | 202611090747 | institute | Panipat Institute of Engineering and Technology | India | Combustion | 10 | A Smart Cooking Appliance Safety System Based on Flame Detection and Utensil Presence Monitorin g |
+| 31/07 | 202521133911 | institute | Sandip Institute of Technology and Research Cent | India | Power conversion | 6 | A THERMAL ENERGY HARVESTING SYSTEM |
+| 31/07 | 202621051836 | institute | Vishwakarma Institute of Technology | India | PV generation | 7 | A PORTABLE WATER PURIFICATION DEVICE |
+| 31/07 | 202621058380 | institute | Indian Institute of Technology Bombay | India | Fuels & biofuels | 22 | POLYMERIC ADDITIVES FOR IMPROVING LOW TEMPERATURE FLOW PROPERTIES OF CRUDE OIL |
+| 31/07 | 202621057219 | institute | Vishwakarma Institute of Technology | India | Solar thermal & other motors | 6 | A REGENERATIVE ENERGY HARVESTING SYSTEM |
+| 31/07 | 202621060803 | institute | Visvesvaraya National Institute of Technology Na | India | Supercapacitors | 4 | A SOLID -STATE SUPERCAPACITOR DEVICE AND METHOD FOR FABRICATING THEREOF |
+| 31/07 | 202621072408 | institute | INDIAN INSTITUTE OF TECHNOLOGY BOMBAY | India | Electrolysis | 13 | CeO2 -GO HYBRID REINFORCED AROMATIC POLYBENZIMIDAZOLE COMPOSITE MEMBRANE FOR ENHANCED ANION EXCHANGE WATER ELE |
+| 31/07 | 202621072480 | individual | Pratap Jagubhai Makwana | India | Steam, Combustion | 5 | Online solid fuel consumption/ S:F ratio/solid mass ratio monitoring system for all kind of solid fuel/mass fu |
+| 31/07 | 202541091461 | institute | Indian Institute of Technology Hyderabad | India | Solar thermal & other motors, Steam | 10 | PHOTOTHERMAL SUBSTANCE COMPRISING IMIDE -CONTAINING COMPOUND FOR SOLAR STEAM GENERATION, AND DEVICE AND METHOD |
+| 31/07 | 202641080283 | individual | Dr. M PRAKASH | India | Solar collectors, PV generation | 5 | SINGLE AIXS SOLAR PHOTOVOLTAIC PANELS USING A SOLAR TRACKING SYSTEM |
+| 31/07 | 202641083213 | institute | Velammal Engineering College (Autonomous) | India | Synthetic fuels | 10 | LOW -ENERGY CHEMICAL RECYCLING SYSTEM FOR PLASTIC WASTE |
+| 31/07 | 202641087961 | institute | National Institute of Technology Karnataka | India | Hydro & wave | 9 | An Integrated Very Large Floating Structure -based Offshore Renewable Energy Systems |
+| 31/07 | 202641088604 | individual | Dr. T. Brindha | India | Batteries & fuel cells | 3 | ACACIA LEUCOPHLOEA GUM -BASED GEL POLYMER ELECTROLYTE MEMBRANE DOPED WITH POLYVINYL ALCOHOL FOR ENERGY STORAGE |
+| 31/07 | 202641088640 | individual | Mrs. P. Rohini | India | Grid & power networks | 5 | SUB -THRESHOLD ADIBATIC LOGIC CIRCUIT FOR ENERGY HARVESTING IOT DEVICES |
+| 31/07 | 202641088916 | institute | PRESIDENCY UNIVERSITY | India | Wind | 10 | A Window -Integrated Energy Harvesting System and Method Thereof |
+| 31/07 | 202641088979 | company | A VIKRAM (Sole Proprietor trading as M/S VCS ASS | India | Solar thermal & other motors | 7 | PASSIVELY ACTUATED SPLIT -SLEEVE THERMAL MITIGATION ASSEMBLY FOR PRESSURIZED FLUID LOOPS |
+| 31/07 | 202641089052 | individual | L. BALAJI | India | Fuels & biofuels | 1 | A NEW NANO -ENHANCED SYZYGIUM CUMINI BIODIESEL AS A SUSTAINABLE ALTERNATIVE FUEL FOR COMPRESSION IGNITION (CI) |
+| 31/07 | 202641089101 | institute | JEPPIAAR INSTITUTE OF TECHNOLOGY(JIT) | India | Grid & power networks | 10 | NOVEL SYSTEM, DESIGN AND METHOD OF HELIOSYNC - SOLAR ENERGY OPTIMIZATION AND MANAGEMENT |
+| 31/07 | 202641089111 | institute | Mahendra Engineering College | India | Grid & power networks, Power conversion | 1 | An AI -Driven Framework for Optimal Design and Performance Enhancement of DC -DC Converter Topologies in Solar |
+| 31/07 | 202641089313 | institute | Indian Institute of Technology Hyderabad | India | Power conversion | 10 | A HYBRID INVERTER DRIVE SYSTEM FOR A SIX -PHASE INDUCTION MOTOR |
+| 31/07 | 202641089355 | institute | VELLORE INSTITUTE OF TECHNOLOGY, CHENNAI | India | Solar thermal & other motors, Grid & power n | 10 | HYBRID ENERGY HARVESTING SYSTEM AND METHOD THEREOF |
+| 31/07 | 202641089517 | institute | Indian Institute of Technology Madras (IIT Madra | India | Batteries & fuel cells | 17 | Integrated machine for grooving, seaming, and sealing cylindrical cases of variable dimensions and method ther |
+| 31/07 | 202641089688 | institute | SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY | India | Electrolysis | 10 | A DEVICE FOR GENERATING HYDROGEN |
+| 31/07 | 202641089689 | institute | SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY | India | Supercapacitors | 4 | A NANOCOMPOSITE FOR ENERGY STORAGE AND ENVIRONMENTAL APPLICATIONS AND METHOD OF SYNTHESIS THEREOF |
+| 31/07 | 202641089903 | individual | Madhankumar C | India | Combustion | 5 | Intelligent Gas Stove System with Remote Control, Overflow Detection, and Automatic Shut -Off |
+| 31/07 | 202641090108 | company | CLIMOSYS TECHNOLOGIES PRIVATE LIMITED | India | Grid & power networks | 11 | MODULAR SYSTEM AND METHOD FOR POST -HARVEST OPERATIONS OF BIOLOGICAL PRODUCE USING HYBRID ARCHITECTURE |
+| 31/07 | 202641090165 | institute | SRM Institute of Science and Technology (formerl | India | Supercapacitors | 10 | PALMYRA FLOWER -DERIVED ACTIVATED CARBON, PREPARATION THEREOF, AND APPLICATIONS |
+| 31/07 | 202641090601 | individual | Mr. Bathula Srinivas | India | Thermal storage | 10 | HIGH -EFFICIENCY THERMAL ENERGY RECOVERY SYSTEM FOR SMART INDUSTRIAL PROCESS APPLICATIONS |
+| 31/07 | 202641090645 | individual | barri harini | India | PV devices (legacy) | 9 | A high -efficiency inorganic perovskite solar cell comprising a cadmium telluride (CdTe) interfacial layer for |
+| 31/07 | 202641090742 | individual | Sathishkumar Natesan | India | Thermal storage | 7 | A Self -Adaptive Heat Exchanger System Using Variable Geometry Flow Channels for Enhanced Thermal Performance |
+| 31/07 | 202641090849 | individual | Madhankumar C | India | Grid & power networks | 5 | AI -Driven Self -Adaptive Hybrid Thermal Energy Management System for Multi -Source Renewable Power Networks |
+| 31/07 | 202641090855 | institute | Easwari Engineering College | India | Grid & power networks | 7 | Smart Grid Fault Estimation Using Machine Learning |
+| 31/07 | 202641091151 | institute | INDIAN INSTITUTE OF TECHNOLOGY HYDERABAD | India | Batteries & fuel cells | 8 | A CHROMIUM VANADATE BASED NON -AQUEOUS ALUMINIUM ION BATTERY |
+| 31/07 | 202641091384 | institute | SRM Institute of Science and Technology Kattanku | India | Grid & power networks | 6 | CASCADED RENEWABLE -GRID INTEGRATED POWER MANAGEMENT ARCHITECTURE FOR MULTI -APPLICATION ENERGY SYSTEMS |
+| 31/07 | 202641091463 | individual | POKKUNURI PARDHA SARADHI | India | Grid & power networks | 5 | Improved Flower Pollination Algorithm Optimized PI Controller For High Gain Z -Source Boost Converter in RES B |
+| 31/07 | 202641091544 | institute | Presidency University | India | Grid & power networks | 9 | A Utility -Frequency Wireless Power Transmission System Using Laminated Magnetic Core Structures |
+| 31/07 | 202641091545 | institute | PRESIDENCY UNIVERSITY | India | Power conversion | 10 | A Multi -Winding Transformer System for Eleven -Phase Power Conversion and Wireless Transfer |
+| 31/07 | 202641091767 | institute | Sri Sivasubramaniya Nadar College of Engineering | India | Grid & power networks, Power conversion | 10 | Single Switch Hybrid Cascaded Multi Inductor DC -DC Converter with Integrated Dual Independent Output Regulati |
+| 31/07 | 202647089957 | individual | JADEED CLIMAT TECH |  | Electrolysis | 16 | HYBRID HYDROGEN CELL COMBINING A DRY HYDROGEN CELL AND A FLOODED (WET) HYDROGEN CELL |
+| 31/07 | 202531067382 | institute | INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR | India | Gas separation & carbon capture | 18 | AN INTENSIFIED DESUBLIMATION -BASED CRYOGENIC CARBON CAPTURE SYSTEM USING SWIRL FLOW |
+| 31/07 | 202631078598 | institute | NATIONAL INSTITUTE OF TECHNOLOGY SILCHAR | India | Wind | 8 | NON -UNIFORM CROSS -SECTIONAL SHROUDED VERTICAL -AXIS WIND ROTOR FOR URBAN WIND ENERGY HARVESTING |
+| 31/07 | 202631086332 | institute | NARULA INSTITUTE OF TECHNOLOGY | India | Grid & power networks | 9 | “A SELF -POWERED, BATTERY -FREE IOT SENSOR NODE WITH ADAPTIVE MULTI -SOURCE AMBIENT ENERGY HARVESTING AND PRIO |
+| 31/07 | 202631086386 | individual | Swagat Khatai | India | Grid & power networks | 10 | AN INTELLIGENT SMART GRID MONITORING SYSTEM USING BIG DATA ANALYTICS AND MACHINE LEARNING FOR PREDICTIVE EVENT |
+| 31/07 | 202631087644 | institute | KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY (KIIT | India | Grid & power networks | 10 | CENTRALIZED PROTECTION AND MONITORING SYSTEM FOR SUBSTATION AUTOMATION |
+| 31/07 | 202631087648 | institute | KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY (KIIT | India | Grid & power networks | 10 | MICROGRID LOAD FREQUENCY CONTROL SYSTEM WITH TYPE -III FUZZY LOGIC CONTROLLER |
+| 31/07 | 202411103218 | institute | Lovely Professional University, | India | Solar thermal & other motors | 10 | ADAPTIVE NON -NEWTONIAN FLUID SPEED BREAKER WITH INTEGRATED ENERGY HARVESTING SYSTEM |
+| 31/07 | 202411103080 | institute | BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE (BITS) | India | Batteries & fuel cells | 18 | CONDUCTING COPOLYMER FIBER AND A METHOD FOR SYNTHESIS THEREOF |
+| 31/07 | 202411103543 | company | BNYNERGY PRIVATE LIMITED | India | Batteries & fuel cells | 4 | A DEVICE FOR PRODUCTION OF ELECTRICITY FROM PLANTS USING PLANT -MICROBIAL FUEL CELL TECHNOLOGY |
+| 31/07 | 202411104989 | company | HPCL -Mittal Energy Limited | India | Fuels & biofuels | 7 | PROCESS FOR IMPROVING THE QUALITY OF LIGHT AND MIDDLE DISTILLATE PETROLEUM PRODUCTS |
+| 31/07 | 202411104597 | institute | Indian Institute of Technology Delhi | India | Batteries & fuel cells | 10 | A SOLID -GLASS -ELECTROLYTE COATED SODIUM METAL ANODE, METHOD FOR PREPARATION THEREOF, AND A ROOM -TEMPERATURE |
+| 31/07 | 202511000155 | company | Arktik Renewables & Energy Efficiency Private Li | India | Solar collectors | 9 | NANOFLUID ENABLED SOLAR THERMAL CONCENTRATORS |
+| 31/07 | 202511000797 | institute | Indian Institute of Technology Delhi | India | Grid & power networks, Power conversion | 8 | DC -DC CONVERTER FOR INTERFACING A BATTERY BANK WITH A DC MICROGRID |
+| 31/07 | 202414102680 | individual | LIN Chintung | China | Thermal storage | 10 | 3D MICROCRYSTALLINE HEAT DISSIPATION DEVICE |
+| 31/07 | 202511001808 | institute | INDIAN INSTITUTE OF TECHNOLOGY ROPAR | India | Grid & power networks, Power conversion | 11 | A GRID CONNECTED SYSTEM AND METHOD FOR HARMONIC COMPENSATION AND ACTIVE POWER INJECTION |
+| 31/07 | 202511001849 | company | Uno Minda Limited | India | Grid & power networks | 10 | A WIRELESS CHARGING DEVICE FOR CHARGING ELECTRONIC DEVICES |
+| 31/07 | 202511002046 | company | Schneider Electric Systems USA, Inc. | U.S.A | Electrolysis | 20 | A GREEN HYDROGEN PRODUCTION ARTIFICIAL INTELLIGENCE (AI) ASSISTANT |
+| 31/07 | 202511002143 | institute | COER University | India | Grid & power networks | 5 | ARMO SAFE: ADVANCED MILITARY FOOTWEAR FOR ENHANCED SOLDIER SAFETY |
+| 31/07 | 202511002913 | institute | Amity University | India | Batteries & fuel cells | 7 | A method of synthesis of a Fe?N4?O2 Single -Atom Incorporated Wood -Derided N -Doped Anode for Sodium Ion Stor |
+| 31/07 | 202511003012 | individual | ALCEN CLOTHING | India | Grid & power networks | 10 | IOT -BASED RENEWABLE ENERGY STORAGE SYSTEM |
+| 31/07 | 202614001326 | company | L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L | France | Hydrogen | 15 | PROCESS AND APPARATUS FOR REMOVING CO2 FROM A GASIFICATION SYNGAS |
+| 31/07 | 202614000059 | company | Erbe Elektromedizin GmbH | Germany | Grid & power networks, Power conversion | 10 | Generator for operating surgical instruments |
+| 31/07 | 202614000338 | company | Ningde Amperex Technology Limited | China | Batteries & fuel cells | 11 | NON -AQUEOUS ELECTROLYTE, ELECTROCHEMICAL APPARATUS, AND ELECTRONIC APPARATUS |
+| 31/07 | 202614002303 | company | LG ELECTRONICS INC. | Republic of Korea | Power conversion | 14 | POWER CONVERTING APPARATUS AND HOME APPLIANCE INCLUDING THE SAME |
+| 31/07 | 202617000786 | individual | KÁSLER, Árpád | Hungary | Solar thermal & other motors | 23 | SHORT -STROKE HIGH -TORQUE MAGNETIC VIBRATION EXCITATION DEVICE |
+| 31/07 | 202617002217 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 14 | UNIT CELL AND METHOD FOR MANUFACTURING SAME |
+| 31/07 | 202617003455 | company | DCARB CLEANTECH SOLUTIONS CORP. | Canada | Electrolysis | 16 | ELECTROLYSIS SYSTEM |
+| 31/07 | 202617000992 | company | HANWHA SOLUTIONS CORPORATION | Republic of Korea | PV devices | 11 | POST -TREATMENT METHOD FOR PREVENTING CELL DEGRADATION OF PEROVSKITE -BASED SOLAR CELL MODULE AND PEROVSKITE - |
+| 31/07 | 202617001218 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 10 | METHOD FOR MANUFACTURING ELECTRODE AND ELECTRODE MANUFACTURED THEREBY |
+| 31/07 | 202617004387 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 12 | APPARATUS FOR MANUFACTURING ELECTRODE |
+| 31/07 | 202617002792 | company | PANASONIC INTELLECTUAL PROPERTY MANAGEMENT CO.,L | Japan | Batteries & fuel cells | 3 | NON -AQUEOUS ELECTROLYTE SECONDARY BATTERY |
+| 31/07 | 202617070999 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 14 | SECONDARY BATTERY |
+| 31/07 | 202617004098 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 16 | ANODE ACTIVE MATERIAL, METHOD FOR PREPARING SAME, ANODE COMPOSITION, ANODE FOR LITHIUM SECONDARY BATTERY COMPR |
+| 31/07 | 202617003855 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 14 | POSITIVE ELECTRODE AND SECONDARY BATTERY INCLUDING SAME |
+| 31/07 | 202617003862 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 14 | ANODE ACTIVE MATERIAL, ANODE COMPOSITION, LITHIUM SECONDARY BATTERY ANODE COMPRISING SAME, AND LITHIUM SECONDA |
+| 31/07 | 202617073207 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 16 | SECONDARY BATTERY AND METHOD FOR MANUFACTURING SECONDARY BATTERY |
+| 31/07 | 202617076084 | company | STARWARDEN B.V. | Netherlands | Thermal storage | 24 | HEAT PIPE |
+| 31/07 | 202617074062 | company | NIPPON STEEL CORPORATION | Japan | Electrolysis | 8 | STAINLESS STEEL MATERIAL FOR ALKALINE WATER ELECTROLYSIS DEVICE, MEMBER FOR ALKALINE WATER ELECTROLYSIS DEVICE |
+| 31/07 | 202617004641 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 13 | POSITIVE ELECTRODE ACTIVE MATERIAL, METHOD FOR PREPARING SAME, AND POSITIVE ELECTRODE AND LITHI UM SECONDARY B |
+| 31/07 | 202617077111 | company | KANADEVIA CORPORATION | Japan | Batteries & fuel cells | 13 | METHOD FOR MANUFACTURING ALL -SOLID -STATE BATTERY, AND APPARATUS FOR MANUFACTURING ALL -SOLID - STATE BATTERY |
+| 31/07 | 202617076957 | company | NEXTPOWER LLC | U.S.A | Grid & power networks | 36 | FIELD CONFIGURABLE ARRAY OF POWER PROCESSING BLOCKS |
+| 31/07 | 202617077043 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Batteries & fuel cells | 11 | BATTERY MODULE |
+| 31/07 | 202421052322 | company | ENCRATE PRIVATE LIMITED | India | Batteries & fuel cells | 17 | AN IMPROVED ENERGY STORAGE AND MANAGEMENT SYSTEM |
+| 31/07 | 202521005701 | individual | MALAYA RANJAN KHARE | India | Grid & power networks | 10 | A SYSTEM FOR GENERATION OF ELECTRICITY FROM PRESSURE OF WASTE FUMES OF ENGINE |
+| 31/07 | 202421067320 | company | RETROPHIN EMISSION CONTROLS INDIA PVT. LTD. | India | Fuels & biofuels, Combustion | 9 | A SYSTEM FOR EMISSION CONTROL FOR BOILERS |
+| 31/07 | 202523006722 | company | MEERA AITECH SOLUTIONS LLP | India | Grid & power networks | 10 | A SOLAR POWERED STICK |
+| 31/07 | 202523006224 | company | MEERAAITECH SOLUTIONS LLP | India | Grid & power networks, PV generation | 10 | A SOLAR OPERATED AURA BASED SMART SPECS |
+| 31/07 | 202524105399 | company | SK ON CO., LTD. | Republic of Korea | Batteries & fuel cells | 15 | BATTERY CELL, BATTERY MODULE INCLUDING THE SAME, AND METHOD OF MANUFACTURING CELL CASE |
+| 31/07 | 202527015050 | company | ARCTECH SOLAR HOLDING CO., LTD. | China | PV generation | 10 | FLEXIBLE PHOTOVOLTAIC SUPPORT |
+| 31/07 | 202541006196 | company | Bosch Global Software Technologies Private Limit | India | PV generation | 8 | SYSTEM AND METHOD TO OPTIMIZE POWER OUTPUT OF PHOTOVOLTAIC PANELS. |
+| 31/07 | 202647089665 | company | SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ B.V. | Netherlands | Synthetic fuels | 18 | PROCESS FOR PRODUCING FUEL FROM PETROLEUM DERIVED AND RENEWABLE SOURCES |
+| 31/07 | 202647089713 | company | SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ B.V. | Netherlands | Synthetic fuels | 12 | PROCESS FOR PRODUCING FUEL FROM PETROLEUM DERIVED AND RENEWABLE SOURCES |
+| 31/07 | 202647089896 | company | RELIANT SYNERGY INC | U.S.A | PV generation | 20 | SOLAR ENERGY COLLECTOR WITH TRUNCATED PYRAMID CONFIGURATION |
+| 31/07 | 202647090055 | company | PANASONIC INTELLECTUAL PROPERTY MANAGEMENT CO.,L | Japan | Batteries & fuel cells | 9 | POSITIVE ELECTRODE ACTIVE MATERIAL FOR NON -AQUEOUS ELECTROLYTE SECONDARY BATTERY, AND NON - AQUEOUS ELECTROLY |
+| 31/07 | 202647090116 | company | SUMITOMO OSAKA CEMENT CO., LTD. | Japan | Gas separation & carbon capture | 7 | CEMENT FIRING FACILITY AND METHOD FOR PRODUCING CEMENT CLINKER |
+| 31/07 | 202647090586 | company | ABB SCHWEIZ AG | Switzerland | Power conversion | 14 | POWER CONVERSION SYSTEM |
+| 31/07 | 202647090938 | company | PANASONIC INTELLECTUAL PROPERTY MANAGEMENT CO.,L | Japan | Batteries & fuel cells | 8 | POSITIVE ELECTRODE ACTIVE MATERIAL FOR NON -AQUEOUS ELECTROLYTE SECONDARY BATTERY, AND NON - AQUEOUS ELECTROLY |
+| 31/07 | 202647091351 | company | KYOCERA CORPORATION | Japan | Batteries & fuel cells | 10 | NON -AQUEOUS ELECTROLYTE SECONDARY BATTERY |
+| 31/07 | 202647091411 | company | A. RAYMOND ET CIE | France | Solar collectors, PV generation | 16 | FASTENING DEVICE |
+| 31/07 | 202647091518 | company | LG ENERGY SOLUTION, LTD. | Republic of Korea | Grid & power networks | 17 | ENERGY STORAGE SYSTEM, OPERATING METHOD THEREOF, AND CHARGING SYSTEM INCLUDING ENERGY STORAGE SYSTEM |
+| 31/07 | 202647091739 | company | PANASONIC INTELLECTUAL PROPERTY MANAGEMENT CO.,L | Japan | Batteries & fuel cells | 9 | POSITIVE ELECTRODE ACTIVE MATERIAL FOR NON -AQUEOUS ELECTROLYTE SECONDARY BATTERIES, AND NON - AQUEOUS ELECTRO |
+| 31/07 | 202531005805 | company | TATA STEEL LIMITED | India | Fuels & biofuels | 11 | BIOCOKE AS A SUSTAINABLE CARBON REDUCTANT AND METHOD OF PRODUCTION THEREOF |
 
-## Every energy record, Europe, financial year to date, 9634 records
+## Every energy record, Europe, financial year to date, 10078 records
 
 | Week | ID | Type | Applicant | Country | Sub sector | Claims | Title |
 |---|---|---|---|---|---|---|---|
@@ -2758,13 +2869,11 @@ Patent applications published by the official registers in India and Europe and 
 | 01/04 | 17210307.9 | company | Flisom AG | CH | PV devices |  | METHOD FOR MANUFACTURING A COMPOUND FILM WITH COMPOSITIONAL GRADING |
 | 01/04 | 18165514.3 | company | BSH Hausgeräte GmbH | DE | Grid & power networks |  | DEVICE FOR INDUCTIVE ENERGY TRANSFER |
 | 01/04 | 18170442.0 | company | L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L | FR | Gas separation & carbon capture |  | METHOD OF OBTAINING CARBON DIOXIDE FROM A CARBON DIOXIDE-CONTAINING GAS MIXTURE |
-| 01/04 | 18196955.1 | company | InnoCare Optoelectronics Corporation | TW | PV devices |  | PANEL DEVICE AND ELECTRONIC DEVICE |
 | 01/04 | 19157625.5 | company | Nokia Technologies Oy | FI | Grid & power networks |  | MOBILE TERMINAL, POWER ADAPTER, AND UPGRADING METHOD THEREOF |
 | 01/04 | 19159187.4 | company | EBARA CORPORATION | JP | Gas separation & carbon capture, Combustion |  | WET ABATEMENT SYSTEM |
 | 01/04 | 18159041.5 | company | CMBlu Energy AG | DE | Batteries & fuel cells |  | REDOX FLOW BATTERY WITH AT LEAST ONE CELL AND METHOD FOR OPERATING A REDOX FLOW BATTERY |
 | 01/04 | 18166355.0 | company | Wobben Properties GmbH | DE | Wind, Grid & power networks |  | METHOD FOR CONNECTING A POWER TRANSFORMER TO AN ELECTRICAL GRID |
 | 01/04 | 19183699.8 | company | GROUPE ATLANTIC IZMIR RADYATÖR SISTEMLERISÀNAYIV | TR | Thermal storage |  | RADIATOR WITH IMPROVED GEOMETRY |
-| 01/04 | 18707158.4 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | SOLID-STATE IMAGING DEVICE |
 | 01/04 | 18812935.7 | company | Sekisui Chemical Co., Ltd. | JP | Batteries & fuel cells |  | SULFUR-CARBON MATERIAL COMPOSITE BODY, POSITIVE ELECTRODE MATERIAL FOR LITHIUM SULFUR SECONDARY BATTERIES, AND |
 | 01/04 | 18873468.5 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY MODULE COMPRISING BUS BAR ASSEMBLY |
 | 01/04 | 19877536.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY MODULE HAVING PROTECTION STRUCTURE FOR CELL STACK |
@@ -2775,7 +2884,6 @@ Patent applications published by the official registers in India and Europe and 
 | 01/04 | 20173036.3 | company | Carrier Corporation | US | Thermal storage |  | REFRIGERATED DISPLAY CABINET INCLUDING MICROCHANNEL HEAT EXCHANGERS |
 | 01/04 | 19758025.1 | company | KYOCERA AVX Components Corporation | US | Supercapacitors |  | ENCAPSULATED SUPERCAPACITOR MODULE HAVING A HIGH VOLTAGE AND LOW EQUIVALENT SERIES RESISTANCE |
 | 01/04 | 20181662.6 | company | Aptiv Technologies AG | CH | Batteries & fuel cells |  | BOLTED BUS BAR WITH FINGER-PROOFING |
-| 01/04 | 18726811.5 | company | IMASENIC ADVANCED IMAGING, S.L. | ES | PV devices |  | BINNING PIXELS |
 | 01/04 | 19868071.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SULFUR-CARBON COMPOSITE AND MANUFACTURING METHOD THEREFOR |
 | 01/04 | 19886927.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY MODULE |
 | 01/04 | 19863940.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | METHOD FOR PREPARING IRON SULFIDE |
@@ -2800,7 +2908,6 @@ Patent applications published by the official registers in India and Europe and 
 | 01/04 | 20711272.3 | company | Refiniti Limited | GB | Synthetic fuels, Combustion |  | PROCESS OF UPGRADING A PYROLYSIS OIL AND UPGRADING SOLUTION USED THEREIN |
 | 01/04 | 19744833.5 | company | Szegedi Tudományegyetem | HU | Electrolysis |  | MODULAR ELECTROLYZER CELL AND PROCESS TO CONVERT CARBON DIOXIDE TO GASEOUS PRODUCTS AT ELEVATED PRESSURE AND W |
 | 01/04 | 20730069.0 | company | Hahn-Schickard-Gesellschaft für angewandte Forsc | DE | Electrolysis |  | ELECTRICALLY CONDUCTIVE NANOFIBERS FOR A POLYMER MEMBRANE BASED ELECTROLYSIS |
-| 01/04 | 21203805.3 | company | CANON KABUSHIKI KAISHA | JP | PV devices |  | PHOTOELECTRIC CONVERSION APPARATUS AND PHOTOELECTRIC CONVERSION SYSTEM |
 | 01/04 | 21207820.8 | company | Aero Enterprise GmbH | AT | Wind |  | DEVICE AND METHOD FOR INSPECTING POWER GENERATION STRUCTURES |
 | 01/04 | 21199151.8 | company | Deere & Company | US | Power conversion |  | STARTUP PROCESS FOR A DUAL ACTIVE BRIDGE CONVERTER TO PREVENT OVER-VOLTAGE FAILURE AND THERMAL RUN-AWAY |
 | 01/04 | 20914153.0 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | CYLINDRICAL BATTERY AND METHODS FOR MANUFACTURING SUCH CYLINDRICAL BATTERY |
@@ -2905,7 +3012,6 @@ Patent applications published by the official registers in India and Europe and 
 | 01/04 | 24157651.1 | company | Collins Engine Nozzles, Inc. | US | Combustion |  | COMBUSTOR SECTION SUPPORT STRUCTURES |
 | 01/04 | 24157661.0 | company | Collins Engine Nozzles, Inc. | US | Combustion |  | LINE REPLACEABLE FUEL INJECTOR PANELS WITH SINGLE HATCH INSTALLATION |
 | 01/04 | 22901699.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells, Grid & power network |  | SYSTEM AND METHOD FOR MANAGING BATTERY INFORMATION |
-| 01/04 | 24171492.2 | company | Largan Industrial Optics Co., Ltd. | TW | PV devices |  | IMAGING LENS MODULE AND ELECTRONIC DEVICE |
 | 01/04 | 22814306.1 | company | SMS group GmbH | DE | Solar collectors |  | METHOD AND DEVICE FOR REDUCING METAL OXIDE USING A REDUCING GAS OR GAS MIXTURE USING SOLAR THERMAL ENERGY |
 | 01/04 | 22805771.7 | company | VESTAS WIND SYSTEMS A/S | DK | Wind |  | A METHOD FOR REDUCING BLADE FLAP LOADS IN A WIND TURBINE |
 | 01/04 | 22904451.6 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | NOTCHING DEVICE AND CONTROL METHOD THEREOF |
@@ -3123,7 +3229,6 @@ Patent applications published by the official registers in India and Europe and 
 | 01/04 | 25200513.7 | company | LG Energy Solution, Ltd. | KR | Nuclear |  | INTEGRATED ISOTOPE BATTERY |
 | 01/04 | 25196713.9 | company | Allegro MicroSystems, LLC | US | Grid & power networks |  | WIRELESS POWER TRANSMISSION WITH CHANNEL REDUNDANCY |
 | 01/04 | 25197269.1 | company | Prime Planet Energy & Solutions, Inc. | JP | Supercapacitors, Batteries & fuel cells |  | ELECTRICAL ENERGY STORAGE DEVICE AND MANUFACTURING METHOD FOR THE SAME |
-| 01/04 | 24810708.8 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | OPTICAL PACKAGE AND METHOD FOR MANUFACTURING OPTICAL PACKAGE |
 | 01/04 | 23939310.1 | company | Ja Solar Technology Yangzhou Co., Ltd. | CN | PV devices (legacy) |  | METHOD FOR MANUFACTURING SOLAR CELL |
 | 01/04 | 25202213.2 | company | AESC Japan Ltd. | JP | Batteries & fuel cells |  | POSITIVE ELECTRODE AND PREPARATION METHOD THEREOF AND BATTERY |
 | 01/04 | 25199924.9 | company | Prime Planet Energy & Solutions, Inc. | JP | Batteries & fuel cells |  | NEGATIVE ELECTRODE OF SECONDARY BATTERY, METHOD FOR MANUFACTURING THE NEGATIVE ELECTRODE, AND SECONDARY BATTER |
@@ -3282,7 +3387,6 @@ Patent applications published by the official registers in India and Europe and 
 | 08/04 | 18778173.7 | company | Osaka Gas Co., Ltd. | JP | Electrolysis, Batteries & fuel cells |  | ELECTROCHEMICAL DEVICE, ENERGY SYSTEM, AND SOLID OXIDE FUEL CELL |
 | 08/04 | 18781629.3 | company | SUMITOMO CHEMICAL COMPANY, LIMITED | JP | Gas separation & carbon capture |  | SPIRAL-TYPE GAS-SEPARATION MEMBRANE ELEMENT, GAS-SEPARATION MEMBRANE MODULE, AND GAS-SEPARATION DEVICE |
 | 08/04 | 19194158.2 | individual | Borderes, Eric | FR | Grid & power networks |  | FAST REDEPLOYING ELECTRICAL INSTALLATION |
-| 08/04 | 19202269.7 | company | InnoLux Corporation | TW | PV devices |  | ELECTRONIC DEVICE, TILED ELECTRONIC APPARATUS AND OPERATING METHOD OF THE SAME |
 | 08/04 | 19197669.5 | company | Siemens Gamesa Renewable Energy Innovation & Tec | ES | Wind |  | METHOD OF MANUFACTURING A PANEL OF A WIND TURBINE NACELLE |
 | 08/04 | 18877289.1 | company | SHOKO CO., LTD. | JP | Batteries & fuel cells |  | CURRENT COLLECTOR FOR ELECTRICAL STORAGE DEVICE, METHOD FOR MANUFACTURING SAME, AND COATING LIQUID USED FOR MA |
 | 08/04 | 18734537.6 | company | Robert Bosch GmbH | DE | Batteries & fuel cells |  | TRANSPORTATION SAFE BATTERY |
@@ -3309,14 +3413,12 @@ Patent applications published by the official registers in India and Europe and 
 | 08/04 | 19820873.8 | company | SABIC Global Technologies B.V. | NL | Fuels & biofuels |  | PROCESS AND SYSTEM FOR PRODUCING ETHYLENE AND AT LEAST ONE OF BUTANOL AND AN ALKYL TERT-BUTYL ETHER |
 | 08/04 | 19824117.6 | company | WiTricity AI Tech, LLC | US | Grid & power networks |  | SYSTEMS AND METHODS FOR LOW POWER EXCITATION IN HIGH POWER WIRELESS POWER SYSTEMS |
 | 08/04 | 19894561.0 | company | Rad Technology Medical Systems, LLC | US | Nuclear |  | SHIELDING FACILITY AND METHOD OF MAKING THEREOF |
-| 08/04 | 19897301.8 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | SOLID-STATE IMAGING ELEMENT AND VIDEO RECORDING DEVICE |
 | 08/04 | 19881868.4 | individual | Seidametov, Ramzi Iskanderovich | UA | Synthetic fuels |  | METHOD AND DEVICE FOR THE DESTRUCTIVE DISTILLATION OF POLYETHYLENE AND POLYPROPYLENE WASTE |
 | 08/04 | 19839499.1 | company | ExxonMobil Technology and Engineering Company | US | Fuels & biofuels |  | WAX FLOW VISCOSITY FOR FUELS |
 | 08/04 | 19920355.5 | company | SANYO Electric Co., Ltd. | JP | Batteries & fuel cells |  | BATTERY MODULE |
 | 08/04 | 20809089.4 | company | Samsung Electronics Co., Ltd. | KR | Grid & power networks, PV generation |  | SYSTEM COMPRISING A SENSOR DEVICE AND AN ELECTRONIC DEVICE |
 | 08/04 | 20783486.2 | company | AESC Japan Ltd. | JP | Batteries & fuel cells |  | POSITIVE ELECTRODE FOR LITHIUM ION SECONDARY BATTERY, POSITIVE ELECTRODE SHEET FOR LITHIUM ION SECONDARY BATTE |
 | 08/04 | 20799342.9 | company | Daejoo Electronic Materials Co., Ltd. | KR | Batteries & fuel cells |  | SILICON OXIDE COMPOSITE FOR LITHIUM SECONDARY BATTERY ANODE MATERIAL AND METHOD FOR MANUFACTURING SAME |
-| 08/04 | 19928793.9 | company | GE Precision Healthcare LLC | US | PV devices |  | X-RAY SENSOR HAVING A FIELD LIMITING RING CONFIGURATION |
 | 08/04 | 20815345.2 | company | General Fusion Inc. | CA | Nuclear |  | SYSTEM AND METHOD FOR GENERATING AND ACCELERATING MAGNETIZED PLASMA |
 | 08/04 | 20728714.5 | company | Wobben Properties GmbH | DE | Power conversion |  | DUAL PURPOSE CONVERTER |
 | 08/04 | 20822534.2 | company | BRIDGESTONE CORPORATION | JP | Grid & power networks |  | NON-PNEUMATIC TIRE |
@@ -3750,8 +3852,6 @@ Patent applications published by the official registers in India and Europe and 
 | 08/04 | 24204090.5 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | AN APPARATUS FOR INSPECTING A COATED ELECTRODE SHEET FOR A SECONDARY BATTERY AND A METHOD USING THE SAME |
 | 08/04 | 24815797.6 | company | Korea Hydro & Nuclear Power Co., Ltd | KR | Nuclear |  | METHOD FOR MEASURING VIBRATION OF INTERNAL STRUCTURE OF SMALL-SCALED REACTOR VESSEL MODEL |
 | 08/04 | 25151916.1 | company | Eaton Intelligent Power Limited | IE | Grid & power networks |  | HIGH IMPEDANCE FAULT LOCATION IN ELECTRIC POWER DISTRIBUTION SYSTEMS |
-| 08/04 | 24815250.6 | company | Tokyo Electron Limited | JP | PV devices |  | INSPECTION DEVICE AND INSPECTION METHOD |
-| 08/04 | 26158823.0 | company | Shanghai United Imaging Healthcare Co., Ltd. | CN | PV devices |  | PHOTON-COUNTING DETECTORS FOR DETECTING RADIATION |
 | 08/04 | 25203668.6 | company | Nokia Solutions and Networks Oy | FI | Grid & power networks |  | METHOD AND APPARATUS FOR ENERGY MANAGEMENT |
 | 08/04 | 25206460.5 | company | BWXT Advanced Technologies LLC | US | Nuclear |  | MANDREL-WOUND, SPLINED MONOLITHIC FUEL ASSEMBLY CORE, FUEL ASSEMBLY AND REACTOR INCORPORATING SAME, AND METHOD |
 | 08/04 | 26154629.5 | company | BWXT Advanced Technologies LLC | US | Nuclear |  | FUEL ASSEMBLY FOR THERMAL PROPULSION APPLICATIONS |
@@ -3964,11 +4064,9 @@ Patent applications published by the official registers in India and Europe and 
 | 08/04 | 24204333.9 | company | Next2Sun Technology GmbH | DE | Solar collectors, PV generation |  | PHOTOVOLTAIC SYSTEM WITH IMPROVED SUPPORT STRUCTURE |
 | 08/04 | 23940528.5 | company | Huawei Digital Power Technologies Co., Ltd. | CN | Power conversion |  | HOUSING FOR ELECTRICAL DEVICE, AND PHOTOVOLTAIC INVERTER |
 | 08/04 | 24895690.6 | company | CHINT New Energy Technology Co., Ltd. | CN | PV devices |  | TOPCON CELL, AND TOPCON CELL PREPARATION METHOD |
-| 08/04 | 25199977.7 | company | Canon Kabushiki Kaisha | JP | PV devices |  | SENSOR APPARATUS |
 | 08/04 | 25176112.8 | company | Taiwan-Asia Semiconductor Corporation | TW | PV devices |  | SEMICONDUCTOR STRUCTURE AND MANUFACTURING METHOD THEREOF |
 | 08/04 | 25737534.5 | company | Longi Green Energy Technology Co., Ltd. | CN | PV devices |  | BACK CONTACT CELL AND MANUFACTURING METHOD THEREFOR, AND PHOTOVOLTAIC MODULE |
 | 08/04 | 26158242.3 | company | Jinko Solar (Haining) Co., Ltd. | CN | PV devices |  | SOLAR CELL AND PHOTOVOLTAIC MODULE |
-| 08/04 | 24815215.9 | company | MITSUBISHI GAS CHEMICAL COMPANY, INC. | JP | PV devices |  | COMPOUND, ORGANIC THIN FILM, PHOTOELECTRIC CONVERSION ELEMENT, IMAGING ELEMENT, PHOTOSENSOR, AND SOLID-STATE I |
 | 15/04 | 17181863.6 | company | Shangrao Xinyuan YueDong Technology Development  | CN | PV devices |  | SOLAR CELL AND SOLAR CELL PANEL INCLUDING THE SAME |
 | 15/04 | 16751607.9 | company | Siemens Gamesa Renewable Energy Service GmbH | DE | Wind |  | METHOD FOR OPERATING A WIND TURBINE, WIND TURBINE AND COMPUTER PROGRAM PRODUCT |
 | 15/04 | 16854542.4 | company | LT (USA), CORPORATION | US | Grid & power networks |  | MAXIMUM ENERGY UTILIZATION POINT TRACKING TECHNOLOGIES |
@@ -3986,7 +4084,6 @@ Patent applications published by the official registers in India and Europe and 
 | 15/04 | 20161935.0 | company | Amazon Technologies, Inc. | US | Wind |  | PROPELLER BLADE TREATMENTS FOR SOUND CONTROL |
 | 15/04 | 20165062.9 | company | SAIC MOTOR Corporation Limited | CN | Batteries & fuel cells |  | METHOD AND DEVICE FOR PREDICTING PEAK POWER OF BATTERY |
 | 15/04 | 19708766.1 | company | elfolion GmbH | DE | Batteries & fuel cells |  | ELECTRODE SHEET AND METHOD FOR PRODUCING THE SAME |
-| 15/04 | 18931734.0 | company | SHENZHEN GOODIX TECHNOLOGY CO., LTD. | CN | PV devices |  | TIME OF FLIGHT-BASED DISTANCE MEASUREMENT METHOD AND DISTANCE MEASUREMENT SYSTEM |
 | 15/04 | 18907208.5 | company | Micron Technology, Inc. | US | Power conversion |  | MEMORY DEVICES CONFIGURED TO PROVIDE EXTERNAL REGULATED VOLTAGES |
 | 15/04 | 20163430.0 | company | Beijing Xiaomi Mobile Software Co., Ltd. | CN | Grid & power networks |  | WIRELESS CONTROL MODULE, WIRELESS WALL SWITCH, POWERED DEVICE AND SYSTEM |
 | 15/04 | 19188608.4 | institute | AIT Austrian Institute of Technology GmbH | AT | PV devices |  | TRANSPARENT CONDUCTIVE ELECTRODE AND METHOD FOR MANUFACTURING THE SAME |
@@ -3994,7 +4091,6 @@ Patent applications published by the official registers in India and Europe and 
 | 15/04 | 18861787.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | TITANIA-CARBON NANOTUBE-SULFUR (TIO2-X-CNT-S) COMPOSITE AND PREPARING METHOD THEREFOR |
 | 15/04 | 19727001.0 | institute | Fraunhofer-Gesellschaft zur Förderung der angewa | DE | Wind |  | LOAD FRAME, TEST STAND SYSTEM AND METHOD FOR USING THE LOAD FRAME |
 | 15/04 | 20214438.2 | company | Hamilton Sundstrand Corporation | US | Thermal storage |  | CONFORMAL HEAT EXCHANGER PASSAGE FEATURES FOR IMPROVED FLOW DISTRIBUTION |
-| 15/04 | 19887726.8 | institute | Nanjing University | CN | PV devices |  | PHOTOELECTRIC COMPUTING UNIT, PHOTOELECTRIC COMPUTING ARRAY, AND PHOTOELECTRIC COMPUTING METHOD |
 | 15/04 | 18932932.9 | company | 3M Innovative Properties Company | US | Batteries & fuel cells |  | FIRE PROTECTION ARTICLE AND RELATED METHODS |
 | 15/04 | 20766260.2 | institute | Korea Institute of Machinery & Materials | KR | Batteries & fuel cells |  | REVERSIBLE WATER ELECTROLYSIS SYSTEM AND OPERATION METHOD THEREOF |
 | 15/04 | 19911209.5 | company | Weber-Stephen Products LLC | US | Combustion |  | PELLET GRILLS |
@@ -4055,14 +4151,12 @@ Patent applications published by the official registers in India and Europe and 
 | 15/04 | 21953016.9 | company | Sinoma Lithium Battery Separator Co., Ltd. | CN | Batteries & fuel cells |  | LITHIUM BATTERY SEPARATOR COMPRISING POROUS PVDF-BASED RESIN COATING AND PREPARATION METHOD THEREFOR |
 | 15/04 | 22846113.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells, Grid & power network |  | DEVICE FOR MANAGING BATTERY, AND BATTERY SYSTEM |
 | 15/04 | 20958727.8 | company | MITSUBISHI ELECTRIC CORPORATION | JP | Thermal storage |  | PARTITIONING PLATE, TOTAL HEAT EXCHANGE ELEMENT USING SAME, TOTAL HEAT EXCHANGER, AND METHOD FOR MANUFACTURING |
-| 15/04 | 20963625.7 | company | NTT, Inc. | JP | PV devices |  | OPTICAL ELEMENT, IMAGING ELEMENT, AND IMAGING DEVICE |
 | 15/04 | 21892345.6 | company | LG Electronics Inc. | KR | Thermal storage |  | HEAT EXCHANGER AND HEAT EXCHANGER MANUFACTURING METHOD |
 | 15/04 | 21900102.1 | company | Huawei Technologies Co., Ltd. | CN | Grid & power networks |  | METHOD FOR LINKAGE BETWEEN DEVICES AND ELECTRONIC DEVICE |
 | 15/04 | 21894965.9 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | METHOD AND APPARATUS FOR MANUFACTURING POUCH-TYPE SECONDARY BATTERY |
 | 15/04 | 23156849.4 | company | Detector Electronics Buyer US, LLC | US | Combustion |  | MULTI-SPECTRUM MID-IR FLAME DETECTOR, USE OF A TEST LAMP AND METHOD OF TESTING |
 | 15/04 | 21903229.9 | company | Zeon Corporation | JP | Supercapacitors, Batteries & fuel cells |  | LAMINATE FOR ELECTROCHEMICAL ELEMENTS AND ELECTROCHEMICAL ELEMENT |
 | 15/04 | 21905859.1 | company | Leicon ApS | DK | Wind |  | TRANSITION PIECE FOR A JACKET TYPE WIND TURBINE FOUNDATION |
-| 15/04 | 22192525.8 | company | Largan Industrial Optics Co., Ltd. | TW | PV devices |  | IMAGING LENS MODULE AND ELECTRONIC DEVICE |
 | 15/04 | 22828730.6 | company | LG Energy Solution, Ltd. | KR | Supercapacitors, Batteries & fuel cells |  | ELECTRODE FOR ELECTROCHEMICAL DEVICE |
 | 15/04 | 22922877.0 | company | Contemporary Amperex Technology Co., Limited | CN | Electrolysis |  | METHOD FOR PREPARING SULFURYL FLUORIDE BY ELECTROFLUORINATION |
 | 15/04 | 22745841.1 | institute | National Institute of Advanced Industrial Scienc | JP | Batteries & fuel cells |  | ELECTROLYTIC SOLUTION FOR NON-AQUEOUS SECONDARY BATTERY, AND NON-AQUEOUS SECONDARY BATTERY |
@@ -4142,7 +4236,6 @@ Patent applications published by the official registers in India and Europe and 
 | 15/04 | 22938613.1 | company | LG Electronics Inc. | KR | Grid & power networks |  | ARTIFICIAL INTELLIGENCE APPARATUS FOR PREDICTING POWER CONSUMPTION, AND METHOD THEREFOR |
 | 15/04 | 23715543.7 | individual | Renaissance Fusion | FR | Nuclear |  | MODULAR MAGNETIC CONFINEMENT DEVICE |
 | 15/04 | 23715541.1 | individual | Renaissance Fusion | FR | Nuclear |  | MAGNETIC CHAMBER AND MODULAR COILS |
-| 15/04 | 24193282.1 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV devices |  | METHOD FOR MANUFACTURING A COLOR-CONVERTING OPTOELECTRONIC DEVICE, COMPRISING A STEP OF OPTICALLY FORMING SURF |
 | 15/04 | 22726045.2 | company | Hitachi Energy Ltd | CH | Grid & power networks |  | AN ENERGY STORAGE SYSTEM |
 | 15/04 | 23721918.3 | company | Signify Holding B.V. | NL | Power conversion |  | DRIVER ARRANGEMENT INCLUDING POWER FACTOR CORRECTION CIRCUITRY |
 | 15/04 | 23197432.0 | company | Fröling Heizkessel- und Behälterbau Ges.m.b.H. | AT | Combustion |  | BIOMASS BOILER AND METHOD FOR OPERATING A BIOMASS BOILER |
@@ -4355,7 +4448,6 @@ Patent applications published by the official registers in India and Europe and 
 | 15/04 | 24819249.4 | company | Idemitsu Kosan Co.,Ltd. | JP | Batteries & fuel cells |  | CRYSTALLINE SULFIDE SOLID ELECTROLYTE |
 | 15/04 | 24823359.5 | company | MITSUBISHI GAS CHEMICAL COMPANY, INC. | JP | Batteries & fuel cells |  | METHOD FOR MANUFACTURING LGPS-TYPE SOLID ELECTROLYTE |
 | 15/04 | 25206580.0 | company | Shindengen Electric Manufacturing Co., Ltd. | JP | Power conversion |  | POWER CONVERSION DEVICE |
-| 15/04 | 24819304.7 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | LIGHT DETECTION DEVICE AND ELECTRONIC EQUIPMENT |
 | 15/04 | 24823300.9 | company | PXP Corporation | JP | PV devices (legacy) |  | THIN FILM SOLAR CELL AND METHOD FOR MANUFACTURING THIN FILM SOLAR CELL |
 | 15/04 | 25206720.2 | company | Nexeon Limited | GB | Batteries & fuel cells |  | ELECTROACTIVE COMPOSITE PARTICLES |
 | 15/04 | 26151284.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | POWDER FOR ELECTRODE FOR MANUFACTURING DRY ELECTRODE FOR SECONDARY BATTERY, METHOD FOR PREPARING THE SAME, MET |
@@ -4510,8 +4602,6 @@ Patent applications published by the official registers in India and Europe and 
 | 15/04 | 25208392.8 | company | JINKO SOLAR CO., LTD | CN | PV generation, PV devices |  | PHOTOVOLTAIC MODULE |
 | 15/04 | 24205281.9 | company | FRONIUS INTERNATIONAL GmbH | AT | PV generation |  | SAFETY DEVICE FOR A PHOTOVOLTAIC SYSTEM, INVERTER, PHOTOVOLTAIC SYSTEM, AND METHOD FOR OPERATING A PHOTOVOLTAI |
 | 15/04 | 25207463.8 | company | Optimal Power Co., Ltd. | TW | PV generation |  | DETECTION AND EVALUATION SYSTEM FOR SOLAR POWER GENERATION MODULE |
-| 15/04 | 24383097.3 | company | IMASENIC ADVANCED IMAGING, S.L. | ES | PV devices |  | SENSOR |
-| 15/04 | 25207114.7 | company | IMASENIC ADVANCED IMAGING, S.L. | ES | PV devices |  | SENSOR |
 | 15/04 | 24823013.8 | company | HITACHI HIGH-TECH CORPORATION | JP | Nuclear |  | SUPERCONDUCTING MAGNET WITH IRON CORE, ACCELERATOR PROVIDED WITH SUPERCONDUCTING MAGNET WITH IRON CORE, AND PA |
 | 15/04 | 25208362.1 | company | JINKO SOLAR CO., LTD. | CN | PV devices |  | PHOTOVOLTAIC MODULE |
 | 15/04 | 24928238.5 | company | CHINT New Energy Technology Co., Ltd. | CN | PV devices |  | ZERO-BUSBAR PHOTOVOLTAIC CELL STRING SOLDERING METHOD AND ZERO-BUSBAR PHOTOVOLTAIC CELL STRING SOLDERING APPAR |
@@ -4575,7 +4665,6 @@ Patent applications published by the official registers in India and Europe and 
 | 22/04 | 21892262.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | POSITIVE ELECTRODE FOR LITHIUM SECONDARY BATTERY, AND LITHIUM SECONDARY BATTERY |
 | 22/04 | 21712400.7 | company | AVL List GmbH | AT | Power conversion |  | INVERTER ARRANGEMENT AND METHOD OF OPERATING A INVERTER ARRANGEMENT |
 | 22/04 | 21923464.8 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells, Grid & power network |  | SECONDARY BATTERY CHARGING/DISCHARGING SYSTEM INCLUDING INSULATION PAD, AND METHOD FOR CONTROLLING TEMPERATURE |
-| 22/04 | 21771837.8 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | IMAGING DEVICE AND ELECTRONIC INSTRUMENT |
 | 22/04 | 21775647.7 | company | Fujitsu General Limited | JP | Thermal storage |  | HEAT EXCHANGER |
 | 22/04 | 22746307.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | POSITIVE ELECTRODE AND LITHIUM SECONDARY BATTERY INCLUDING THE SAME |
 | 22/04 | 21854314.8 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | MULTI-SLOT DIE COATER |
@@ -4611,7 +4700,6 @@ Patent applications published by the official registers in India and Europe and 
 | 22/04 | 21911354.5 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SECONDARY BATTERY POUCH, MANUFACTURING METHOD THEREOF, AND SECONDARY BATTERY MANUFACTURING METHOD |
 | 22/04 | 22922545.3 | company | Contemporary Amperex Technology Co., Limited | CN | Batteries & fuel cells |  | METHOD FOR PREPARING LITHIUM BIS(FLUOROSULFONYL)IMIDE |
 | 22/04 | 22922572.7 | company | Contemporary Amperex Technology Co., Limited | CN | Batteries & fuel cells |  | METHOD FOR RECOVERING LITHIUM BIS(FLUOROSULFONYL)IMIDE |
-| 22/04 | 21914581.0 | company | Vivo Mobile Communication Co., Ltd. | CN | PV devices |  | ELECTRONIC DEVICE AND PHOTOGRAPHING MODULE THEREOF |
 | 22/04 | 23174383.2 | company | Hamilton Sundstrand Corporation | US | Thermal storage |  | ADDITIVELY MANUFACTURED HEAT EXCHANGER WITH SPECIAL SURFACE ROUGHNESS |
 | 22/04 | 22709203.8 | individual | Mehnert, Walter | DE | Grid & power networks |  | CHARGER |
 | 22/04 | 22746522.6 | company | RHI & Kristian LLC | US | Synthetic fuels, Fuels & biofuels |  | METHODS OF PRODUCING LOW CLOUD POINT BIODIESEL FROM COCOA BUTTER |
@@ -5148,7 +5236,6 @@ Patent applications published by the official registers in India and Europe and 
 | 29/04 | 20734015.9 | company | L'Air Liquide, société anonyme pour l'Étude et l | FR | Thermal storage |  | REFRIGERATION AND/OR LIQUEFACTION METHOD, DEVICE AND SYSTEM |
 | 29/04 | 20859158.6 | company | Stafl Systems, LLC | US | Batteries & fuel cells, Grid & power network |  | LOCATION-DETERMINANT FAULT MONITORING FOR BATTERY MANAGEMENT SYSTEM |
 | 29/04 | 20860037.9 | company | GS Yuasa International Ltd. | JP | Supercapacitors, Batteries & fuel cells |  | POWER STORAGE DEVICE |
-| 29/04 | 20775733.7 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | SOLID-STATE IMAGING DEVICE AND IMAGING DEVICE WITH COMBINED DYNAMIC VISION SENSOR AND IMAGING FUNCTIONS |
 | 29/04 | 20868954.7 | company | Mission Systems Davenport Inc. | US | Gas separation & carbon capture |  | IMPROVED COMPOSITION CONTROL FOR OBOGS |
 | 29/04 | 22159343.7 | institute | The University of North Florida Board of Trustee | US | Hydro & wave |  | INTEGRATED SYSTEM FOR OPTIMAL CONTINUOUS EXTRACTION OF POTENTIAL ENERGY DERIVED FROM WAVES |
 | 29/04 | 22159341.1 | company | Innio Jenbacher GmbH & Co OG | AT | Grid & power networks |  | METHOD FOR SYNCHRONISING A GENERATOR WITH A POWER SUPPLY GRID |
@@ -5158,7 +5245,6 @@ Patent applications published by the official registers in India and Europe and 
 | 29/04 | 22163150.0 | company | TOYOTA JIDOSHA KABUSHIKI KAISHA | JP | Grid & power networks |  | BATTERY MANAGEMENT SYSTEM AND BATTERY MANAGEMENT METHOD |
 | 29/04 | 21194062.2 | company | Beijing Xiaomi Mobile Software Co., Ltd. | CN | Grid & power networks |  | METHOD AND APPARATUS FOR HEAT DISSIPATION CONTROL OF CHARGING BASE, AND TERMINAL DEVICE |
 | 29/04 | 22158010.3 | company | Vaillant GmbH | DE | Combustion |  | METHOD AND ASSEMBLY FOR INFLUENCING A VOLUMETRIC FLOW THROUGH A FLOW PATH FOR FUEL GAS TO A HEATER |
-| 29/04 | 20897091.3 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | IMAGING DEVICE AND METHOD FOR MANUFACTURING IMAGING DEVICE |
 | 29/04 | 22175248.8 | company | Kidde Technologies, Inc. | US | Batteries & fuel cells |  | DETECTOR FOR EARLY DETECTION OF BATTERY FIRE AND/OR AN OVERHEATED CONDITION IN A BATTERY |
 | 29/04 | 20900245.0 | company | Saint-Gobain Ceramics & Plastics, Inc. | US | Thermal storage |  | HEAT EXCHANGER COMPONENT WITH VARYING TWIST ANGLE |
 | 29/04 | 21916630.3 | company | LG Chem, Ltd. | KR | Hydrogen, Synthetic fuels |  | METHOD FOR PREPARING SYNTHESIS GAS |
@@ -5179,7 +5265,6 @@ Patent applications published by the official registers in India and Europe and 
 | 29/04 | 21892202.9 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY CELL TRAY FOR IMPROVING WETTING PROPERTY OF ELECTROLYTE AND METHOD FOR ACTIVATING BATTERY CELL USING S |
 | 29/04 | 21886695.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | LITHIUM-SULFUR SECONDARY BATTERY COMPRISING CYCLIC CARBONATE-CONTAINING ELECTROLYTE |
 | 29/04 | 21771428.6 | company | Zeon Corporation | JP | Batteries & fuel cells |  | POLYETHER COMPOUND, IONIC COMPOSITION, AND MOLDED BODY |
-| 29/04 | 22191351.0 | company | ISDI Limited | GB | PV devices |  | RADIATION DETECTOR AND METHOD |
 | 29/04 | 22187922.4 | company | FORMOSA PLASTICS CORPORATION | TW | Hydrogen |  | CARBON FIBER COMPOSITES AND METHOD FOR PRODUCING THE SAME |
 | 29/04 | 21853298.4 | company | LS Metal Co., Ltd. | KR | Thermal storage |  | COPPER ALLOY TUBE, FOR HEAT EXCHANGER, HAVING EXCELLENT THERMAL CONDUCTIVITY AND FRACTURE STRENGTH, AND PRODUC |
 | 29/04 | 21832399.6 | company | Goldwind Science & Technology Co., Ltd. | CN | Wind |  | WIND TURBINE GENERATOR SYSTEM, AND CONTROL METHOD, CONTROLLER AND CONTROL SYSTEM THEREFOR |
@@ -5234,7 +5319,6 @@ Patent applications published by the official registers in India and Europe and 
 | 29/04 | 23165027.6 | company | STMicroelectronics S.r.l. | IT | Power conversion |  | PACKAGED ELECTRONIC DEVICE COMPRISING A PLURALITY OF POWER TRANSISTORS |
 | 29/04 | 22703102.8 | company | Rable Holding B.V. | NL | PV generation |  | DESIGN FOR THE ATTACHMENT AND PLACEMENT OF A PV-SYSTEM |
 | 29/04 | 22861584.5 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | UNIT CELL INSPECTING DEVICE, ELECTRODE ASSEMBLY MANUFACTURING EQUIPMENT INCLUDING SAME, AND ELECTRODE ASSEMBLY |
-| 29/04 | 23710655.4 | company | Samsung Electronics Co., Ltd. | KR | PV devices |  | SHIELDING STRUCTURE FOR REDUCING CROSSTALK OF OPTICAL SENSOR AND METHOD FOR MANUFACTURING SAME |
 | 29/04 | 22763620.6 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | POUCH FORMING METHOD |
 | 29/04 | 21923321.0 | company | SM Lab Co., Ltd. | KR | Batteries & fuel cells |  | CRUCIBLE ASSEMBLY FOR PRODUCING CATHODE ACTIVE MATERIAL |
 | 29/04 | 23177054.6 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | Supercapacitors |  | REFERENCE ELECTRODE FOR SUPERCAPACITOR |
@@ -5288,7 +5372,6 @@ Patent applications published by the official registers in India and Europe and 
 | 29/04 | 22805770.9 | company | VESTAS WIND SYSTEMS A/S | DK | Wind |  | A METHOD FOR REDUCING ROTOR IMBALANCE IN A WIND TURBINE |
 | 29/04 | 23382207.1 | company | GE VERNOVA RENOVABLES ESPAÑA, S.L. | ES | Wind |  | DETERMINATION OF OSCILLATION FREQUENCIES OF WIND TURBINES AND RELATED METHODS |
 | 29/04 | 24162487.3 | company | Collins Engine Nozzles, Inc. | US | Combustion |  | RADIALLY ORIENTED INTERNALLY MOUNTED CONTINUOUS IGNITION DEVICE |
-| 29/04 | 24161171.4 | institute | COMMISSARIAT À L'ÉNERGIE ATOMIQUE ET AUX ÉNERGIE | FR | PV devices |  | METHOD FOR SIZING A GRAY SCALE LITHOGRAPHY MASK |
 | 29/04 | 23814350.7 | company | Samsung Electronics Co., Ltd. | KR | Thermal storage |  | ELECTRONIC DEVICE COMPRISING STRUCTURE FOR DISPERSING HEAT |
 | 29/04 | 24184714.4 | company | General Electric Company | US | Combustion |  | COMBUSTOR WITH DILUTION OPENINGS |
 | 29/04 | 23883009.5 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SOLID POLYMER ELECTROLYTE AND METHOD FOR PRODUCING SAME |
@@ -5335,7 +5418,6 @@ Patent applications published by the official registers in India and Europe and 
 | 29/04 | 23734463.5 | company | VESTAS WIND SYSTEMS A/S | DK | Wind |  | METHODS FOR INSTALLING A CABLE-SUPPORTED ROTOR WIND TURBINE |
 | 29/04 | 23204890.0 | company | MAVIG GmbH | DE | Nuclear |  | ONE-PIECE WRAPPING OF RADIATION SHIELDING MATERIALS AND ITS USE |
 | 29/04 | 23737876.5 | company | Fev Group GmbH | DE | Hydrogen, Electrolysis |  | METHANOL PRODUCTION FROM BIOMASS AND GREEN HYDROGEN |
-| 29/04 | 25163909.2 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | SOLID-STATE IMAGING DEVICE AND ELECTRONIC APPARATUS |
 | 29/04 | 23206776.9 | company | Hitachi Energy Ltd | CH | Thermal storage |  | AN AIRFLOW GENERATOR |
 | 29/04 | 24206890.6 | company | Honeywell International Inc. | US | Combustion |  | COMPACT LOW EMISSIONS BURNER NOZZLE USING ADDITIVE MANUFACTURING |
 | 29/04 | 24212033.5 | company | Hithium Tech HK Limited | HK | Batteries & fuel cells |  | NEGATIVE ELECTRODE ACTIVE MATERIAL, NEGATIVE ELECTRODE SHEET, ENERGY STORAGE DEVICE AND ELECTRICITY-CONSUMPTIO |
@@ -6170,7 +6252,6 @@ Patent applications published by the official registers in India and Europe and 
 | 06/05 | 24728906.9 | company | Innomotics GmbH | DE | Electrolysis, Power conversion |  | ELECTROLYSIS DEVICE |
 | 06/05 | 24746805.1 | company | Alza Globo S.r.l. | IT | PV generation |  | MULTIAXIAL MOVEMENT DEVICE, PARTICULARLY FOR SOLAR PANELS AND THE LIKE |
 | 06/05 | 24833040.9 | company | Ubiqd Inc. | US | Grid & power networks, Power conversion |  | DISTRIBUTED INVERTER SYSTEMS FOR BUILDING INTEGRATED PHOTOVOLTAIC POWER GENERATION |
-| 06/05 | 24735438.4 | company | Microsoft Technology Licensing, LLC | US | PV devices |  | MEMS-BASED IMAGING DEVICES |
 | 06/05 | 24746051.2 | company | Naizil S.r.l. | IT | PV devices |  | PARTIALLY FLEXIBLE PHOTOVOLTAIC LAMINAR PRODUCT AND MANUFACTURING METHOD THEREOF |
 | 06/05 | 24831114.4 | company | POWERFULTREE S.L. | ES | PV generation |  | PHOTOVOLTAIC SOLAR PANEL |
 | 06/05 | 25208540.2 | company | Traeger Pellet Grills, LLC | US | Combustion |  | CONTACTLESS IGNITION SYSTEM |
@@ -6423,8 +6504,6 @@ Patent applications published by the official registers in India and Europe and 
 | 06/05 | 25211633.0 | company | Huawei Digital Power Technologies Co., Ltd. | CN | PV generation |  | PHOTOVOLTAIC OPTIMIZER |
 | 06/05 | 25213285.7 | company | Marel Power Solutions, Inc. | US | Power conversion |  | AIR-COOLED POWER CONVERTER |
 | 06/05 | 25211949.0 | company | JINKO SOLAR CO., LTD | CN | PV devices |  | METHOD FOR MANUFACTURING CELL STRING, METHOD FOR MANUFACTURING PHOTOVOLTAIC MODULE, AND PHOTOVOLTAIC MODULE |
-| 06/05 | 24847521.2 | company | Ja Solar Technology Yangzhou Co., Ltd. | CN | PV devices |  | SOLAR CELL UNIT AND MANUFACTURING METHOD THEREFOR |
-| 06/05 | 24847522.0 | company | Ja Solar Technology Yangzhou Co., Ltd. | CN | PV devices |  | SOLAR CELL AND MANUFACTURING METHOD THEREFOR |
 | 06/05 | 23943586.0 | company | Nisshinbo Micro Devices Inc. | JP | PV devices |  | REFLECTIVE OPTICAL SEMICONDUCTOR DEVICE AND METHOD FOR MANUFACTURING SAME |
 | 06/05 | 24905370.3 | company | Zhejiang Aiko Solar Energy Technology Co., Ltd. | CN | PV devices |  | BIFACIAL SOLAR CELL, BATTERY MODULE AND PHOTOVOLTAIC SYSTEM |
 | 06/05 | 24210464.4 | institute | Tallinn University of Technology | EE | PV devices |  | SEMITRANSPARENT THIN FILM SOLAR CELL AND PREPARATION METHOD THEREOF |
@@ -6464,7 +6543,6 @@ Patent applications published by the official registers in India and Europe and 
 | 13/05 | 21194035.8 | company | BIC Violex Single Member S.A. | GR | Combustion |  | FLAME PRODUCING ASSEMBLY |
 | 13/05 | 20939107.7 | company | Ningde Amperex Technology Limited | CN | Supercapacitors, Batteries & fuel cells |  | ELECTROCHEMICAL DEVICE AND ELECTRONIC DEVICE |
 | 13/05 | 22192388.1 | company | SK On Co., Ltd. | KR | Batteries & fuel cells |  | ANODE FOR LITHIUM SECONDARY BATTERY, LITHIUM SECONDARY BATTERY INCLUDING THE SAME AND METHOD OF FABRICATING TH |
-| 13/05 | 21719343.2 | company | Microsoft Technology Licensing, LLC | US | PV devices |  | TIME-OF-FLIGHT PIXEL WITH VERTICAL PHOTOGATES |
 | 13/05 | 22191981.4 | company | SK On Co., Ltd. | KR | Batteries & fuel cells |  | SECONDARY BATTERY |
 | 13/05 | 21817653.5 | company | DrinkStation Holdings Corporation | US | Thermal storage |  | CHILLER FOR COOLING A BEVERAGE |
 | 13/05 | 21742632.9 | company | Woodward, Inc. | US | Combustion |  | IGNITION SYSTEM FOR POWER GENERATION ENGINE |
@@ -6916,9 +6994,7 @@ Patent applications published by the official registers in India and Europe and 
 | 20/05 | 14706298.8 | company | CellCube Energy Storage GmbH | AT | Batteries & fuel cells |  | ELASTOMERIC END FRAME OF A REDOX FLOW BATTERY |
 | 20/05 | 16716954.9 | company | Cameron Solutions, Inc. | US | Synthetic fuels |  | SYSTEM TO REDUCE INTERFACE EMULSION LAYER FORMATION IN AN ELECTROSTATIC DEHYDRATOR OR DESALTER VESSEL THROUGH  |
 | 20/05 | 17188708.6 | company | SPX Cooling Technologies, Inc. | US | Thermal storage |  | HYBRID FLUID COOLER METHOD AND APPARATUS |
-| 20/05 | 16851568.2 | company | Nikon Corporation | JP | PV devices |  | IMAGE CAPTURE ELEMENT AND ELECTRONIC CAMERA |
 | 20/05 | 17816098.2 | company | Evapco, Inc. | US | Thermal storage |  | MINI-TUBE AIR COOLED INDUSTRIAL STEAM CONDENSER |
-| 20/05 | 17827444.5 | company | Sony Group Corporation | JP | PV devices |  | SOLID-STATE IMAGING ELEMENT AND MANUFACTURING METHOD, AND ELECTRONIC DEVICE |
 | 20/05 | 19197198.5 | company | Deutsches Zentrum für Luft- und Raumfahrt e.V. | DE | Batteries & fuel cells |  | ELASTICALLY DEFORMABLE CARBON AEROGELS AS MATRIX MATERIAL IN SULFUR ELECTRODES |
 | 20/05 | 18753275.9 | company | Shell Internationale Research Maatschappij B.V. | NL | Gas separation & carbon capture |  | A CATALYST AND METHOD OF USE THEREOF |
 | 20/05 | 18872310.0 | company | GS Yuasa International Ltd. | JP | Batteries & fuel cells |  | LEAD STORAGE BATTERY |
@@ -6945,10 +7021,8 @@ Patent applications published by the official registers in India and Europe and 
 | 20/05 | 20761604.6 | company | Koninklijke Philips N.V. | NL | Grid & power networks |  | FOREIGN OBJECT DETECTION IN A WIRELESS POWER TRANSFER SYSTEM |
 | 20/05 | 20875609.8 | company | Cern Corp. | US | Grid & power networks |  | LIGHT-BASED VAGINAL THERAPY DEVICES |
 | 20/05 | 20931132.3 | company | LG Chem, Ltd. | KR | PV devices |  | COMPOSITION FOR ENCAPSULANT FILM COMPRISING ETHYLENE/ALPHA-OLEFIN COPOLYMER AND ENCAPSULANT FILM COMPRISING TH |
-| 20/05 | 21217898.2 | company | Sony Group Corporation | JP | PV devices |  | SEMICONDUCTOR DEVICE |
 | 20/05 | 20882159.5 | company | Kyocera Corporation | JP | Batteries & fuel cells, Grid & power network |  | POWER STORAGE BATTERY MANAGEMENT DEVICE, POWER STORAGE BATTERY SYSTEM, AND POWER STORAGE BATTERY MANAGEMENT ME |
 | 20/05 | 20888427.0 | company | DENSO CORPORATION | JP | Batteries & fuel cells, Grid & power network |  | CHARGING CONTROL DEVICE |
-| 20/05 | 20895193.9 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | IMAGING DEVICE, METHOD FOR MANUFACTURING SAME, AND ELECTRONIC APPARATUS |
 | 20/05 | 22177346.8 | company | Novocure GmbH | CH | Power conversion |  | HIGH VOLTAGE, HIGH EFFICIENCY SINE WAVE GENERATOR THAT PREVENTS SPIKES DURING AMPLITUDE ADJUSTMENTS AND SWITCH |
 | 20/05 | 21916638.6 | company | Jiangsu Contemporary Amperex Technology Limited | CN | Batteries & fuel cells |  | BIDIRECTIONAL VENTILATION VALVE, BATTERY AND POWER DEVICE |
 | 20/05 | 20902431.4 | company | Henkel AG & Co. KGaA | DE | Batteries & fuel cells |  | SILICONE FREE THERMAL INTERFACE MATERIAL WITH REACTIVE DILUENT |
@@ -7432,7 +7506,6 @@ Patent applications published by the official registers in India and Europe and 
 | 27/05 | 18939467.9 | company | Mitsubishi Electric Corporation | JP | Power conversion |  | GATE DRIVE CIRCUIT AND POWER CONVERSION DEVICE |
 | 27/05 | 19839435.5 | company | 3M Innovative Properties Company | US | Combustion |  | BURNER AND ADDITIVE MANUFACTURING METHODS |
 | 27/05 | 19903782.1 | company | Toppan Printing Co., Ltd. | JP | Batteries & fuel cells |  | ELECTRODE CATALYST LAYER, MEMBRANE ELECTRODE ASSEMBLY, AND SOLID POLYMER FUEL CELL |
-| 27/05 | 19910550.3 | company | Panasonic Intellectual Property Management Co.,  | JP | PV devices |  | LIGHT DETECTION DEVICE, LIGHT DETECTION SYSTEM, AND FILTER ARRAY |
 | 27/05 | 21188020.8 | company | Prologium Technology Co., Ltd. | TW | Batteries & fuel cells |  | THERMAL RUNAWAY SUPPRESSION ELEMENT AND THE RELATED APPLICATIONS |
 | 27/05 | 20843065.2 | company | GS Yuasa International Ltd. | JP | Supercapacitors, Batteries & fuel cells |  | POWER STORAGE ELEMENT |
 | 27/05 | 20732681.0 | company | Bromine Compounds Ltd. | IL | Gas separation & carbon capture |  | QUATERNARY AMMONIUM HALIDES FOR TREATING HALOGEN CONTAMINATION |
@@ -7939,7 +8012,6 @@ Patent applications published by the official registers in India and Europe and 
 | 27/05 | 25217905.6 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV devices |  | METHOD FOR INTERCONNECTING PHOTOVOLTAIC CELLS BY CONTACT BETWEEN TWO ASSEMBLIES |
 | 27/05 | 24843204.9 | company | Panasonic Intellectual Property Management Co.,  | JP | PV devices |  | POWER GENERATION MODULE AND METHOD FOR MANUFACTURING POWER GENERATION MODULE |
 | 27/05 | 26161029.9 | company | Zhejiang Jinko Solar Co., Ltd. | CN | PV generation, PV devices |  | PHOTOVOLTAIC MODULE |
-| 27/05 | 25215954.6 | company | Suteng Innovation Technology Co., Ltd | CN | PV devices |  | A PHOTOELECTRIC CONVERSION DEVICE, A RECEIVING SENSOR AND A LIDAR |
 | 27/05 | 25174325.8 | company | Jinko Solar (Shangrao) Co., Ltd | CN | PV devices |  | PHOTOVOLTAIC CELL PREPARATION METHOD AND PHOTOVOLTAIC CELL |
 | 27/05 | 25216399.3 | institute | Commissariat à l'Énergie Atomique et aux Énergie | FR | PV devices |  | METHOD FOR MANUFACTURING A PHOTOVOLTAIC CELL STRING |
 | 27/05 | 26172257.3 | company | Solarlab Aiko Europe GmbH | DE | PV devices |  | AN ELECTRODE STRUCTURE OF A BACK-CONTACT SOLAR CELL, A CELL AND ITS ASSEMBLY AND PHOTOVOLTAIC SYSTEM |
@@ -7966,7 +8038,6 @@ Patent applications published by the official registers in India and Europe and 
 | 03/06 | 21168992.2 | company | Membrane Technology and Research, Inc | US | Gas separation & carbon capture, Combustion |  | INTEGRATED CO2 CAPTURE PROCESSES IN GAS SEPARATION-TURBINE |
 | 03/06 | 21167504.6 | company | GE Vernova Technology GmbH | CH | Grid & power networks |  | SYSTEM FOR RETROFITTING A POWER GENERATION SYSTEM TO INCORPORATE CLUTCHLESS SYNCHRONOUS CONDENSING |
 | 03/06 | 21169373.4 | company | Hamilton Sundstrand Corporation | US | Grid & power networks |  | SYSTEMS AND METHODS FOR GENERATOR CONTROL |
-| 03/06 | 19910551.1 | company | Panasonic Intellectual Property Management Co.,  | JP | PV devices |  | OPTICAL FILTER, LIGHT DETECTING DEVICE, AND LIGHT DETECTING SYSTEM |
 | 03/06 | 20701501.7 | company | ENI S.p.A. | IT | Hydrogen |  | A PROCESS FOR PRODUCING HYDROGEN-LEAN SYNGAS FOR ACETIC ACID SYNTHESIS AND DIMETHYL ETHER SYNTHESIS |
 | 03/06 | 20781802.2 | company | Deep Isolation, Inc. | US | Nuclear |  | TESTING SUBTERRANEAN WATER FOR A HAZARDOUS WASTE MATERIAL REPOSITORY |
 | 03/06 | 20759398.9 | company | Amprius Technologies, Inc. | US | Batteries & fuel cells |  | COMPOSITIONALLY MODIFIED SILICON COATINGS FOR USE IN A LITHIUM ION BATTERY ANODE |
@@ -7975,7 +8046,6 @@ Patent applications published by the official registers in India and Europe and 
 | 03/06 | 20721573.2 | company | Blade Dynamics Limited | GB | Wind |  | METHOD FOR PRODUCING A WIND TURBINE BLADE AND WIND TURBINE BLADE |
 | 03/06 | 20726343.5 | company | Valeo Electrification | FR | Batteries & fuel cells |  | COOLING DEVICE OF AN ELECTRICAL STORAGE SYSTEM AND METHOD USING THE COOLING DEVICE |
 | 03/06 | 20736909.1 | institute | Schmitt Prof. Möhlmann & Collegen Wirtschaftskan | DE | Batteries & fuel cells |  | DEVICE FOR WETTING RECEIVING AND INSERTING AIDS AND/OR CONTAINER OR FRAME CONSTRUCTIONS FOR THE IMPROVED ASSIG |
-| 03/06 | 20818749.2 | company | Applied Materials, Inc. | US | PV devices |  | IMAGING SYSTEM AND METHOD OF CREATING COMPOSITE IMAGES |
 | 03/06 | 21829512.9 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | ELECTRODE WITH BINDER LAYER FORMED THEREIN AND METHOD FOR MANUFACTURING SAME |
 | 03/06 | 20736314.4 | company | NIDEC GPM GmbH | DE | Batteries & fuel cells |  | TEMPERATURE CONTROL DEVICE FOR A BATTERY BANK MODULE |
 | 03/06 | 21200786.8 | company | Hamilton Sundstrand Corporation | US | Thermal storage |  | MULTI-SCALE UNITARY RADIAL HEAT EXCHANGER CORE |
@@ -7983,7 +8053,6 @@ Patent applications published by the official registers in India and Europe and 
 | 03/06 | 21779902.2 | company | Ningde Amperex Technology Ltd. | CN | Batteries & fuel cells |  | BATTERY AND POWERED APPARATUS PROVIDED WITH BATTERY |
 | 03/06 | 21213580.0 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SECONDARY BATTERY CASE AND SECONDARY BATTERY |
 | 03/06 | 20764083.0 | company | Clariant International Ltd | CH | Fuels & biofuels |  | POLYMER COMPOSITIONS AND THEIR USE AS POUR POINT DEPRESSANT IN PARAFFIN-CONTAINING HYDROCARBON OILS |
-| 03/06 | 19948849.5 | company | NTT, Inc. | JP | PV devices |  | IMAGING ELEMENT AND IMAGING DEVICE |
 | 03/06 | 21740682.6 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SECONDARY BATTERY |
 | 03/06 | 20889598.7 | company | Lone Gull Holdings, Ltd | US | Hydro & wave |  | SELF-CHARGING AUTONOMOUS SUBMERSIBLE VESSEL |
 | 03/06 | 21883279.8 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | POROUS CARBON MATERIAL OF CORE-SHELL STRUCTURE, METHOD FOR PREPARING SAME, SULFUR-CARBON COMPOSITE INCLUDING S |
@@ -7992,7 +8061,6 @@ Patent applications published by the official registers in India and Europe and 
 | 03/06 | 21920113.4 | company | Contemporary Amperex Technology (Hong Kong) Limi | HK | Batteries & fuel cells |  | BATTERY CELL AND MANUFACTURING METHOD AND MANUFACTURING SYSTEM THEREFOR, AND BATTERY AND ELECTRIC APPLIANCE |
 | 03/06 | 22181016.1 | company | Sivantos Pte. Ltd. | SG | Grid & power networks |  | METHOD, DEVICE AND CHARGER |
 | 03/06 | 21727790.4 | company | Sulzer Management AG | CH | Synthetic fuels |  | HEAT INTEGRATION VIA HEAT PUMP ON A BOTTOM DIVIDING WALL COLUMN |
-| 03/06 | 20931045.7 | company | Huawei Technologies Co., Ltd. | CN | PV devices |  | SEMICONDUCTOR STRUCTURE AND MANUFACTURING METHOD THEREFOR |
 | 03/06 | 21824975.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | METHOD FOR MANUFACTURING SEPARATOR, AND SEPARATOR MANUFACTURED THEREBY |
 | 03/06 | 21725580.1 | company | Johnson Matthey Public Limited Company | GB | Gas separation & carbon capture |  | METHOD OF FORMING A CATALYST ARTICLE |
 | 03/06 | 22806680.9 | company | Shenzhen Dynanonic Innovazone New Energy Technol | CN | Batteries & fuel cells |  | LITHIUM-RICH IRON-BASED COMPOSITE MATERIAL, PREPARATION METHOD THEREFOR AND USE THEREOF |
@@ -8426,22 +8494,18 @@ Patent applications published by the official registers in India and Europe and 
 | 03/06 | 26173167.3 | company | BBG Holdings GmbH | AT | Grid & power networks |  | A DATA PROCESSING APPARATUS AND METHOD OF PROVIDING ENERGY TO AN ENERGY CONSUMING SYSTEM |
 | 03/06 | 24860485.2 | company | Hanwha Solutions Corporation | KR | PV devices |  | TANDEM SOLAR CELL |
 | 03/06 | 25853521.0 | company | Zhuhai Fushan Aiko Solar Technology Co., Ltd. | CN | PV devices |  | BACK CONTACT CELL ASSEMBLY AND PHOTOVOLTAIC SYSTEM |
-| 03/06 | 24215624.8 | institute | IMEC vzw | BE | PV devices |  | THREE-DIMENSIONAL INTEGRATED CHARGE-COUPLED DEVICE BASED IMAGER |
 | 03/06 | 25218431.2 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV devices |  | METHOD FOR PROCESSING CRYSTALLINE SILICON WAFER USED IN PHOTOVOLTAIC |
 | 03/06 | 26174071.6 | company | Zhejiang Jinko Solar Co., Ltd. | CN | PV devices |  | SOLAR CELL AND METHOD FOR PREPARING THE SAME, TANDEM SOLAR CELL, AND PHOTOVOLTAIC MODULE |
 | 10/06 | 14811017.4 | company | ZEG Power AS | NO | Gas separation & carbon capture |  | METHOD FOR SUSTAINABLE ENERGY PRODUCTION IN A POWER PLANT COMPRISING A SOLID OXIDE FUEL CELL |
-| 10/06 | 17177707.1 | company | ams International AG | CH | PV devices |  | RADIATION-HARDENED PACKAGE FOR AN ELECTRONIC DEVICE |
 | 10/06 | 16819355.5 | company | Superdielectrics Supercap Ltd | GB | Batteries & fuel cells |  | ELECTRICALLY CONDUCTING HYDROPHILIC CO-POLYMERS |
 | 10/06 | 17208615.9 | company | Umicore AG & Co. KG | DE | Gas separation & carbon capture |  | CATALYTICALLY ACTIVE PARTICLE FILTER |
 | 10/06 | 18753609.9 | company | BagCam, Inc. | US | Grid & power networks |  | CARRYING DEVICES WITH BUILT-IN SECURITY SYSTEM |
 | 10/06 | 18187106.2 | company | Siemens Healthineers AG | DE | Nuclear |  | X-RAY EQUIPMENT AND METHOD FOR OPERATING SAME |
 | 10/06 | 18766393.5 | company | Arbaflame Technology AS | NO | Fuels & biofuels |  | METHOD AND APPARATUS FOR PRODUCTION OF CELLULOSE BASED FUEL PELLETS |
 | 10/06 | 18811612.3 | company | Axis Energy Projects Group Limited | GB | Hydro & wave, Wind |  | BUOY AND INSTALLATION METHOD FOR THE BUOY |
-| 10/06 | 18881454.5 | company | Hamamatsu Photonics K.K. | JP | PV devices |  | PHOTON COUNTING DEVICE AND PHOTON COUNTING METHOD |
 | 10/06 | 18859950.0 | company | Publichnoe Aktsionernoe Obschestvo "Gazprom" | RU | Hydrogen |  | APPARATUS AND METHOD FOR PRODUCING HYDROGEN-CONTAINING GAS |
 | 10/06 | 20182404.2 | company | Jiaozuo City Hexing Chemical Industry Co., Ltd. | CN | Batteries & fuel cells |  | METHOD TO PREPARE GRANULAR CONDUCTIVE CARBON BLACK |
 | 10/06 | 19729360.8 | company | Smith & Nephew Asia Pacific Pte Limited | SG | Grid & power networks |  | POWER SOURCE CHARGING FOR NEGATIVE PRESSURE WOUND THERAPY APPARATUS |
-| 10/06 | 19819237.9 | company | Sony Group Corporation | JP | PV devices |  | SOLID-STATE IMAGING ELEMENT, SOLID-STATE IMAGING DEVICE, ELECTRONIC INSTRUMENT, AND METHOD FOR MANUFACTURING S |
 | 10/06 | 19834813.8 | company | Nitto Denko Corporation | JP | Batteries & fuel cells |  | GAS ADSORPTION SHEET FOR SECONDARY BATTERIES |
 | 10/06 | 18829667.7 | company | General Electric Renovables España, S.L. | ES | Wind |  | METHOD FOR MANUFACTURING A STRUCTURAL COMPONENT OF A BLADE SEGMENT FOR A ROTOR BLADE OF A WIND TURBINE |
 | 10/06 | 20702686.5 | company | SCA Forest Products AB | SE | Synthetic fuels |  | PROCESS FOR THE PRODUCTION OF A BIO-OIL |
@@ -8472,7 +8536,6 @@ Patent applications published by the official registers in India and Europe and 
 | 10/06 | 21950749.8 | company | Contemporary Amperex Technology (Hong Kong) Limi | HK | Batteries & fuel cells |  | BATTERY MODULE, BATTERY AND POWER CONSUMPTION DEVICE |
 | 10/06 | 23168641.1 | company | VESTAS WIND SYSTEMS A/S | DK | Grid & power networks |  | A METHOD FOR DETECTING POWER OSCILLATION IN AN ELECTRIC POWER GRID |
 | 10/06 | 21840169.3 | company | LM Wind Power A/S | DK | Wind |  | METHOD OF JOINING SEGMENTS OF A COMPOSITE COMPONENT |
-| 10/06 | 21919519.5 | company | Panasonic Intellectual Property Management Co.,  | JP | PV devices |  | IMAGING DEVICE AND CAMERA SYSTEM |
 | 10/06 | 22771684.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | PROTECTIVE CIRCUIT FOR SENSING VIBRATION OF FUSE BOX |
 | 10/06 | 21708599.2 | company | Wepfer Technics AG | CH | Wind |  | WIND TURBINE |
 | 10/06 | 22804856.7 | company | Kolon Industries, Inc. | KR | Batteries & fuel cells |  | CARTRIDGE FOR FUEL CELL HUMIDIFIER, AND FUEL CELL HUMIDIFIER |
@@ -8623,7 +8686,6 @@ Patent applications published by the official registers in India and Europe and 
 | 10/06 | 24762422.4 | company | Newcleo S.p.a. | IT | Nuclear |  | FUEL ELEMENT FOR A NUCLEAR REACTOR |
 | 10/06 | 24751453.2 | company | ORANO NUCLEAR PACKAGES AND SERVICES | FR | Nuclear |  | STRUCTURE FOR DISSIPATING HEAT BY NATURAL CONVECTION, FOR PACKAGING FOR TRANSPORTING RADIOACTIVE MATERIALS |
 | 10/06 | 24737794.8 | company | THALES | FR | Nuclear |  | ELECTRONIC TUBE USING LOW-TEMPERATURE SOLDERS AND DEGASSED AT ROOM TEMPERATURE |
-| 10/06 | 24860714.5 | company | Swift Solar Inc. | US | PV devices |  | MECHANICALLY STRONG CONNECTIONS FOR PEROVSKITE-SILICON TANDEM SOLAR CELLS |
 | 10/06 | 24848456.0 | company | Zinite Corporation | CA | Power conversion |  | ACTIVE SEMICONDUCTOR PACKAGES |
 | 10/06 | 24852546.1 | company | Action Battery Technologies, Inc. | US | Batteries & fuel cells |  | COATED SINGLE CRYSTALLINE METAL OXIDE MATERIALS AND METHOD FOR PRODUCING THE SAME |
 | 10/06 | 24748935.4 | company | Syensqo Specialty Polymers Italy S.p.A. | IT | Batteries & fuel cells |  | LITHIUM BATTERY ELECTRODE BINDERS |
@@ -8662,7 +8724,6 @@ Patent applications published by the official registers in India and Europe and 
 | 10/06 | 24850172.8 | company | Scalvy Inc. | US | Power conversion |  | METHODS AND SYSTEMS FOR POWER CONTROL |
 | 10/06 | 24758603.5 | company | Tesla, Inc. | US | Batteries & fuel cells |  | INDUCTION HEATER FOR CALENDAR ROLLER |
 | 10/06 | 24736069.6 | company | 3SUN S.r.l. | IT | PV devices |  | MULTI-JUNCTION PHOTOVOLTAIC CELLS |
-| 10/06 | 24746701.2 | company | ams-OSRAM International GmbH | DE | PV devices |  | IMAGING DEVICE AND IMAGING SYSTEM |
 | 10/06 | 24764763.9 | company | CE Cell Engineering GmbH | DE | PV devices |  | SYSTEM FOR ELECTRICALLY CONTACTING WAFER SOLAR CELLS, IN-LINE PRODUCTION DEVICE, AND METHOD FOR PRODUCING A WA |
 | 10/06 | 24217617.0 | individual | Leber, Martin | DE | PV generation |  | MODULE FOR GREENING A FACADE, AND FACADE GREENING SYSTEM |
 | 10/06 | 24849470.0 | company | KT&G Corporation | KR | Supercapacitors, Grid & power networks |  | AEROSOL GENERATION DEVICE, AND METHOD FOR PROTECTING AEROSOL GENERATION DEVICE |
@@ -8970,7 +9031,6 @@ Patent applications published by the official registers in India and Europe and 
 | 10/06 | 25217999.9 | company | S'Tile | FR | PV devices |  | PHOTOVOLTAIC MODULE |
 | 10/06 | 24217795.4 | institute | ETH Zurich | CH | PV devices |  | A 2D MATERIAL PHOTONIC-PLASMONIC PHOTODETECTOR |
 | 10/06 | 25219694.4 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV devices |  | METHOD OF MANUFACTURING A MICROELECTRONIC DEVICE |
-| 10/06 | 26153988.6 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | BACKSIDE-ILLUMINATED SOLID-STATE IMAGING DEVICE, METHOD FOR MANUFACTURING BACKSIDE-IILLUMINATED SOLID-STATE IM |
 | 10/06 | 26174913.9 | company | Zhejiang Jinko Solar Co., Ltd. | CN | PV devices |  | SOLAR CELL |
 | 17/06 | 03819021.1 | company | Vestas Wind Systems A/S | DK | Wind |  | Member for potential equalising |
 | 17/06 | 16194040.8 | company | STMicroelectronics (Research & Development) Limi | GB | PV devices |  | AVALANCHE DIODE AND METHOD FOR MANUFACTURING THE SAME |
@@ -8984,7 +9044,6 @@ Patent applications published by the official registers in India and Europe and 
 | 17/06 | 17783782.0 | company | Siemens Energy Global GmbH & Co. KG | DE | Power conversion |  | SUBMODULE FOR A MODULAR MULTILEVEL CONVERTER |
 | 17/06 | 20164197.4 | company | Samsung Electronics Co., Ltd. | KR | Grid & power networks |  | WIRELESS POWER RECEIVER AND CONTROL METHOD THEREOF |
 | 17/06 | 18807115.3 | individual | SWM Holdco Luxembourg | LU | Batteries & fuel cells |  | ALKALINE BATTERY SEPARATORS HAVING CONTROLLED PORE SIZE |
-| 17/06 | 20185008.8 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | IMAGING APPARATUS AND IMAGING METHOD, CAMERA MODULE, AND ELECTRONIC APPARATUS |
 | 17/06 | 19884000.1 | company | LG Energy Solution, Ltd. | KR | Supercapacitors, Batteries & fuel cells |  | SEPARATOR FOR LITHIUM SECONDARY BATTERY AND METHOD FOR MANUFACTURING SAME |
 | 17/06 | 18921931.4 | company | HUAWEI TECHNOLOGIES CO., LTD. | CN | Grid & power networks |  | WIRELESS CHARGING DEVICE, AND TERMINAL USING SAME |
 | 17/06 | 19844086.9 | company | HONDA MOTOR CO., LTD. | JP | Batteries & fuel cells, Grid & power network |  | SERVER DEVICE, SHARED BATTERY UTILIZATION SERVICE SYSTEM, METHOD, COMPUTER PROGRAM AND RECORDING MEDIUM |
@@ -9088,7 +9147,6 @@ Patent applications published by the official registers in India and Europe and 
 | 17/06 | 22962784.9 | company | Pacific Industrial Co., Ltd. | JP | Batteries & fuel cells |  | RELIEF VALVE |
 | 17/06 | 22962785.6 | company | Pacific Industrial Co., Ltd. | JP | Batteries & fuel cells |  | RELIEF VALVE |
 | 17/06 | 24209128.8 | company | STMicroelectronics International N.V. | CH | Grid & power networks |  | WIRELESS CHARGING TRANSMITTER DEVICE |
-| 17/06 | 24218408.3 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV devices |  | METHOD FOR MANUFACTURING AN OPTOELECTRONIC DEVICE WITH COLOR CONVERSION BY LOCALIZED DEPOSITION OF PHOTOLUMINE |
 | 17/06 | 23789457.1 | company | Saudi Arabian Oil Company | SA | Hydrogen, Synthetic fuels |  | CONVERSION OF WHOLE CRUDE TO VALUE ADDED PETROCHEMICALS IN AN INTEGRATED REACTOR PROCESS |
 | 17/06 | 23220816.5 | company | Immaterial Ltd | GB | Gas separation & carbon capture |  | PROCESS FOR THE SEPARATION OF KRYPTON FROM A WASTE GAS STREAM |
 | 17/06 | 25162509.1 | company | Contemporary Amperex Technology (Hong Kong) Limi | HK | Batteries & fuel cells |  | BATTERY CELL, BATTERY, AND ELECTRIC APPARATUS |
@@ -9509,7 +9567,6 @@ Patent applications published by the official registers in India and Europe and 
 | 17/06 | 25221687.4 | company | AISIN CORPORATION | JP | Power conversion |  | POWER SUPPLY MODULE |
 | 17/06 | 25221213.9 | company | Terreal | FR | PV generation |  | SLEEVED METAL TILE |
 | 17/06 | 25219622.5 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | ENERGY STORAGE SYSTEM AND COMMUNICATION METHOD THEREOF |
-| 17/06 | 26175765.2 | company | NTT, Inc. | JP | PV devices |  | IMAGING ELEMENT AND IMAGING DEVICE |
 | 17/06 | 26173486.7 | company | Munters Corporation | US | Thermal storage |  | ACTIVE/PASSIVE COOLING SYSTEM |
 | 17/06 | 26172277.1 | company | Rohm Co., Ltd. | JP | Power conversion |  | POWER MODULE SEMICONDUCTOR DEVICE AND INVERTER EQUIPMENT, AND FABRICATION METHOD OF THE POWER MODULE SEMICONDU |
 | 17/06 | 26172278.9 | company | Rohm Co., Ltd. | JP | Power conversion |  | POWER MODULE SEMICONDUCTOR DEVICE AND INVERTER EQUIPMENT, AND FABRICATION METHOD OF THE POWER MODULE SEMICONDU |
@@ -9552,7 +9609,6 @@ Patent applications published by the official registers in India and Europe and 
 | 24/06 | 19788439.8 | company | Japan Aerospace Exploration Agency | JP | Combustion |  | OBSERVATION APPARATUS FOR A TURBOMACHINE, OBSERVATION METHOD, AND PROGRAM |
 | 24/06 | 20737976.9 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | TERMINAL BUSBAR, AND METHOD FOR MANUFACTURING A TERMINAL BUSBAR |
 | 24/06 | 19752931.6 | company | Siemens Gamesa Renewable Energy A/S | DK | Wind |  | CONVOLUTIONAL NEURAL NETWORK BASED INSPECTION OF BLADE-DEFECTS OF A WIND TURBINE |
-| 24/06 | 19843344.3 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | IMAGING ELEMENT AND IMAGING DEVICE |
 | 24/06 | 19864029.4 | company | SEKISUI CHEMICAL CO., LTD. | JP | Gas separation & carbon capture, Hydrogen |  | METHOD FOR REUSING ZEOLITE ADSORBENT, AND REGENERATED ADSORBENT |
 | 24/06 | 19873392.5 | institute | NATIONAL INSTITUTE OF ADVANCED INDUSTRIAL SCIENC | JP | Gas separation & carbon capture |  | PROCESS FOR DESORPTION OF AMMONIA CHEMICAL SPECIES USING CARBON DIOXIDE, AMMONIA CHEMICAL SPECIES-PROVIDING AG |
 | 24/06 | 19836642.9 | company | Carrier Corporation | US | Thermal storage |  | COMPACT HEAT EXCHANGER ASSEMBLY FOR A REFRIGERATION SYSTEM |
@@ -9577,7 +9633,6 @@ Patent applications published by the official registers in India and Europe and 
 | 24/06 | 20789187.0 | company | Onduline | FR | PV generation |  | FLAT PHOTOVOLTAIC TILE, INSTALLATION METHOD AND COVERING OBTAINED |
 | 24/06 | 21886538.4 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | APPARATUS OF MANUFACTURING POUCH TYPE BATTERY |
 | 24/06 | 22163815.8 | company | TOYOTA JIDOSHA KABUSHIKI KAISHA | JP | Grid & power networks |  | BATTERY MANAGEMENT SYSTEM AND BATTERY MANAGEMENT METHOD |
-| 24/06 | 20897017.8 | company | Wuhan Xinxin Semiconductor Manufacturing Co., Lt | CN | PV devices |  | SEMICONDUCTOR DEVICE AND MANUFACTURING METHOD THEREFOR |
 | 24/06 | 20820997.3 | company | Wepfer Technics AG | CH | Wind |  | DIRECTLY DRIVEN WIND TURBINE AND METHOD FOR DISASSEMBLING A GENERATOR OF A DIRECTLY DRIVEN WIND TURBINE |
 | 24/06 | 21705493.1 | company | Airmont AS | NO | Combustion |  | SENSOR UNIT AND SENSOR NETWORK SYSTEM |
 | 24/06 | 21880317.9 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | NON-AQUEOUS ELECTROLYTE FOR LITHIUM SECONDARY BATTERY AND LITHIUM SECONDARY BATTERY COMPRISING THE SAME |
@@ -9598,7 +9653,6 @@ Patent applications published by the official registers in India and Europe and 
 | 24/06 | 21905126.5 | company | Beijing WeLion New Energy Technology Co., Ltd | CN | Batteries & fuel cells |  | ELECTROLYTE CONTAINING NITROGEN-BASED SALT STRUCTURE, PREPARATION METHOD THEREFOR AND USE THEREOF |
 | 24/06 | 22885415.4 | company | Contemporary Amperex Technology (Hong Kong) Limi | HK | Batteries & fuel cells |  | TOP COVER ASSEMBLY, BATTERY CELL, BATTERY, AND ELECTRIC DEVICE |
 | 24/06 | 21702211.0 | company | Huawei Technologies Co., Ltd. | CN | Grid & power networks |  | TECHNIQUES FOR WIRELESS POWER TRANSFER |
-| 24/06 | 22750268.9 | company | KLA Corporation | US | PV devices |  | BACK-ILLUMINATED SENSOR WITH BORON LAYER DEPOSITED USING PLASMA ATOMIC LAYER DEPOSITION |
 | 24/06 | 22883911.4 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY MODULE WITH IMPROVED SAFETY |
 | 24/06 | 21932258.3 | company | Huawei Digital Power Technologies Co., Ltd. | CN | Grid & power networks |  | ENERGY STORAGE SYSTEM AND CONTROL METHOD THEREFOR |
 | 24/06 | 22842496.6 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | BATTERY RACK AND ENERGY STORAGE SYSTEM COMPRISING BATTERY RACK |
@@ -9675,7 +9729,6 @@ Patent applications published by the official registers in India and Europe and 
 | 24/06 | 26154818.4 | company | Jinko Solar (Haining) Co., Ltd. | CN | PV devices |  | BACK-CONTACT PHOTOVOLTAIC MODULE AND MANUFACTURING METHOD THEREOF |
 | 24/06 | 26156221.9 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | ENERGY STORAGE SYSTEM |
 | 24/06 | 25205128.9 | company | PRATT & WHITNEY CANADA CORP. | CA | Combustion |  | ENGINE FUEL INJECTORS WITH COMMON FUEL TARGET LOCATION |
-| 24/06 | 26158823.0 | company | Shanghai United Imaging Healthcare Co., Ltd. | CN | PV devices |  | PHOTON-COUNTING DETECTORS FOR DETECTING RADIATION |
 | 24/06 | 26160450.8 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SYSTEM AND METHOD FOR MONITORING A BATTERY MANUFACTURING PROCESS |
 | 24/06 | 26162337.5 | company | Schwank GmbH | DE | Combustion |  | DARK EMITTERS |
 | 24/06 | 26158327.2 | company | Chevron Phillips Chemical Company LP | US | Synthetic fuels |  | HEAVY OLIGOMER COMPOSITIONS OF A SELECTIVE I-HEXENE AND I-OCTENE CATALYST |
@@ -10192,7 +10245,6 @@ Patent applications published by the official registers in India and Europe and 
 | 24/06 | 24221531.7 | institute | "International Solar Energy Research Center Kons | DE | PV devices |  | METHOD OF STRUCTURING AND DOPING OF POLYSILICON REGIONS FOR BACKSIDE CONTACT SOLAR CELL |
 | 24/06 | 25219295.0 | company | HUAI'AN JIETAI NEW ENERGY TECHNOLOGY CO., LTD. | CN | PV devices |  | TBC SOLAR CELL, BACKSIDE STRUCTURE OF TBC SOLAR CELL, AND PREPARING METHODS FOR TBC SOLAR CELL AND ITS BACKSID |
 | 24/06 | 25760689.7 | company | Shenzhen Hello Tech Energy Co., Ltd | CN | PV devices |  | PANEL AND PREPARATION METHOD THEREFOR, AND PHOTOVOLTAIC MODULE |
-| 24/06 | 25224073.4 | company | SK hynix Inc. | KR | PV devices |  | IMAGE SENSING DEVICE AND IMAGING SYSTEM INCLUDING THE SAME |
 | 24/06 | 25219498.0 | company | HUAI'AN JIETAI NEW ENERGY TECHNOLOGY CO., LTD. | CN | PV devices |  | SOLAR CELL, PREPARATION METHOD THEREFOR, AND PHOTOVOLTAIC MODULE |
 | 24/06 | 25223565.0 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV devices |  | CRYSTALLINE SI SOLAR CELL WITH IMPROVED RESISTANCE TO IRRADIATION |
 | 24/06 | 25209866.0 | company | Zhejiang Jinko Solar Co., Ltd. | CN | PV devices |  | SOLAR CELL |
@@ -10237,7 +10289,6 @@ Patent applications published by the official registers in India and Europe and 
 | 01/07 | 20789740.6 | company | Chevron Phillips Chemical Company LP | US | Synthetic fuels |  | AROMATIZATION CATALYST AND METHODS OF PREPARING THE SAME |
 | 01/07 | 20881537.3 | company | Shimizu Industry Co., Ltd. | JP | Batteries & fuel cells |  | THIN RESIN SHEET MEMBER AND METHOD FOR MANUFACTURING THE SAME |
 | 01/07 | 19952780.5 | company | Beridi Maritime S.L. | ES | Wind |  | STRUCTURE FOR SUPPORTING MARINE INSTALLATIONS AND PROCEDURE FOR THE EXECUTION THEREOF |
-| 01/07 | 20824700.7 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | SEMICONDUCTOR ELEMENT AND ELECTRONIC APPARATUS |
 | 01/07 | 20817424.3 | company | Drever International | BE | Combustion |  | RADIANT HEATING ELEMENT WITH FREE END |
 | 01/07 | 20903009.7 | company | Resonac Corporation | JP | Combustion |  | GASIFICATION FURNACE OPERATING METHOD |
 | 01/07 | 22165271.2 | company | SK On Co., Ltd. | KR | Batteries & fuel cells |  | ELECTROLYTIC SOLUTION FOR SECONDARY BATTERY AND LITHIUM SECONDARY BATTERY INCLUDING THE SAME |
@@ -10257,14 +10308,11 @@ Patent applications published by the official registers in India and Europe and 
 | 01/07 | 21797927.7 | company | Contemporary Amperex Technology (Hong Kong) Limi | HK | Batteries & fuel cells |  | BATTERY AND ELECTRICAL APPARATUS |
 | 01/07 | 22194891.2 | company | Prime Planet Energy & Solutions, Inc. | JP | Supercapacitors, Batteries & fuel cells |  | ASSEMBLED BATTERY TESTING METHOD |
 | 01/07 | 21207051.0 | company | Rohde & Schwarz GmbH & Co. KG | DE | Grid & power networks |  | POWER SUPPLY AND METHOD OF OPERATING THE SAME |
-| 01/07 | 22215435.3 | company | Sony Group Corporation | JP | PV devices |  | IMAGING ELEMENT |
-| 01/07 | 21727656.7 | company | Microsoft Technology Licensing, LLC | US | PV devices |  | TIME OF FLIGHT IMAGING USING LONG AND SHORT-EXPOSURE STORAGE NODES |
 | 01/07 | 21751589.9 | company | TRUMPF Huettinger Sp. Z o. o. | PL | Power conversion |  | HV SWITCH UNIT |
 | 01/07 | 21213778.0 | company | Schwank GmbH | DE | Combustion |  | DARK RADIATOR |
 | 01/07 | 21858617.0 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | POUCH TYPE SECONDARY BATTERY |
 | 01/07 | 21773895.4 | company | Mitsubishi Electric Corporation | JP | Power conversion |  | EMI REDUCTION IN PWM INVERTERS USING ADAPTIVE FREQUENCY MODULATED CARRIERS |
 | 01/07 | 22879632.2 | institute | Universidad Nacional de Educación a Distancia (U | ES | Solar collectors, Thermal storage |  | SOLAR RECEIVER FORMED BY ABSORBER PANELS SUPPORTED IN COMPACT STRUCTURES |
-| 01/07 | 21887764.5 | institute | The Board of Trustees of the Leland Stanford Jun | US | PV devices |  | COLOR-ROUTERS FOR IMAGE SENSING |
 | 01/07 | 22162745.8 | company | Siemens Gamesa Renewable Energy A/S | DK | Wind |  | CONNECTION EQUIPMENT ADAPTER FOR A WIND TURBINE TOWER SECTION |
 | 01/07 | 21811517.8 | company | Sizable Energy Technologies S.r.l. | IT | Hydro & wave |  | SUBMERSIBLE HYDRAULIC ASSEMBLY WITH FACILITATED DEPLOYMENT, FACILITATED MAINTENANCE AND IMPROVED TORSIONAL STI |
 | 01/07 | 21904714.9 | company | Gbatteries Energy Canada Inc. | CA | Batteries & fuel cells, Grid & power network |  | METHODS AND SYSTEMS FOR TEMPERATURE-BASED BATTERY CHARGING |
@@ -10489,7 +10537,6 @@ Patent applications published by the official registers in India and Europe and 
 | 01/07 | 24857021.0 | institute | North Carolina State University | US | Power conversion |  | PARALLELING POWER SEMICONDUCTORS WITH DIFFERENT SWITCHING FREQUENCIES |
 | 01/07 | 23949430.5 | company | GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,  | CN | Grid & power networks |  | AMBIENT IOT DEVICE AND COMMUNICATION SYSTEM |
 | 01/07 | 24840934.4 | company | Conti Innovation Center, LLC | US | PV devices |  | AN ULTRA-THIN TRANSMISSIVE CADMIUM ALLOY SOLAR CELL |
-| 01/07 | 24759156.3 | company | Nil Technology ApS | DK | PV devices |  | HIGH BANDWIDTH IMAGING SYSTEM |
 | 01/07 | 24857067.3 | company | Corning Incorporated | US | PV devices |  | ARTICLE WITH A SUBSTRATE AND MULTILAYER COATING ON THE SUBSTRATE AND SOLAR PANEL INCORPORATING THE ARTICLE |
 | 01/07 | 24855734.0 | company | Greenworks (Jiangsu) Co., Ltd | CN | Grid & power networks |  | CHARGING COUPLER, GARDEN TOOL, CONTROL METHOD. AND METHOD FOR MOUNTING EXCITER ASSEMBLY |
 | 01/07 | 24856714.1 | company | LG Electronics Inc. | KR | Batteries & fuel cells |  | CLEANER AND CONTROL METHOD OF CLEANER |
@@ -11024,8 +11071,6 @@ Patent applications published by the official registers in India and Europe and 
 | 08/07 | 24159329.2 | company | Shaheen Innovations Holding Limited | AE | Power conversion |  | A HOOKAH DEVICE |
 | 08/07 | 24159332.6 | company | Shaheen Innovations Holding Limited | AE | Power conversion |  | A HOOKAH DEVICE |
 | 08/07 | 23200345.9 | company | Irid3 S.r.l. | IT | Solar collectors |  | DYNAMIC INSULATION MODULES AND WALLS MADE OF THESE MODULES |
-| 08/07 | 22815596.6 | company | MITSUBISHI ELECTRIC CORPORATION | JP | PV devices |  | SEMICONDUCTOR SENSOR AND METHOD FOR MANUFACTURING SAME |
-| 08/07 | 22821835.0 | company | DRTECH CORP | KR | PV devices |  | RADIATION DETECTOR AND RADIATION INSPECTION DEVICE INCLUDING SAME |
 | 08/07 | 22205194.8 | company | C&CS Catalysts and Chemical Specialties GmbH | DE | Hydrogen |  | FIXED BED GLYCEROL STEAM REFORMING CATALYST, USE OF SAID CATALYST AND METHOD FOR PREPARING SAID CATALYST |
 | 08/07 | 23215538.2 | company | Vaillant GmbH | DE | Combustion |  | METHOD FOR OPERATING A HEATING DEVICE, COMPUTER PROGRAM, REGULATING AND CONTROL DEVICE AND HEATING DEVICE |
 | 08/07 | 22893822.1 | company | Halliburton Energy Services, Inc. | US | Power conversion |  | SELECTIVE ELECTRODE USAGE FOR DIRECTIONAL PULSE POWER DRILLING |
@@ -11195,7 +11240,6 @@ Patent applications published by the official registers in India and Europe and 
 | 08/07 | 24777295.7 | company | MITEK Srl | IT | Solar collectors, PV generation |  | SYSTEM FOR CLEANING PHOTOVOLTAIC OR SOLAR PANELS |
 | 08/07 | 24765058.3 | company | TRUMPF Laser SE | DE | Power conversion |  | CURRENT REGULATOR ARRANGEMENT FOR A LAMP ARRANGEMENT, AND METHOD FOR OPERATING A LAMP ARRANGEMENT |
 | 08/07 | 24761988.5 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV devices |  | EMBOSSED FLEXIBLE INTERCONNECTION STRUCTURE FOR SHINGLE-TYPE SOLAR TECHNOLOGY |
-| 08/07 | 24765723.2 | institute | United Kingdom Research and Innovation | GB | PV devices |  | DETECTION DEVICE |
 | 08/07 | 25227312.3 | individual | Phan Ngoc, Ngan | BE | Solar thermal & other motors |  | METHOD FOR CAPTURING ENERGY FROM THE ENVIRONMENT AND RADIATING IT INTO SPACE |
 | 08/07 | 24852261.7 | company | KT&G Corporation | KR | Grid & power networks |  | AEROSOL GENERATING DEVICE AND OPERATING METHOD THEREFOR |
 | 08/07 | 24218639.3 | company | ReMetall Deutschland AG | DE | Electrolysis, Batteries & fuel cells |  | METHOD FOR RECYCLING LITHIUM BATTERIES |
@@ -11514,8 +11558,6 @@ Patent applications published by the official registers in India and Europe and 
 | 08/07 | 24860277.3 | company | KMW Inc. | KR | Thermal storage |  | CONDENSING PANEL ASSEMBLY AND HEAT DISSIPATION DEVICE INCLUDING SAME |
 | 08/07 | 25213595.9 | company | Zhejiang Jinko Solar Co., Ltd. | CN | PV devices |  | PHOTOVOLTAIC MODULE |
 | 08/07 | 26180904.0 | company | JINKO SOLAR CO., LTD | CN | PV devices |  | SOLAR CELL AND PHOTOVOLTAIC MODULE |
-| 08/07 | 25158014.8 | company | Azurewave Technologies, Inc. | TW | PV devices |  | IMAGE CAPTURING MODULE AND PORTABLE ELECTRONIC DEVICE |
-| 08/07 | 26150103.5 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV devices |  | METHOD AND DEVICE FOR OPTICAL ROUTING IN POLARISATION AND/OR WAVELENGTH OF LIGHT, AND OPTOELECTRONIC DETECTOR  |
 | 08/07 | 24870705.1 | company | Longi Green Energy Technology Co., Ltd. | CN | PV devices |  | MIXED DOPED SILICON WAFER |
 | 08/07 | 26179943.1 | company | Zhejiang Jinko Solar Co., Ltd. | CN | PV devices |  | SOLAR CELL AND TANDEM SOLAR CELL |
 | 08/07 | 23814512.2 | company | Arquimea Group S.A. | ES | Solar thermal & other motors |  | PIEZOELECTRIC THRUSTER AND METHOD FOR GENERATING A THRUST WITH SAID PIEZOELECTRIC THRUSTER |
@@ -11567,7 +11609,6 @@ Patent applications published by the official registers in India and Europe and 
 | 15/07 | 22167440.1 | individual | Janhunen, Timo | FI | Hydrogen |  | PROCESS FOR THE PREPARATION OF BIOMETHANOL |
 | 15/07 | 22187994.3 | company | Inovio Pharmaceuticals, Inc. | US | Power conversion |  | ELECTROPORATION DEVICE WITH IMPROVED SIGNAL GENERATOR |
 | 15/07 | 21703559.1 | company | ENI S.p.A. | IT | Gas separation & carbon capture |  | PROCESS AND PLANT FOR GAS MIXTURES CONTAINING ACID GAS TREATMENT |
-| 15/07 | 21753762.0 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | SOLID-STATE IMAGING ELEMENT AND IMAGING SYSTEM |
 | 15/07 | 21707407.9 | company | Profloating B.V. | NL | Solar collectors, PV generation |  | KIT OF PARTS FOR ASSEMBLING A FLOATING SOLAR PANEL ASSEMBLY |
 | 15/07 | 22192037.4 | company | A123 Systems LLC | US | Batteries & fuel cells |  | FERRIC PHOSPHATE AND METHODS OF PREPARATION THEREOF |
 | 15/07 | 21182817.3 | company | Valeo Vymeniky Tepla S.r.o. | CZ | Batteries & fuel cells |  | A HEAT EXCHANGER |
@@ -11654,7 +11695,6 @@ Patent applications published by the official registers in India and Europe and 
 | 15/07 | 24209513.1 | company | STMicroelectronics International N.V. | CH | Power conversion |  | ELECTRONIC CHIP CONNECTED TO EXTERNAL VOLTAGE |
 | 15/07 | 23210776.3 | company | GE Vernova Technology GmbH | CH | Grid & power networks, Power conversion |  | IMPROVEMENTS RELATING TO PROVIDING GRID-FORMING CONTROL OF A POWER CONVERTER IN POWER TRANSMISSION NETWORKS |
 | 15/07 | 23020520.5 | institute | Institute of Polymers Bulgarian Academy of Scien | BG | Electrolysis, Batteries & fuel cells |  | METHOD FOR DOPING OF DENSE FILMS AND POROUS MEMBRANES BASED ON POLYBENZIMIDAZOLES WITH PROTON CONDUCTIVE ELECT |
-| 15/07 | 24212189.5 | company | Suteng Innovation Technology Co., Ltd | CN | PV devices |  | SINGLE PHOTON AVALANCHE DIODE ARRAY, RECEIVING SENSOR AND LIDAR |
 | 15/07 | 23783298.5 | institute | Vysoká Skola Bánská-Technická Univerzita Ostrava | CZ | Hydro & wave |  | A MODULAR PUMPED-STORAGE POWER PLANT |
 | 15/07 | 23785882.4 | institute | Fondazione Istituto Italiano di Tecnologia | IT | Nuclear |  | COATINGS WITH ENVIRONMENTAL BARRIER BASED ON HIGH-TEMPERATURE STABLE AMORPHOUS OXIDES |
 | 15/07 | 23798494.3 | company | Bluenewables S.L. | ES | Wind |  | FOUNDATION DEVICE FOR AN OFFSHORE WIND TURBINE TOWER |
@@ -11856,7 +11896,6 @@ Patent applications published by the official registers in India and Europe and 
 | 15/07 | 25787648.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | METHOD FOR INSPECTING SURFACE ROUGHNESS OF CYLINDRICAL BATTERY THROUGH SURFACE BRIGHTNESS, DEVICE FOR PERFORMI |
 | 15/07 | 26180482.7 | company | Ontario Power Generation Inc. | CA | Nuclear |  | IMPROVED ULTRASOUND INSPECTION |
 | 15/07 | 25867153.6 | company | LG ENERGY SOLUTION, LTD. | KR | Grid & power networks |  | BATTERY MANAGEMENT APPARATUS AND BATTERY MANAGEMENT METHOD |
-| 15/07 | 25225342.2 | company | GE Precision Healthcare LLC | US | PV devices |  | SYSTEM AND METHOD FOR LEAKAGE CURRENT REDUCTION IN AN X-RAY DETECTOR |
 | 15/07 | 24919164.4 | company | JX Advanced Metals Corporation | JP | PV devices |  | RADIATION DETECTION ELEMENT, RADIATION DETECTOR, AND PRODUCTION METHOD FOR RADIATION DETECTION ELEMENT |
 | 15/07 | 25210562.2 | company | Lenovo (United States) Inc. | US | Batteries & fuel cells, Grid & power network |  | METHODS AND SYSTEMS FOR DYNAMIC OUTPUT FROM POWER SUPPLY |
 | 15/07 | 25869642.6 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | BATTERY CELL FORMATION PROCESS SIMULATION SYSTEM |
@@ -11971,8 +12010,6 @@ Patent applications published by the official registers in India and Europe and 
 | 15/07 | 25227409.7 | company | Canadian Solar Sunenergy (Jiaxing) Co. Ltd | CN | PV devices |  | HETEROJUNCTION SOLAR CELL AND PREPARATION METHOD THEREOF |
 | 15/07 | 25764533.3 | company | Longi Green Energy Technology Co., Ltd. | CN | PV devices |  | SOLAR CELL, MANUFACTURING METHOD, AND PHOTOVOLTAIC MODULE |
 | 15/07 | 25188305.4 | company | GlobalFoundries Singapore Pte. Ltd. | SG | PV devices |  | DOME-SHAPED LENS(ES) AND GUARD RING FOR SINGLE-PHOTON AVALANCHE DIODE PHOTODETECTOR AND RELATED METHOD |
-| 15/07 | 24862785.3 | company | Sony Semiconductor Solutions Corporation | JP | PV devices |  | ELECTRONIC DEVICE AND METHOD FOR MANUFACTURING ELECTRONIC DEVICE |
-| 15/07 | 26150741.2 | company | Canon Kabushiki Kaisha | JP | PV devices |  | PHOTOELECTRIC CONVERSION ELEMENT, PHOTOELECTRIC CONVERSION DEVICE, AND EQUIPMENT |
 | 15/07 | 24798713.4 | company | Suzhou Xiaoniu Automation Equipment Co., Ltd. | CN | PV devices |  | METHOD FOR EDGE PASSIVATION AND REPAIR OF CRYSTALLINE SILICON-BASED CELL SEGMENT, AND PASSIVATION APPARATUS |
 | 15/07 | 26150066.4 | company | JINKO SOLAR CO., LTD | CN | PV devices |  | BACK-CONTACT CELL |
 | 22/07 | 14806532.9 | company | Polytech A/S | DK | Wind |  | A FULLY INSULATED TIP UNIT FOR A LIGHTNING PROTECTION SYSTEM FOR A WIND TURBINE BLADE AND A WIND TURBINE BLADE |
@@ -12000,7 +12037,6 @@ Patent applications published by the official registers in India and Europe and 
 | 22/07 | 21154467.1 | individual | Burchardt, Nicolas | DE | Hydro & wave, Solar thermal & other motors |  | DEVICE AND METHOD FOR REVERSIBLY STORING AND RELEASING ENERGY |
 | 22/07 | 22154588.2 | company | TMRW Foundation IP SARL | LU | Grid & power networks |  | BACKUP BATTERY, COMMUNICATIONS DEVICE AND METHOD THEREOF |
 | 22/07 | 20788767.0 | company | Forschungszentrum Jülich GmbH | DE | Electrolysis |  | METHOD AND DEVICE FOR THE PRODUCTION OF CARBON MONOXIDE |
-| 22/07 | 22165332.2 | company | Trieye Ltd. | IL | PV devices |  | PHOTONICS SYSTEMS AND METHODS |
 | 22/07 | 20811461.1 | company | Danieli Automation S.P.A. | IT | Power conversion |  | CONVERTER DEVICE AND ELECTRIC POWER SUPPLY APPARATUS |
 | 22/07 | 22161185.8 | company | RTX Corporation | US | Combustion |  | ASSEMBLY FOR A TURBINE ENGINE |
 | 22/07 | 21168088.9 | company | Wobben Properties GmbH | DE | Wind |  | WIND FARM AND METHOD FOR OPERATION OF A WIND FARM |
@@ -12025,7 +12061,6 @@ Patent applications published by the official registers in India and Europe and 
 | 22/07 | 23159328.6 | company | Toyota Material Handling Manufacturing Italy S.p | IT | Grid & power networks |  | A TRACTOR-TRAILER |
 | 22/07 | 23186869.6 | company | LG Innotek Co., Ltd. | KR | Grid & power networks |  | WIRELESS POWER TRANSMISSION CONTROL METHOD AND APPARATUS |
 | 22/07 | 21910286.0 | institute | Teikyo University | JP | PV generation |  | ABNORMALITY DETERMINATION SYSTEM FOR SOLAR BATTERY MODULE AND ABNORMALITY DETERMINATION METHOD FOR SOLAR BATTE |
-| 22/07 | 21922821.0 | company | NTT, Inc. | JP | PV devices |  | IMAGING DEVICE AND OPTICAL ELEMENT |
 | 22/07 | 23195789.5 | company | Hamilton Sundstrand Corporation | US | Power conversion |  | MULTI-PURPOSE POWER CONVERSION MODULE |
 | 22/07 | 22713477.2 | institute | University of South Florida | US | Thermal storage |  | PROTECTION OF POLYMERIC/ORGANIC MATERIALS FROM PHOTODEGRADATION BY ENCAPSULATION |
 | 22/07 | 22712897.2 | company | Signify Holding B.V. | NL | Grid & power networks |  | EMERGENCY LIGHTING SYSTEM |
@@ -12067,7 +12102,6 @@ Patent applications published by the official registers in India and Europe and 
 | 22/07 | 24166026.5 | individual | Datz, Leonora | AT | Combustion |  | LIGHTER HOLDING DEVICE |
 | 22/07 | 23799728.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY CONTAINER AND ENERGY STORAGE SYSTEM INCLUDING THE SAME |
 | 22/07 | 22705530.8 | company | Kautex Textron GmbH & Co. KG | DE | Thermal storage, Batteries & fuel cells |  | HEAT EXCHANGER FOR TRACTION BATTERY WITH COMPRESSIBLE HEAT EXCHANGER CHANNELS |
-| 22/07 | 22822715.3 | company | Microsoft Technology Licensing, LLC | US | PV devices |  | IMAGE SENSING PIXEL CONFIGURATIONS FOR REDUCED SENSOR NOISE |
 | 22/07 | 24212261.2 | company | Midea Group Co., Ltd. | CN | Combustion |  | FIRE GRATE AND MANUFACTURING METHOD THEREOF, BURNER AND WATER HEATER |
 | 22/07 | 24192259.0 | company | Services Pétroliers Schlumberger | FR | Combustion |  | SINGLE-PIXEL MULTISPECTRAL IMAGER FOR FLARE AND BURNER COMBUSTION EFFICIENCY MEASUREMENT |
 | 22/07 | 24773935.2 | company | Big Data Center of State Grid Corporation of Chi | CN | Grid & power networks |  | DISTRIBUTED COLLABORATIVE PRIVACY CALCULATION METHOD AND SYSTEM FOR CARBON EMISSION IN A PLURALITY OF POWER GR |
@@ -12386,6 +12420,527 @@ Patent applications published by the official registers in India and Europe and 
 | 22/07 | 26151850.0 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV generation, PV devices |  | PERFORMANCE REGENERATION OF MOISTURE-DEGRADED PV MODULES |
 | 22/07 | 25224812.5 | company | Tongwei Solar (Chengdu) Co., Ltd. | CN | PV devices |  | BACK-CONTACT SOLAR CELL AND PREPARATION METHOD THEREOF, AND PHOTOVOLTAIC MODULE |
 | 22/07 | 24865215.8 | company | Panasonic Intellectual Property Management Co.,  | JP | PV devices |  | SEMICONDUCTOR RELAY |
+| 29/07 | 14727060.7 | company | Tyco Electronics (Shanghai) Co., Ltd. | CN | Grid & power networks |  | NON-CONTACT POWER SUPPLY CIRCUIT |
+| 29/07 | 17199930.3 | company | Robert Bosch GmbH | DE | Batteries & fuel cells |  | METHOD FOR TESTING AND/OR CALIBRATION OF AT LEAST ONE GAS CONCENTRATION SENSOR OF A FUEL CELL SYSTEM |
+| 29/07 | 16852513.7 | institute | Massachusetts Institute Of Technology | US | Gas separation & carbon capture |  | SYSTEMS AND METHODS FOR COLLECTING A SPECIES |
+| 29/07 | 18209830.1 | company | Bredenoord B.V. | NL | Batteries & fuel cells |  | TRANSPORT CONTAINER COMPRISING AN ASSEMBLY FOR STORING AND TRANSPORTING ELECTRICAL ENERGY |
+| 29/07 | 19732528.5 | company | Trieye Ltd. | IL | PV devices |  | GERMANIUM BASED FOCAL PLANE ARRAY FOR THE SHORT INFRARED SPECTRAL REGIME |
+| 29/07 | 19182526.4 | company | Samsung SDI Co., Ltd. | KR | Batteries & fuel cells |  | NICKEL-BASED ACTIVE MATERIAL PRECURSOR, METHOD OF PREPARING THE SAME, NICKEL-BASED ACTIVE MATERIAL, AND LITHIU |
+| 29/07 | 19180703.1 | company | Delta Electronics (Shanghai) Co., Ltd. | CN | Power conversion |  | POWER MODULE STRUCTURE |
+| 29/07 | 18729955.7 | company | Wobben Properties GmbH | DE | Grid & power networks |  | METHOD FOR OPERATING A WIND FARM |
+| 29/07 | 18829526.5 | company | Schneider Electric Solar Inverters USA, Inc. | US | Grid & power networks, Power conversion |  | START-UP CIRCUIT |
+| 29/07 | 18826586.2 | company | FJELL BIODRY AS | NO | Gas separation & carbon capture |  | MASS TRANSFER SYSTEMS |
+| 29/07 | 18830263.2 | company | Ehrfeld Mikrotechnik GmbH | DE | Thermal storage |  | CHANNEL HAVING A TURBULENCE GENERATOR, AND PROCESS APPARATUS WITH CHANNELS |
+| 29/07 | 19771033.8 | company | RMH Tech LLC | US | Solar collectors, PV generation |  | PV MODULE MOUNTING ASSEMBLY WITH CLAMP/STANDOFF ARRANGEMENT |
+| 29/07 | 19791477.3 | institute | The University of British Columbia | CA | Gas separation & carbon capture, Hydrogen |  | SYSTEMS AND METHODS FOR ELECTROCHEMICAL GENERATION OF SYNGAS AND OTHER USEFUL CHEMICALS |
+| 29/07 | 19892566.1 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SOLID ELECTROLYTE MEMBRANE, METHOD FOR MANUFACTURING SAME, AND ALL-SOLID-STATE BATTERY COMPRISING SAME |
+| 29/07 | 19720618.8 | company | Hysilabs, SAS | FR | Hydrogen |  | PROCESS FOR PRODUCING AND REGENERATING HYDROGEN CARRIER COMPOUNDS |
+| 29/07 | 19803330.0 | company | Wuhu Midea Kitchen And Bath Appliances Mfg. Co,  | CN | Combustion |  | DISTRIBUTOR AND COMBUSTOR AND WATER HEATER HAVING SAME |
+| 29/07 | 20202335.4 | company | General Electric Renovables España, S.L. | ES | Wind |  | SYSTEMS AND METHODS FOR OPTIMIZING SCHEDULING OF HEALTH CHECKS FOR WIND TURBINES DURING PERIODS OF LOW WIND SP |
+| 29/07 | 19827471.4 | company | NIPPON STEEL Chemical & Material Co., Ltd. | JP | Batteries & fuel cells |  | STAINLESS STEEL FOIL CURRENT COLLECTOR FOR SECONDARY BATTERY POSITIVE ELECTRODES |
+| 29/07 | 19827287.4 | company | Kolon Industries, Inc. | KR | Batteries & fuel cells |  | MANUFACTURING METHOD OF MEMBRANE ELECTRODE ASSEMBLY, MEMBRANE ELECTRODE ASSEMBLY MANUFACTURED THEREBY, AND FUE |
+| 29/07 | 19736686.7 | company | Wobben Properties GmbH | DE | Grid & power networks |  | METHOD FOR DETECTING LOW-FREQUENCY OSCILLATIONS AND DETECTION DEVICE FOR SAME |
+| 29/07 | 19831111.0 | company | CATALER CORPORATION | JP | Gas separation & carbon capture |  | EXHAUST GAS PURIFICATION CATALYST DEVICE |
+| 29/07 | 18933206.7 | company | Gree Electric Appliances, Inc. of Zhuhai | CN | Grid & power networks |  | CHARGING DEVICE AND CHARGING SYSTEM |
+| 29/07 | 20217450.4 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | Electrolysis, Batteries & fuel cells |  | REVERSIBLE WATER ELECTROLYSIS SYSTEM, METHOD FOR STORING OR RELEASING ELECTRICITY BY REVERSIBLE HIGH-TEMPERATU |
+| 29/07 | 19778461.4 | company | Robert Bosch GmbH | DE | Grid & power networks |  | BATTERY SYSTEM AND METHOD FOR OPERATING A BATTERY SYSTEM |
+| 29/07 | 21168078.0 | company | Lutron Technology Company LLC | US | Grid & power networks |  | LOAD CONTROL SYSTEM RESPONSIVE TO LOCATION OF AN OCCUPANT AND MOBILE DEVICES |
+| 29/07 | 21164985.0 | company | Carrier Corporation | US | Solar thermal & other motors |  | THERMALLY DRIVEN ELASTOCALORIC SYSTEM |
+| 29/07 | 19900600.8 | company | Hyosung Heavy Industries Corporation | KR | Grid & power networks |  | POWER GRID CONTROL DEVICE AND SYSTEM |
+| 29/07 | 20711400.0 | company | ERG Aerospace Corporation | US | Thermal storage |  | OPEN CELL FOAM METAL HEAT EXCHANGER |
+| 29/07 | 21179806.1 | company | STMicroelectronics S.r.l. | IT | Power conversion |  | A DRIVER CIRCUIT, CORRESPONDING DEVICE AND METHOD OF OPERATION |
+| 29/07 | 19922424.7 | company | MITSUBISHI ELECTRIC CORPORATION | JP | Thermal storage |  | HEAT EXCHANGE DEVICE AND METHOD FOR MANUFACTURING SAME |
+| 29/07 | 19929706.0 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY MEMBER, METHOD FOR MANUFACTURING BATTERY MEMBER, AND SECONDARY BATTERY |
+| 29/07 | 21193540.8 | company | Samsung Electronics Co., Ltd. | KR | Batteries & fuel cells, Grid & power network |  | ELECTRONIC DEVICE INCLUDING BATTERY AND METHOD OF CONTROLLING CHARGING THEREOF |
+| 29/07 | 20837513.9 | company | Kolon Industries, Inc. | KR | Batteries & fuel cells |  | POLYMER ELECTROLYTE MEMBRANE, MANUFACTURING METHOD THEREFOR, AND ELECTROCHEMICAL DEVICE COMPRISING SAME |
+| 29/07 | 22152710.4 | company | Trina Solar Co., Ltd | CN | PV generation, PV devices |  | SOLAR CELL MODULE |
+| 29/07 | 20212265.1 | company | Infineon Technologies Austria AG | AT | Power conversion |  | POWER CONVERTER ARRANGEMENT WITH INCREASED SURGE VOLTAGE ROBUSTNESS |
+| 29/07 | 20859413.5 | company | Comtech (Aust) Pty Ltd | AU | Grid & power networks, PV generation |  | SOLAR POWER MONITORING AND OPTIMISATION APPARATUS, SYSTEMS AND METHODS |
+| 29/07 | 20863717.3 | company | Avicenatech, Corp. | US | PV devices |  | OPTICAL INTERCONNECTS USING MICROLEDS |
+| 29/07 | 20876390.4 | company | Panasonic Intellectual Property Management Co.,  | JP | Thermal storage |  | HEAT EXCHANGER |
+| 29/07 | 21890362.3 | company | Toyo System Co., Ltd. | JP | Batteries & fuel cells, Grid & power network |  | CHARGING AND DISCHARGING TEST DEVICE |
+| 29/07 | 21167685.3 | company | LM Wind Power A/S | DK | Wind |  | A WIND TURBINE BLADE WITH A FAIRING |
+| 29/07 | 21763702.4 | institute | The Board of Regents of The Nevada System of Hig | US | Nuclear |  | STOICHIOMETRIC RECOVERY OF UF4 FROM UF6 DISSOLVED IN IONIC LIQUIDS |
+| 29/07 | 21174899.1 | institute | "International Solar Energy Research Center Kons | DE | PV devices |  | PHOTOVOLTAIC MODULE |
+| 29/07 | 21748318.9 | company | SK Eco Prime Co., Ltd. | KR | Synthetic fuels, Fuels & biofuels |  | METHOD FOR PREPARING BIO-OIL FROM FATTY ACID WITH HIGH ACID VALUE |
+| 29/07 | 20816401.2 | company | VESTAS WIND SYSTEMS A/S | DK | Wind |  | A NACELLE FOR A WIND TURBINE AND A METHOD OF MAKING A WIND TURBINE |
+| 29/07 | 21765406.0 | company | Yank Technologies, Inc. | US | Grid & power networks |  | ISOLATED SWITCHING AMPLIFIER SYSTEM |
+| 29/07 | 21774244.4 | company | Ningde Amperex Technology Limited | CN | Batteries & fuel cells |  | LITHIUM-ION SECONDARY BATTERY AND ELECTRONIC DEVICE COMPRISING THE SAME |
+| 29/07 | 21779627.5 | institute | Nagasaki Institute of Applied Science | JP | Power conversion |  | DETERIORATION ESTIMATION DEVICE AND DETERIORATION ESTIMATION PROGRAM FOR POWER CONVERSION DEVICE |
+| 29/07 | 21733480.4 | institute | Universidad Del Pais Vasco-Euskal Herriko Uniber | ES | Wind |  | MODEL-BASED PREDICTIVE CONTROL METHOD FOR STRUCTURAL LOAD REDUCTION IN WIND TURBINES |
+| 29/07 | 22746263.7 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | METHOD FOR ADHERING OF TAPE FOR SECONDARY BATTERY |
+| 29/07 | 22194518.1 | company | Huawei Digital Power Technologies Co., Ltd. | CN | PV generation |  | PHOTOVOLTAIC SYSTEM, INVERTER, AND DIRECT CURRENT ELECTRIC ARC DETECTION METHOD |
+| 29/07 | 22816477.8 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | CATHODE FOR LITHIUM SECONDARY BATTERY AND LITHIUM SECONDARY BATTERY COMPRISING SAME |
+| 29/07 | 21735237.6 | company | LM Wind Power A/S | DK | Wind |  | A WIND TURBINE BLADE MEASUREMENT SYSTEM AND A METHOD OF IMPROVING ACCURACY OF A WIND TURBINE BLADE MEASUREMENT |
+| 29/07 | 21765804.6 | company | Energy Vault, Inc. | US | Solar thermal & other motors |  | ENERGY STORAGE AND DELIVERY SYSTEM AND METHOD |
+| 29/07 | 21845320.7 | company | Huawei Digital Power Technologies Co., Ltd. | CN | Grid & power networks, Power conversion |  | VOLTAGE COMPENSATION DEVICE, INVERSION DEVICE, AND PHOTOVOLTAIC POWER GENERATION SYSTEM |
+| 29/07 | 22757812.7 | company | Contemporary Amperex Technology (Hong Kong) Limi | HK | Batteries & fuel cells, Grid & power network |  | CHARGING DEVICE, CHARGING CONTROL METHOD, POWER MANAGEMENT SYSTEM AND STORAGE MEDIUM |
+| 29/07 | 20955761.0 | company | Huawei Digital Power Technologies Co., Ltd. | CN | Grid & power networks |  | CHARGING BLOCK AND CHARGING SYSTEM |
+| 29/07 | 21383193.6 | company | Nordex Energy Spain, S.A.U. | ES | Wind |  | A WIND TURBINE TOWER WITH A PLURALITY OF VORTEX GENERATORS |
+| 29/07 | 22209063.1 | company | Prime Planet Energy & Solutions, Inc. | JP | Batteries & fuel cells |  | METHOD FOR MANUFACTURING SECONDARY BATTERY |
+| 29/07 | 22816476.0 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | LITHIUM SECONDARY BATTERY AND MANUFACTURING METHOD THEREFOR |
+| 29/07 | 23156327.1 | company | Integrated Device Technology, Inc. | US | Grid & power networks |  | ENHANCED FOREIGN OBJECT DETECTION WITH COIL CURRENT SENSING IN WIRELESS POWER TRANSFER SYSTEMS |
+| 29/07 | 21870710.7 | company | Tianmulake Excellent Anode Materials Co., Ltd. | CN | Batteries & fuel cells |  | SILICON-BASED NEGATIVE ELECTRODE COMPOSITE MATERIAL AND LITHIUM SECONDARY BATTERY |
+| 29/07 | 21870709.9 | company | Tianmulake Excellent Anode Materials Co., Ltd. | CN | Batteries & fuel cells |  | NEGATIVE ELECTRODE MATERIAL ON WHICH METAL ELEMENT IS GRADIENT-DOPED AND APPLICATION THEREOF |
+| 29/07 | 22176391.5 | company | Beijing Xiaomi Mobile Software Co., Ltd. | CN | Batteries & fuel cells, Grid & power network |  | METHOD AND APPARATUS OF TEMPERATURE CONTROL, AND STORAGE MEDIUM |
+| 29/07 | 21810477.6 | company | Array Technologies, Inc. | US | PV generation |  | STOWING OF SOLAR POWER DEVICES |
+| 29/07 | 21880115.7 | company | Resonac Corporation | JP | Batteries & fuel cells |  | LITHIUM ION BATTERY LIFETIME PREDICTION METHOD, DISCHARGE CAPACITY RETENTION RATE PREDICTION METHOD, LIFETIME  |
+| 29/07 | 23172287.7 | company | Hitachi Energy Ltd | CH | Grid & power networks, Power conversion |  | A TRANSFORMER ASSEMBLY FOR ELECTRIC GRIDS AND A RELATED CONTROL METHOD |
+| 29/07 | 22893992.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | ELECTRODE ASSEMBLY INCLUDING COATING LAYER FORMED ON OTHER SURFACE OF SINGLE-SIDED POSITIVE ELECTRODE AND A SE |
+| 29/07 | 22876812.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | POUCH TYPE SECONDARY BATTERY, AND DEVICE AND METHOD FOR SEALING THE SAME |
+| 29/07 | 23159424.3 | company | Prime Planet Energy & Solutions, Inc. | JP | Batteries & fuel cells |  | SECONDARY BATTERY |
+| 29/07 | 21897602.5 | company | GS Yuasa International Ltd. | JP | Batteries & fuel cells |  | LEAD-ACID BATTERY |
+| 29/07 | 22887465.7 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | CELL TRAY |
+| 29/07 | 21810919.7 | company | Schaeffler Technologies AG & Co. KG | DE | Batteries & fuel cells |  | COMPONENT OF A REDOX FLOW CELL, REDOX FLOW CELL, AND REDOX FLOW BATTERY |
+| 29/07 | 23160844.9 | company | General Electric Company | US | Combustion |  | TURBINE ENGINE COMBUSTOR AND COMBUSTOR LINER |
+| 29/07 | 20966651.0 | company | Huawei Technologies Co., Ltd. | CN | Grid & power networks |  | WIRELESS ENERGY TRANSMISSION UNIT, DEVICE AND METHOD |
+| 29/07 | 21830639.7 | company | Ampere SAS | FR | Grid & power networks |  | BALANCING METHOD |
+| 29/07 | 21802657.3 | company | Traton AB | SE | Grid & power networks |  | A METHOD FOR DETERMINING THE ASSOCIATION OF A SENSOR DEVICE WITH AN ELECTRIC BATTERY UNIT |
+| 29/07 | 21910893.3 | company | Resonac Corporation | JP | Batteries & fuel cells |  | NEGATIVE ELECTRODE FOR ALL-SOLID-STATE BATTERY, ALL-SOLID-STATE BATTERY, AND NEGATIVE-ELECTRODE ACTIVE MATERIA |
+| 29/07 | 22899056.0 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | JELLY-ROLL ELECTRODE ASSEMBLY AND SECONDARY BATTERY COMPRISING THE SAME |
+| 29/07 | 23199627.3 | company | Tesla, Inc. | US | Batteries & fuel cells |  | ELECTRIC MOTOR WASTE HEAT MODE TO HEAT BATTERY |
+| 29/07 | 23202378.8 | company | Mitsubishi Electric Corporation | JP | Thermal storage |  | OUTDOOR UNIT OF AIR-CONDITIONING APPARATUS AND AIR-CONDITIONING APPARATUS |
+| 29/07 | 21926147.6 | company | Huawei Technologies Co., Ltd. | CN | Power conversion |  | LLC CONVERTER AND SOFT START METHOD |
+| 29/07 | 22883804.1 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY MODULE HAVING PRESSURE SENSOR FOR DETECTING THERMAL PROPAGATION |
+| 29/07 | 23167293.2 | company | Delta Electronics, Inc. | TW | Power conversion |  | SWITCH CIRCUIT AND POWER MODULE |
+| 29/07 | 22703384.2 | company | Flender GmbH | DE | Wind |  | TRANSMISSION AND METHOD FOR OPERATING A TRANSMISSION |
+| 29/07 | 21929195.2 | company | Panasonic Intellectual Property Management Co.,  | JP | Batteries & fuel cells |  | SOLID ELECTROLYTE MATERIAL AND BATTERY USING SAME |
+| 29/07 | 23770958.9 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | LITHIUM SECONDARY BATTERY |
+| 29/07 | 23216644.7 | company | Contemporary Amperex Technology (Hong Kong) Limi | HK | Batteries & fuel cells |  | NEGATIVE ELECTRODE PLATE, SECONDARY BATTERY, AND DEVICE THEREOF |
+| 29/07 | 23788440.8 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | LITHIUM SECONDARY BATTERY HAVING IMPROVED STABILITY |
+| 29/07 | 22306206.8 | institute | Centre national de la recherche scientifique | FR | Gas separation & carbon capture |  | NEW ULTRA-MICROPOROUS CRYSTALLINE METAL ORGANIC FRAMEWORKS COMPRISING BISPHOSPHONIC ACID LIGANDS |
+| 29/07 | 22819171.4 | company | SVOLT Energy Technology Co., Ltd. | CN | Batteries & fuel cells |  | THREE-ELECTRODE CELL STRUCTURE AND PREPARATION METHOD THEREFOR, AND METHOD FOR TESTING NEGATIVE ELECTRODE POTE |
+| 29/07 | 22904680.0 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | METHOD FOR PREPARING POLYMER SOLID ELECTROLYTE AND POLYMER SOLID ELECTROLYTE PREPARED THEREBY |
+| 29/07 | 22820397.2 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | WELDING CONDITION INSPECTION DEVICE AND METHOD |
+| 29/07 | 22736213.4 | company | TRUMPF Laser- und Systemtechnik SE | DE | Batteries & fuel cells |  | METHOD FOR WELDING ALUMINUM-CONTAINING COMPONENTS IN A MEDIA-TIGHT MANNER |
+| 29/07 | 22737741.3 | company | VESTAS WIND SYSTEMS A/S | DK | Wind |  | A SEGMENTED WIND TURBINE TOWER SECTION AND METHOD OF ASSEMBLING SAME |
+| 29/07 | 20731782.7 | individual | Fondacija Mozaik | BA | Wind |  | WIND ROUTERS FOR VERTICAL WIND TURBINES |
+| 29/07 | 22938740.2 | company | CRRC Changchun Railway Vehicles Co., Ltd. | CN | Grid & power networks |  | AUXILIARY POWER SUPPLY MODULE CHECKING METHOD AND APPARATUS |
+| 29/07 | 23217198.3 | company | Kidde Technologies Inc. | US | Batteries & fuel cells |  | DUCTED GAS DETECTOR |
+| 29/07 | 22765136.1 | company | BASF SE | DE | Fuels & biofuels |  | AQUEOUS DISPERSIONS OF PARAFFIN INHIBITORS |
+| 29/07 | 24154006.1 | company | Deutsches Zentrum für Luft- und Raumfahrt e.V. | DE | Combustion |  | BURNER HEAD, BURNER SYSTEM AND METHOD FOR OPERATING A BURNER SYSTEM |
+| 29/07 | 23872999.0 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY MODULE WITH IMPROVED HEAT PROPAGATION PREVENTION STRUCTURE |
+| 29/07 | 22793380.1 | company | VESTAS WIND SYSTEMS A/S | DK | Wind |  | A NACELLE FOR A WIND TURBINE |
+| 29/07 | 24169321.7 | company | BHG | FR | PV generation |  | DEVICE FOR DETERMINING THE DAY DURATION OF AT LEAST ONE DAY, SYSTEM FOR ASSESSING THE INSTALLATION LATITUDE OF |
+| 29/07 | 23880171.6 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | CURVED BATTERY CELL THICKNESS MEASURING DEVICE INCLUDING LOW MEASURING PRESSURE CALIPERS AND CURVED BATTERY CE |
+| 29/07 | 23860809.5 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | CUTTING APPARATUS FOR ELECTRODE SUBSTRATE |
+| 29/07 | 24168039.6 | company | AEROCOMPACT Group Holding AG | AT | Solar collectors, PV generation |  | ROOF HOOK FOR FIXING A SUBSTRUCTURE OF A SUPPORT ELEMENT WITH A ROOF CONSTRUCTION |
+| 29/07 | 23868570.5 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | CROSSLINKED POLYTHIOPHENE COMPOUNDS, SULFUR-CARBON COMPOSITE, LITHIUM-SULFUR BATTERY, AND METHOD OF MANUFACTUR |
+| 29/07 | 23706404.3 | company | Be Energy | FR | Grid & power networks |  | REGENERATION SYSTEM COMPRISING MULTIPLE REGENERATION LINES FOR SIMULTANEOUSLY REGENERATING MULTIPLE CONNECTED  |
+| 29/07 | 23763386.2 | company | CATALER CORPORATION | JP | Gas separation & carbon capture |  | METHOD FOR MANUFACTURING EXHAUST GAS PURIFICATION CATALYST |
+| 29/07 | 24711370.7 | company | QuantumScape Battery, Inc. | US | Batteries & fuel cells |  | CALENDERED CATHODE COMPOSITIONS AND METHODS OF MAKING THEREOF |
+| 29/07 | 22931475.2 | company | Contemporary Amperex Technology Co., Limited | CN | Batteries & fuel cells |  | BATTERY CELL, BATTERY, ELECTRICAL DEVICE, AND METHOD AND DEVICE FOR MANUFACTURING BATTERY CELL |
+| 29/07 | 23858392.6 | company | Sungrow Power Supply Co., Ltd. | CN | Grid & power networks, PV generation |  | PHOTOVOLTAIC POWER GENERATION SYSTEM AND FAULT PROTECTION METHOD AND APPARATUS THEREOF, COMBINER BOX, AND INVE |
+| 29/07 | 24181101.7 | company | Rolls-Royce Deutschland Ltd & Co KG | DE | Power conversion |  | SOLID STATE POWER CONTROLLER, POWER MANAGEMENT SYSTEM AND POWER CONVERTER |
+| 29/07 | 23714669.1 | institute | Fraunhofer-Gesellschaft zur Förderung der angewa | DE | Wind |  | ROLLING ELEMENT BEARING HAVING AN ULTRASONIC SENSOR ASSEMBLY FOR MONITORING RACEWAY DAMAGE |
+| 29/07 | 23852695.8 | company | Samsung Electronics Co., Ltd. | KR | Grid & power networks |  | ELECTRONIC DEVICE AND CHARGING DEVICE FOR PROVIDING UPDATE FUNCTION OF FIRMWARE PROGRAM, AND CONTROL METHOD TH |
+| 29/07 | 23725951.0 | company | VESTAS WIND SYSTEMS A/S | DK | Wind |  | WIND TURBINE |
+| 29/07 | 24201207.8 | company | Goodrich Corporation | US | Fuels & biofuels |  | CARBON DIOXIDE (CO2) MANAGEMENT IN CARBON-CARBON (C/C) PREFORM PRODUCTION PROCESS |
+| 29/07 | 23727876.7 | company | Acculogic GmbH | DE | Batteries & fuel cells |  | APPARATUS AND METHOD FOR TESTING A CELL CONTACT OF BATTERY CELLS OF A BATTERY MODULE |
+| 29/07 | 23744847.7 | company | Eurenco France SAS | FR | Fuels & biofuels |  | METHANOL-BASED ENGINE FUEL CONTAINING A COMBUSTION-ENHANCING ADDITIVE |
+| 29/07 | 22737608.4 | company | Trimble Inc | US | Batteries & fuel cells, Grid & power network |  | PORTABLE CASING FOR LAND SURVEYING APPLICATIONS AND METHOD THEREOF |
+| 29/07 | 23850233.0 | company | Samsung Electronics Co., Ltd. | KR | Batteries & fuel cells |  | ELECTRONIC DEVICE INCLUDING TAPES SURROUNDING BATTERY |
+| 29/07 | 24213187.8 | company | L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L | FR | Thermal storage |  | HEAT EXCHANGER WITH LEAK DETECTION SYSTEM |
+| 29/07 | 23212157.4 | company | Bayerische Motoren Werke Aktiengesellschaft | DE | Power conversion |  | POWER MODULE AND THE PROCESS OF PRODUCING A POWER MODULE |
+| 29/07 | 23860773.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | ELECTRODE ASSEMBLY MANUFACTURING METHOD AND ELECTRODE ASSEMBLY |
+| 29/07 | 23748530.5 | company | Heart Aerospace AB | SE | Grid & power networks |  | AN ENERGY DISTRIBUTION SYSTEM |
+| 29/07 | 23217616.4 | company | AESC Japan Ltd. | JP | Batteries & fuel cells |  | COMPOSITE POSITIVE ELECTRODE PLATE AND PREPARATION METHOD AND APPLICATIONS THEREOF |
+| 29/07 | 24214564.7 | company | Bosch Thermotechnology Ltd (UK) | GB | Combustion |  | MONITORING DEVICE, BURNING APPLIANCE AND SELF-TESTING METHOD |
+| 29/07 | 23219898.6 | company | Sunfire SE | DE | Electrolysis |  | ELECTROLYSIS ARRANGEMENT |
+| 29/07 | 25152122.5 | company | Carrier Corporation | US | Thermal storage |  | A FLUID DISTRIBUTOR FOR A HEAT EXCHANGER |
+| 29/07 | 24382054.5 | company | MANN+HUMMEL GmbH | DE | Batteries & fuel cells |  | VENTING UNIT AND BATTERY WITH VENTING UNIT |
+| 29/07 | 23777213.2 | company | Munters Euroform GmbH | DE | Gas separation & carbon capture |  | DROPLET SEPARATOR |
+| 29/07 | 25158045.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY INFORMATION GENERATING APPARATUS AND METHOD |
+| 29/07 | 25153451.7 | company | Hithium Tech HK Limited | HK | Batteries & fuel cells |  | BATTERY CELL RECYCLING DEVICE AND BATTERY CELL TAPE PROCESSING METHOD |
+| 29/07 | 23786256.0 | company | Flender GmbH | DE | Wind |  | SHAFT-HUB CONNECTION FOR A TRANSMISSION |
+| 29/07 | 23786032.5 | company | Truma Gerätetechnik GmbH & Co. KG | DE | Combustion |  | METHOD FOR MANUFACTURING A BURNER ASSEMBLY, AND BURNER ASSEMBLY |
+| 29/07 | 25161386.5 | company | Hithium Tech HK Limited | HK | Batteries & fuel cells |  | LOWER PLASTIC MEMBER, END COVER ASSEMBLY, ENERGY STORAGE APPARATUS, AND POWER CONSUMING DEVICE |
+| 29/07 | 23798929.8 | company | FlowGen Development & Management AG | CH | Wind |  | METHOD OF MANUFACTURING A ROTOR BLADE FOR WIND TURBINES |
+| 29/07 | 24201646.7 | company | SK Innovation Co., Ltd. | KR | Hydrogen |  | RECARBURIZER, METHOD OF PRODUCING THE SAME, AND STEEL-MAKING PROCESS |
+| 29/07 | 23919923.5 | company | JFE Steel Corporation | JP | Fuels & biofuels |  | METHOD FOR PRODUCING AGGLOMERATES MAINLY COMPOSED OF CARBON |
+| 29/07 | 23836811.2 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | Electrolysis, Nuclear |  | LIGHT-WATER-REACTOR (LWR) NUCLEAR COGENERATION PLANT AND HIGH-TEMPERATURE WATER ELECTROLYSIS SYSTEM(S) FOR PRO |
+| 29/07 | 23848114.7 | company | ExxonMobil Technology and Engineering Company | US | Synthetic fuels |  | ISOMERIZATION OF BIOFEEDS OVER BASE METAL CATALYSTS |
+| 29/07 | 24701453.3 | company | Flender GmbH | DE | Wind |  | SHAFT-HUB CONNECTION FOR A TRANSMISSION |
+| 29/07 | 25158965.1 | company | SAGEMCOM ENERGY & TELECOM SAS | FR | Grid & power networks |  | METHODS AND DEVICES FOR MANAGING A CLIENT FACILITY OF A RESOURCE DISTRIBUTION NETWORK |
+| 29/07 | 24855919.7 | company | VESTAS WIND SYSTEMS A/S | DK | Wind |  | A METHOD FOR INSTALLING AT LEAST ONE DAMPER UNIT IN A TOWER SECTION OF A WIND TURBINE |
+| 29/07 | 25222985.1 | company | Delta Electronics, Inc. | TW | Power conversion |  | POWER CONVERTER AND CONTROL METHOD THEREOF |
+| 29/07 | 24716335.5 | company | Flender GmbH | DE | Wind |  | PLANETARY GEARBOX WITH A SUN GEAR MOUNTED IN A PLANET CARRIER |
+| 29/07 | 24193603.8 | company | Log-iQ s.r.o. | CZ | Grid & power networks |  | A REGULATION MODULE |
+| 29/07 | 25196920.0 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | ELECTRODES FOR RECHARGEABLE LITHIUM BATTERY AND RECHARGEABLE LITHIUM BATTERY INCLUDING THE SAME |
+| 29/07 | 25200038.5 | company | Altech Batteries GmbH | DE | Batteries & fuel cells |  | RECEPTACLE FOR FILLING AND OPTIONALLY CLOSING THE ELECTROCHEMICAL CELL AND DEVICE FOR FILLING AND OPTIMAL CLOS |
+| 29/07 | 24203796.8 | company | AVL List GmbH | AT | Electrolysis, Batteries & fuel cells |  | CELL VOLTAGE PICKUP SUB-ASSEMBLY AND ASSEMBLY FOR FUEL CELL AND ELECTROLYZER STACK VOLTAGE MONITORING |
+| 29/07 | 24732689.5 | company | FRONIUS INTERNATIONAL GmbH | AT | PV generation |  | DEVICE AND METHOD FOR DETECTING AN ARC IN A DIRECT CURRENT SYSTEM |
+| 29/07 | 26163440.6 | company | Blücher GmbH | DE | Gas separation & carbon capture |  | USE OF A PROTECTIVE MATERIAL AND CLOTHING FOR PROTECTING AGAINST CONTAMINATION BY POLYCYCLIC AROMATIC HYDROCAR |
+| 29/07 | 26159104.4 | company | Hithium Tech HK Limited | HK | Batteries & fuel cells |  | ENERGY-STORAGE APPARATUS AND ELECTRICITY-CONSUMPTION DEVICE |
+| 29/07 | 26161974.6 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SECONDARY BATTERY AND MANUFACTURING METHOD OF THE SAME |
+| 29/07 | 26167708.2 | company | Mutech B.V. | NL | Wind |  | A ROTOR BLADE, NOISE REDUCTION MEANS FOR A ROTOR BLADE, AND METHOD FOR REDUCING NOISE FOR A ROTOR BLADE |
+| 29/07 | 26168723.0 | company | BWXT Advanced Technologies LLC | US | Nuclear |  | FUEL ASSEMBLY FOR THERMAL PROPULSION APPLICATIONS |
+| 29/07 | 26168175.3 | company | LG Electronics Inc. | KR | Grid & power networks |  | APPARATUS AND METHOD FOR PERFORMING POWER CONTROL IN WIRELESS POWER TRANSFER SYSTEM |
+| 29/07 | 26169501.9 | company | LG Electronics Inc. | KR | Grid & power networks |  | APPARATUS AND METHOD FOR PERFORMING POWER CALIBRATION IN WIRELESS POWER TRANSMISSION SYSTEM |
+| 29/07 | 26169163.8 | company | LG Electronics Inc. | KR | Grid & power networks |  | WIRELESS POWER RECEPTION APPARATUS, WIRELESS POWER TRANSMISSION APPARATUS, AND POWER CALIBRATION METHOD USING  |
+| 29/07 | 26169169.5 | company | LG Electronics Inc. | KR | Grid & power networks |  | WIRELESS POWER RECEPTION APPARATUS, WIRELESS POWER TRANSMISSION APPARATUS, AND POWER CALIBRATION METHOD USING  |
+| 29/07 | 26169785.8 | company | Copeland LP | US | Thermal storage |  | PLASTIC FILM HEAT EXCHANGER FOR LOW PRESSURE AND CORROSIVE FLUIDS |
+| 29/07 | 26168730.5 | company | BWXT Advanced Technologies LLC | US | Nuclear |  | FUEL ASSEMBLY FOR THERMAL PROPULSION APPLICATIONS |
+| 29/07 | 26161019.0 | company | Pfeiffer Vacuum Technology AG | DE | Grid & power networks |  | ENERGIESPEICHERSYSTEM |
+| 29/07 | 26172307.6 | company | RTX Corporation | US | Combustion |  | COOLING COMBUSTOR WALL BOSS |
+| 29/07 | 26169849.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | BATTERY ASSEMBLY HAVING IMPROVED SAFETY |
+| 29/07 | 26172493.4 | individual | Khanania, Souhel | US | Combustion, Thermal storage |  | COOKING SYSTEM AND HEAT EXCHANGER |
+| 29/07 | 26167333.9 | company | Shaheen Innovations Holding Limited | AE | Power conversion |  | A NICOTINE DELIVERY DEVICE |
+| 29/07 | 26172811.7 | company | Hanil Tube Corporation | KR | Batteries & fuel cells |  | COUPLING ASSEMBLY WITH VALVES |
+| 29/07 | 26172034.6 | company | Thoratec Corporation | US | Grid & power networks |  | A TOUCH SCREEN INTERFACE AND INFRARED COMMUNICATION SYSTEM INTEGRATED INTO A BATTERY |
+| 29/07 | 26173167.3 | company | BBG Holdings GmbH | AT | Grid & power networks |  | A DATA PROCESSING APPARATUS AND METHOD OF PROVIDING ENERGY TO AN ENERGY CONSUMING SYSTEM |
+| 29/07 | 26165778.7 | company | Koninklijke Philips N.V. | NL | Grid & power networks |  | WIRELESS POWER TRANSFER |
+| 29/07 | 25864570.4 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | INSULATION TAPE ATTACHING DEVICE |
+| 29/07 | 25224131.0 | company | 3SUN S.r.l. | IT | PV devices |  | PHOTOVOLTAIC MODULE WITH SUBSTRATE |
+| 29/07 | 25219964.1 | company | Weiss Klimatechnik GmbH | DE | Batteries & fuel cells |  | DRY ROOM SYSTEM AND METHOD FOR PROCESSING MOISTURE-SENSITIVE MATERIAL |
+| 29/07 | 26183640.7 | company | Trivane Ltd | GB | Wind |  | SEMI-SUBMERSIBLE TRIMARAN FLOATING OFFSHORE WIND VESSEL WITH TURRET MOORING |
+| 29/07 | 24869275.8 | company | Wonderland Switzerland AG | CH | Solar thermal & other motors |  | WIND UP SWING ASSEMBLY AND METHOD OF USE |
+| 29/07 | 25823370.9 | company | Immaterial Ltd | GB | Gas separation & carbon capture |  | METAL-ORGANIC FRAMEWORK |
+| 29/07 | 24786934.0 | company | Parker-Hannifin Corporation | US | Gas separation & carbon capture |  | TANGENTIAL FLOW CONTACTOR ELEMENT |
+| 29/07 | 24776252.9 | company | Zentrum für Sonnenenergie- und Wasserstoff-Forsc | DE | Gas separation & carbon capture |  | PROCESS AND APPARATUS FOR CONTINUOUSLY RECOVERING CARBON DIOXIDE FROM A CARBON-DIOXIDE-CONTAINING GAS ATMOSPHE |
+| 29/07 | 24776495.4 | company | NUOVO PIGNONE TECNOLOGIE - S.R.L. | IT | Gas separation & carbon capture |  | PULSED ABSORPTION CONTACTOR |
+| 29/07 | 24828363.2 | company | Clonbio Group Ltd. | IE | Gas separation & carbon capture |  | INDUSTRIAL FACILITY FOR THE REMOVAL OF IMPURITIES FROM A GAS |
+| 29/07 | 24768137.2 | company | L'Air Liquide, Société Anonyme pour l'Etude et l | FR | Gas separation & carbon capture, Hydrogen |  | CONVERSION OF A GAS FEED INTO A HYDROGEN-CONTAINING EFFLUENT GAS, REDUCING A CONTENT OF NITROGEN OXIDES IN THE |
+| 29/07 | 24868864.0 | company | Infinium Technology, LLC | US | Hydrogen |  | ISOTHERMAL REVERSE WATER GAS SHIFT REACTOR SYSTEM |
+| 29/07 | 24773042.7 | company | BASF SE | DE | Gas separation & carbon capture |  | SORBENT COMPRISING A SILICA STRUCTURE SUPPORTING A NITROGEN CONTAINING POLYMER, PROCESS OF PREPARATION, AND US |
+| 29/07 | 24745795.5 | company | Johnson Matthey Davy Technologies Limited | GB | Synthetic fuels |  | CONTINUOUS METHODS FOR PREPARING MICROSPHERE TITANIA CATALYST SUPPORTS AND CATALYSTS WITH SAID SUPPORTS, SUPPO |
+| 29/07 | 24869113.1 | company | BASF Mobile Emissions Catalysts LLC | US | Gas separation & carbon capture |  | THREE-WAY CONVERSION CATALYSTS CONTAINING CERIA-RICH CERIA-ALUMINA COMPOSITES |
+| 29/07 | 24794574.4 | company | Saudi Arabian Oil Company | SA | Synthetic fuels |  | CATALYST COMPOSITIONS THAT INCLUDE ZEOLITES WITH DIFFERENT SILICA TO ALUMINA MOLAR RATIOS |
+| 29/07 | 24787273.2 | company | The Chemours Company FC, LLC | US | Batteries & fuel cells |  | COMPOSITES INCLUDING INCOMPATIBLE POLYMERS AND/OR OTHER INCOMPATIBLE MATERIALS |
+| 29/07 | 24768348.5 | company | Owens Corning Intellectual Capital, LLC | US | Wind |  | ELONGATE REINFORCING STRUCTURE FOR A WIND TURBINE BLADE |
+| 29/07 | 24776522.5 | company | Ocean Ventus AS | NO | Wind |  | A FLOATING SUPPORT STRUCTURE FOR A WIND TURBINE SYSTEM AND A METHOD FOR ASSEMBLY |
+| 29/07 | 24793914.3 | company | Whtif AS | NO | Batteries & fuel cells |  | BATTERY CONTAINER ASSEMBLY |
+| 29/07 | 24768627.2 | company | BASF SE | DE | Hydrogen |  | METHOD FOR CARBON DIOXIDE HYDROGENATION |
+| 29/07 | 24773443.7 | company | BASF SE | DE | Hydrogen |  | PROCESS FOR PREPARING SYNGAS USING A PLASMA FEED |
+| 29/07 | 24772705.0 | company | BASF SE | DE | Hydrogen |  | PROCESS FOR PREPARING SYNGAS FROM A LIQUID FEEDSTOCK |
+| 29/07 | 24795322.7 | company | Saudi Arabian Oil Company | SA | Hydrogen |  | MEMBRANE ASSISTED REFORMING PROCESS FOR THE PRODUCTION OF LOW CARBON HYDROGEN |
+| 29/07 | 24886617.0 | company | UOP LLC | US | Gas separation & carbon capture, Hydrogen |  | HYDROGEN PRODUCTION PROCESS WITH CARBON DIOXIDE CAPTURE HAVING REDUCED CARBON INTENSITY |
+| 29/07 | 24869233.7 | company | Thermo Finnigan LLC | US | Gas separation & carbon capture |  | METHOD OF UTILIZING DEUTERIUM GAS FOR CHROMATOGRAPHY APPLICATIONS, DEUTERIUM GAS GENERATOR AND DEVICES FOR CON |
+| 29/07 | 24869150.3 | company | Nanoscale Components, Inc. | US | Electrolysis, Batteries & fuel cells |  | METHODS FOR RECYCLING ALKALIATING SOLVENT |
+| 29/07 | 24765617.6 | company | Siemens Energy Global GmbH & Co. KG | DE | Hydrogen |  | METHOD AND PLANT FOR PRODUCING METHANOL |
+| 29/07 | 24776809.6 | company | Dow Global Technologies LLC | US | Batteries & fuel cells |  | THERMALLY CONDUCTIVE GAP FILLERS WITH IMPROVED SERVICEABILITY |
+| 29/07 | 24783009.4 | company | W. L. Gore & Associates, Inc. | US | Batteries & fuel cells |  | HIGH TEMPERATURE GEL PROCESSED INSULATION COMPOSITE AND ARTICLES MADE THEREFROM |
+| 29/07 | 24772629.2 | company | Topsoe A/S | DK | Synthetic fuels |  | PROCESS AND PLANT FOR CONVERTING OXYGENATES TO JET FUEL |
+| 29/07 | 24772630.0 | company | Topsoe A/S | DK | Synthetic fuels |  | REVAMPING OF A GASOLINE PLANT INTO A JET FUEL PLANT |
+| 29/07 | 24886641.0 | company | UOP LLC | US | Synthetic fuels |  | PROCESSES AND APPARATUSES FOR HYDROTREATING A FEED STREAM COMPRISING A BIORENEWABLE FEEDSTOCK WITH ELECTRIC HE |
+| 29/07 | 24783478.1 | company | ExxonMobil Technology and Engineering Company | US | Synthetic fuels |  | SINGLE STEP CONVERSION OF ETHYLENE TO FUELS |
+| 29/07 | 24772002.2 | company | TotalEnergies OneTech | FR | Synthetic fuels, Fuels & biofuels |  | PARAFFINIC BASE COMPOSITION FOR RENEWABLE JET FUEL AND HIGH-YIELD PRODUCTION METHOD FOR RENEWABLE PARAFFINIC B |
+| 29/07 | 24866722.2 | institute | The Royal Institution For The Advancement Of Lea | CA | Fuels & biofuels, Combustion |  | REGENERABLE FUEL, AND SYSTEMS AND METHODS FOR RELEASING ENERGY USING THE REGENERABLE FUEL |
+| 29/07 | 24868822.8 | company | AAK AB (publ) | SE | Fuels & biofuels |  | FREE FATTY ACID CANDLE |
+| 29/07 | 24738044.7 | company | Johnson Matthey Public Limited Company | GB | Batteries & fuel cells |  | RECYCLING OF CATALYST COATED MEMBRANE COMPONENTS |
+| 29/07 | 24776857.5 | company | Element Six Gmbh | DE | Nuclear |  | BODY |
+| 29/07 | 24846152.7 | institute | Yildiz Teknik Universitesi Doner Sermaye Isletme | TR | Electrolysis |  | AN ELECTROCHEMICAL METHOD FOR DIRECT HYDROGEN PRODUCTION FROM BORON COMPOUNDS |
+| 29/07 | 24769338.5 | institute | Rheinisch-Westfälische Technische Hochschule Aac | DE | Gas separation & carbon capture, Electrolysi |  | ELECTROCHEMICAL HYDROGEN COMPRESSOR |
+| 29/07 | 24772669.8 | company | John Cockerill Hydrogen Belgium | BE | Electrolysis |  | SYSTEM AND METHOD FOR CONTROLLING THE GAS-LIQUID SEPARATORS OF AN ELECTROLYSER |
+| 29/07 | 24798790.2 | company | Siemens Energy Global GmbH & Co. KG | DE | Electrolysis |  | MEMBRANE ELECTRODE ASSEMBLY, METHOD FOR MANUFACTURING SAME, AND USE THEREOF |
+| 29/07 | 24813257.3 | company | Elyser B.V. | NL | Electrolysis |  | PLANE PARALLEL CONVERGING GAS FLOW ELECTROLYZER, CELL AND USE THEREOF |
+| 29/07 | 24866668.7 | company | Carbelec Pty Ltd | AU | Electrolysis, Batteries & fuel cells |  | ELECTROLYSIS CARBON |
+| 29/07 | 24868902.8 | company | HyAxiom, Inc. | US | Electrolysis, Batteries & fuel cells |  | CROSS-FLOW COMPONENT FOR ELECTROCHEMICAL DEVICE |
+| 29/07 | 24765160.7 | company | Siemens Energy Global GmbH & Co. KG | DE | Electrolysis |  | METHOD OF DETERMINING A DEGRADATION OF AN ENERGY SYSTEM AND COMPUTER PROGRAM PRODUCT |
+| 29/07 | 24869261.8 | company | Fluence Energy, LLC | US | Batteries & fuel cells, Grid & power network |  | SYSTEM AND METHOD OF USING A HELICAL PILE AS A FOUNDATION TO ATTACH TO A BATTERY ENERGY STORAGE SYSTEM |
+| 29/07 | 24820582.5 | company | Bladena ApS | DK | Wind |  | A WIND TURBINE BLADE WITH REINFORCEMENTS TO PREVENT PEELING |
+| 29/07 | 24801232.0 | company | Siemens Gamesa Renewable Energy Innovation & Tec | ES | Wind |  | WIND TURBINE AND METHODS FOR OPERATING SAID WIND TURBINE |
+| 29/07 | 24782196.0 | company | VESTAS WIND SYSTEMS A/S | DK | Wind |  | METHODS FOR USING WIND TURBINE ROTOR OR BLADE MAINTENANCE TOOLS AND ROTOR OR BLADE TOOLS THEREFOR |
+| 29/07 | 24799592.1 | company | Siemens Gamesa Renewable Energy A/S | DK | Wind |  | TOOLKIT AND METHOD FOR REPLACING A BLADE BEARING AND METHOD FOR OPERATING A WIND TURBINE |
+| 29/07 | 24755219.3 | company | ZF Friedrichshafen AG | DE | Wind |  | COMPACT MOUNTING OF A WIND TURBINE GEARBOX |
+| 29/07 | 24790542.5 | company | Siemens Gamesa Renewable Energy Innovation & Tec | ES | Wind |  | WIND TURBINE ROTOR BLADE IMPROVED FOR LIGHTNING PROTECTION |
+| 29/07 | 24865996.3 | company | Prak Energy Inc. | US | Solar thermal & other motors, Grid & power n |  | ENERGY STORAGE AND DELIVERY SYSTEM WITH A WEIGHT ELEVATION |
+| 29/07 | 24869080.2 | company | KOHLER CO. | US | Hydro & wave |  | GATE VALVE |
+| 29/07 | 24765945.1 | company | NORMA Germany GmbH | DE | Solar collectors, Batteries & fuel cells |  | DISTRIBUTOR PIPE WITH INTEGRATED CONNECTORS |
+| 29/07 | 24782644.9 | company | E.G.O. Elektro-Gerätebau GmbH | DE | Combustion |  | SAFETY DEVICE FOR CONTROLLING THE FLAMES OF A PLURALITY OF GAS BURNERS |
+| 29/07 | 24869209.7 | company | Alliance for Energy Innovation, LLC | US | Gas separation & carbon capture, Thermal sto |  | INTEGRATED MULTISTAGE HEAT EXCHANGER AND LIQUID DESICCANT REGENERATOR AND ASSOCIATED METHOD |
+| 29/07 | 24869211.3 | company | Alliance for Energy Innovation, LLC | US | Gas separation & carbon capture, Thermal sto |  | MASS TRANSFER ASSEMBLIES WITH HEAT SINK AIR CHANNELS |
+| 29/07 | 24869388.9 | company | Gridworks, Inc. | US | Solar collectors, PV generation |  | PV MODULE CONVEYANCE SYSTEM AND METHODS |
+| 29/07 | 24782472.5 | company | Envola GmbH | DE | Solar thermal & other motors, Thermal storag |  | METHOD FOR TRANSFERRING THERMAL ENERGY, AND DEVICE FOR CARRYING OUT THE METHOD |
+| 29/07 | 24869222.0 | company | Alliance for Energy Innovation, LLC | US | Gas separation & carbon capture, Thermal sto |  | HEAT AND MASS TRANSFER ASSEMBLIES |
+| 29/07 | 24783503.6 | company | Vertiv Corporation | US | Thermal storage |  | INCREASED DENSITY HEAT EXCHANGER COIL TOPOLOGY |
+| 29/07 | 24783514.3 | company | Air Products and Chemicals, Inc. | US | Thermal storage |  | RADIANT SYNGAS COOLER |
+| 29/07 | 25713793.5 | company | Friulair Srl | IT | Thermal storage |  | HEAT EXCHANGER |
+| 29/07 | 24785993.7 | company | ESTRA Automotive Systems Luxembourg S.à r.l. | LU | Thermal storage |  | HEAT EXCHANGER |
+| 29/07 | 24868860.8 | institute | Trakya Universitesi Rektorlugu | TR | Batteries & fuel cells |  | 3D PRINTED GOLD-COATED WORKING ELECTRODE PRODUCTION METHOD |
+| 29/07 | 25719025.6 | company | Marquardt GmbH | DE | Batteries & fuel cells |  | METHOD AND DEVICE FOR DETECTING THE STATE OF AN ELECTROCHEMICAL SYSTEM |
+| 29/07 | 24772659.9 | company | BASF SE | DE | Synthetic fuels |  | METHOD AND SYSTEM FOR PROVIDING A CATALYST COMPOSITION |
+| 29/07 | 24856902.2 | company | Pricer AB | SE | Grid & power networks |  | ELECTRONIC SHELF LABEL SYSTEM |
+| 29/07 | 24869264.2 | company | NuScale Power, LLC | US | Nuclear |  | CONTAINMENT ISOLATION TEST FIXTURE FOR LEAK RATE TESTING |
+| 29/07 | 24783441.9 | company | Quantinuum LLC | US | Nuclear |  | CONTROLLING OPERATION OF A CONFINEMENT APPARATUS USING INDIVIDUALIZED BROADCASTED VOLTAGE SIGNALS |
+| 29/07 | 24768552.2 | company | Koninklijke Philips N.V. | NL | Nuclear |  | TILED ANTI-SCATTER GRID FOR SELECTIVE TRANSMISSION OF RADIATION |
+| 29/07 | 24773394.2 | company | TRUMPF Hüttinger GmbH + Co. KG | DE | Batteries & fuel cells, Grid & power network |  | OVERCURRENT PROTECTION DEVICE, ELECTRIC CIRCUIT ASSEMBLY, AND METHOD FOR OPERATING AN ELECTRIC CIRCUIT ASSEMBL |
+| 29/07 | 23775982.4 | company | Theion GmbH | DE | Batteries & fuel cells |  | ADVANCED SYNERGISTIC MAGNETO-ELECTRICALLY ACTIVE CURRENT COLLECTOR FOR ELECTROCHEMICAL ENERGY STORAGE DEVICES  |
+| 29/07 | 24869012.5 | company | Elevated Materials Germany GmbH | US | Batteries & fuel cells |  | SMOOTHING FILM STACK LAYERS WITH INDUCTION HEATING |
+| 29/07 | 25800896.0 | company | Maschinenfabrik Gustav Eirich GmbH & Co. KG | DE | Batteries & fuel cells |  | METHOD FOR PRODUCING ELECTRODE MIXTURES AND DRY ELECTRODES WITH THE AID OF A COOLING VESSEL |
+| 29/07 | 25801176.6 | company | Maschinenfabrik Gustav Eirich GmbH & Co. KG | DE | Batteries & fuel cells |  | METHOD FOR THE PRODUCTION AND CONDITIONING OF ELECTRODE MIXTURES AND OF DRY ELECTRODES MADE OF THE ELECTRODE M |
+| 29/07 | 24786137.0 | company | Anaphite Limited | GB | Batteries & fuel cells |  | COMPOSITES |
+| 29/07 | 24868942.4 | company | Wildcat Discovery Technologies, Inc. | US | Batteries & fuel cells |  | DISORDERED ROCKSALT MATERIAL AND METHOD OF FORMING IT |
+| 29/07 | 24768527.4 | company | Linde Material Handling GmbH | DE | Batteries & fuel cells |  | FUEL CELL SYSTEM FOR A MOBILE WORK MACHINE |
+| 29/07 | 24768528.2 | company | Linde Material Handling GmbH | DE | Batteries & fuel cells |  | FUEL CELL SYSTEM FOR A MOBILE WORK MACHINE |
+| 29/07 | 24759086.2 | company | Linde Material Handling GmbH | DE | Batteries & fuel cells |  | FUEL CELL SYSTEM FOR A MOBILE WORK MACHINE |
+| 29/07 | 24775868.3 | company | CellCube Energy Storage GmbH | AT | Batteries & fuel cells |  | REDOX FLOW BATTERY CELL STACK CONSISTING OF SUB-CELL STACKS |
+| 29/07 | 24759085.4 | company | Linde Material Handling GmbH | DE | Batteries & fuel cells |  | FUEL CELL SYSTEM FOR A MOBILE WORK MACHINE |
+| 29/07 | 24775890.7 | company | Giesecke+Devrient Currency Technology GmbH | DE | Batteries & fuel cells |  | DEVICE AND METHOD FOR SEPARATING FLAT ELEMENTS FOR THE PRODUCTION OF GALVANIC CELLS |
+| 29/07 | 24776468.1 | company | Microsoft Technology Licensing, LLC | US | Batteries & fuel cells |  | SOLID-STATE BATTERY WITH ENHANCED SOLID ELECTROLYTE |
+| 29/07 | 24776808.8 | company | Enovix Corporation | US | Batteries & fuel cells |  | CELL FORMATION METHODS AND SYSTEMS FOR LITHIUM BASED SECONDARY BATTERIES |
+| 29/07 | 24777193.4 | company | Enovix Corporation | US | Batteries & fuel cells |  | CELL FORMATION METHODS AND SYSTEMS FOR LITHIUM BASED SECONDARY BATTERIES |
+| 29/07 | 24776745.2 | company | Microsoft Technology Licensing, LLC | US | Batteries & fuel cells |  | COMPOUND FOR A SOLID-STATE BATTERY ELECTROLYTE |
+| 29/07 | 24808296.8 | company | PowerCo SE | DE | Batteries & fuel cells |  | METHOD FOR PRODUCING A PRISMATIC BATTERY CELL |
+| 29/07 | 24783308.0 | company | Safran Electrical & Power | FR | Batteries & fuel cells |  | BATTERY HOUSING PROVIDED WITH A BATTERY MANAGEMENT SYSTEM |
+| 29/07 | 24909103.4 | company | A123 Systems LLC | US | Batteries & fuel cells |  | BATTERY MANAGEMENT SYSTEM ARCHITECTURE |
+| 29/07 | 24751478.9 | company | MAN Truck & Bus SE | DE | Batteries & fuel cells |  | TECHNIQUE FOR OPERATING AN ELECTRICAL ENERGY STORE |
+| 29/07 | 24869239.4 | company | Fluence Energy, LLC | US | Batteries & fuel cells, Grid & power network |  | METHOD FOR CONTROLLING AN ENERGY STORAGE SYSTEM TO INFLUENCE THE BALANCING OF THE SYSTEM |
+| 29/07 | 24783131.6 | company | PPG Industries Ohio, Inc. | US | Batteries & fuel cells |  | COMPONENTS FOR ELECTRICAL ENERGY STORAGE DEVICES |
+| 29/07 | 24804518.9 | company | PowerCo SE | DE | Batteries & fuel cells |  | METHOD FOR PRODUCING A PRISMATIC BATTERY CELL |
+| 29/07 | 24769393.0 | company | JT International SA | CH | Grid & power networks |  | BATTERY UNIT FOR A PORTABLE AEROSOL DEVICE |
+| 29/07 | 24752371.5 | company | Rolls-Royce Deutschland Ltd & Co KG | DE | Grid & power networks |  | DC POWER DISTRIBUTION AND PROTECTION SYSTEM |
+| 29/07 | 24752370.7 | company | Rolls-Royce Deutschland Ltd & Co KG | DE | Grid & power networks |  | DC POWER DISTRIBUTION AND PROTECTION SYSTEM |
+| 29/07 | 24768620.7 | company | Siemens Energy Global GmbH & Co. KG | DE | Grid & power networks |  | REACTIVE POWER SUPPORTING FUNCTION OF DC LOAD SYSTEMS |
+| 29/07 | 24783609.1 | company | International Business Machines Corporation | US | Grid & power networks |  | CONTROL OF REACTIVE POWER EXPORT AND IMPORT |
+| 29/07 | 24786830.0 | company | Siemens Energy Global GmbH & Co. KG | DE | Grid & power networks |  | FREQUENCY SUPPORT FUNCTIONS OF ELECTROLYSIS SYSTEMS |
+| 29/07 | 24786884.7 | company | Terna S.p.A. | IT | Grid & power networks |  | CONNECTION OF A SYNCHRONOUS COMPENSATOR TO A POWER GRID |
+| 29/07 | 24869244.4 | company | Fluence Energy, LLC | US | Batteries & fuel cells, Grid & power network |  | SYSTEM AND METHOD FOR IDENTIFYING ATYPICAL CONDITIONS IN COMPOUND ENERGY STORAGE SYSTEMS |
+| 29/07 | 24869301.2 | company | Channing Street Copper Company | US | Batteries & fuel cells, Grid & power network |  | ENERGY STORAGE EQUIPPED SAFETY SYSTEM AND METHOD |
+| 29/07 | 23793110.0 | company | GE Vernova Infrastructure Technology LLC | US | Grid & power networks |  | SYSTEM AND METHOD FOR PROVIDING BLACKSTART SERVICES FROM INVERTER-BASED RESOURCES |
+| 29/07 | 24771977.6 | company | Koninklijke Philips N.V. | NL | Grid & power networks |  | WIRELESS POWER TRANSFER SYSTEM |
+| 29/07 | 24786267.5 | company | TAE Technologies, Inc. | US | Grid & power networks, Power conversion |  | ENERGY SYSTEMS FOR MANAGING POWER TO PRIMARY AND AUXILIARY LOADS |
+| 29/07 | 24869120.6 | company | Hheli, LLC | US | Batteries & fuel cells, Grid & power network |  | HIGH-EFFICIENCY ENERGY HARVESTING SYSTEM |
+| 29/07 | 24869306.1 | company | Rosendin Electric, Inc. | US | Grid & power networks |  | BATTERY ENERGY STORAGE SUPPLEMENTAL POWER WITH A LINE REACTOR |
+| 29/07 | 24771962.8 | company | Safran Electrical & Power | FR | Grid & power networks |  | METHOD FOR CONTROLLING AN ELECTRICAL DISTRIBUTION SYSTEM |
+| 29/07 | 24866713.1 | company | EQUINOX POWER INNOVATIONS INC. | CA | Grid & power networks |  | FAULT-RESPONSIVE POWER SYSTEM AND METHOD USING ASYNCHRONOUS LOAD CURRENT SWITCHING |
+| 29/07 | 24772650.8 | company | Hitachi Energy Ltd | CH | Grid & power networks |  | HIGH VOLTAGE DEVICE AND HIGH VOLTAGE SYSTEM |
+| 29/07 | 24866723.0 | company | Solace Power Inc. | CA | Grid & power networks, Power conversion |  | WIRELESS POWER TRANSFER SYSTEM, AND TRANSMITTER AND RECEIVER THEREFOR |
+| 29/07 | 24866715.6 | company | Hillcrest Energy Technologies Ltd. | CA | Power conversion |  | PULSE DISTORTION COMPENSATION FOR PULSE-WIDTH-MODULATION BASED CONVERTERS |
+| 29/07 | 24799505.3 | company | Siemens Energy Global GmbH & Co. KG | DE | Power conversion |  | ACTIVE RECTIFIER SYSTEM FOR H2 ELECTROLYSIS WITH COMBINED PRECHARGE AND PROTECTIVE VOLTAGE AUXILIARY RECTIFIER |
+| 29/07 | 24869340.0 | institute | Nanyang Technological University | SG | Power conversion |  | SYSTEMS AND METHODS FOR ADAPTIVE DEAD TIME CONTROL OF A DEVICE INTEGRATED WITH CONVERTERS THAT IMPLEMENT SOFT  |
+| 29/07 | 24742589.5 | company | Robert Bosch GmbH | DE | Power conversion |  | DC VOLTAGE CONVERTER AND METHOD FOR OPERATING A DC VOLTAGE CONVERTER |
+| 29/07 | 23777190.2 | company | ABB Schweiz AG | CH | Power conversion |  | CONVERTER LEG WITH LOW LEFT/RIGHT ASYMMETRIC CURRENTS |
+| 29/07 | 24789981.8 | company | I2T SA | CH | Solar collectors, PV generation |  | APPARATUS FOR THE CONVERSION OF ELECTROMAGNETIC RADIATION INTO ELECTRIC CURRENT AND HEAT |
+| 29/07 | 24869382.2 | company | Gridworks, Inc. | US | Solar collectors, PV generation |  | PV MODULE CONVEYANCE SYSTEM AND METHODS |
+| 29/07 | 24773043.5 | company | Elmos Semiconductor SE | DE | PV devices |  | DEVICE FOR DETECTING MANIPULATION ON A QUANTUM RANDOM NUMBER GENERATOR |
+| 29/07 | 24869078.6 | company | Nano Imrad Technology, Inc. | US | Nuclear |  | APPARATUS FOR THE PRODUCTION OF RADIOISOTOPES |
+| 29/07 | 24782769.4 | institute | Christian-Albrechts-Universität zu Kiel | DE | PV devices |  | MULTIBAND PHOTODETECTOR ARRANGEMENT |
+| 29/07 | 25153833.6 | company | Linde GmbH | DE | Gas separation & carbon capture |  | PROCESS AND INSTALLATION FOR TREATING A KRYPTON, XENON, METHANE AND OXYGEN-CONTAINING FEED MIXTURE |
+| 29/07 | 25155707.0 | company | Linde GmbH | DE | Gas separation & carbon capture |  | PROCESS AND INSTALLATION FOR TREATING A KRYPTON, XENON, METHANE AND OXYGEN-CONTAINING FEED MIXTURE |
+| 29/07 | 25224857.0 | company | Brückner Maschinenbau GmbH | DE | Gas separation & carbon capture |  | CONDENSATE TRAP DEVICE |
+| 29/07 | 25154181.9 | company | MANN+HUMMEL GmbH | DE | Gas separation & carbon capture |  | ADSORBER ELEMENT AND ADSORBER DEVICE HAVING ADSORBER ELEMENT |
+| 29/07 | 24867964.9 | institute | NATIONAL UNIVERSITY CORPORATION KYOTO INSTITUTE  | JP | Gas separation & carbon capture |  | SYSTEM FOR REMOVING NITROGEN OXIDES AND/OR SULFUR OXIDES, METHOD FOR REMOVING NITROGEN OXIDES AND/OR SULFUR OX |
+| 29/07 | 25153914.4 | company | SCW Systems B.V. | NL | Gas separation & carbon capture |  | CAPTURE OF CARBON DIOXIDE |
+| 29/07 | 25382037.7 | company | FCC Aqualia, S.A. | ES | Gas separation & carbon capture, Fuels & bio |  | DEVICE AND METHOD FOR CONVERTING BIOGAS INTO BIOMETHANE THROUGH CARBONATES ABSORPTION-DESORPTION STAGES |
+| 29/07 | 26166060.9 | company | Greenlyte Carbon Technologies GmbH | DE | Gas separation & carbon capture |  | METHOD FOR SEPARATING CARBON DIOXIDE FROM AN AIR STREAM |
+| 29/07 | 24868293.2 | company | Nitto Denko Corporation | JP | Gas separation & carbon capture |  | GAS SEPARATION SYSTEM AND METHOD FOR SEPARATING MIXED GAS |
+| 29/07 | 24916955.8 | company | Mitsubishi Heavy Industries, Ltd. | JP | Gas separation & carbon capture, Electrolysi |  | OPERATION METHOD FOR DEHUMIDIFIER DEVICE, CONTROL DEVICE FOR DEHUMIDIFIER DEVICE, DEHUMIDIFIER DEVICE, AND HYD |
+| 29/07 | 25315021.3 | company | MANN+HUMMEL GmbH | DE | Gas separation & carbon capture |  | SYSTEM FOR CLEANING EXHAUST OF FUEL CELL SYSTEM AND FILTRATION CARTRIDGE |
+| 29/07 | 25305078.5 | company | Technip Energies France | FR | Gas separation & carbon capture, Solar therm |  | SELF-POWERED DIRECT OCEAN CAPTURE OFFSHORE PLATFORM |
+| 29/07 | 25878446.1 | institute | Korea Institute of Fusion Energy | KR | Gas separation & carbon capture |  | METHOD FOR FIXING CARBON DIOXIDE IN EXHAUST GAS, PLASMA CATALYST GENERATING APPARATUS FOR COLLECTION OF CARBON |
+| 29/07 | 26156357.1 | company | Dow Global Technologies LLC | US | Thermal storage |  | METHOD AND SYSTEM FOR POLYMER PRODUCTION |
+| 29/07 | 25213552.0 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SPACER, SLOT DIE, AND METHOD OF COATING ELECTRODE PLATE USING SLOT DIE |
+| 29/07 | 25808041.5 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | COATING DEVICE AND ELECTRODE MANUFACTURING DEVICE INCLUDING SAME |
+| 29/07 | 25864611.6 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | TOP CAP WELDING DEVICE FOR CYLINDRICAL BATTERY CELL AND TOP CAP WELDING METHOD FOR CYLINDRICAL BATTERY USING S |
+| 29/07 | 25867181.7 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | TOP CAP WELDING DEVICE FOR CYLINDRICAL BATTERY CELL AND TOP CAP WELDING METHOD FOR CYLINDRICAL BATTERY CELL US |
+| 29/07 | 26150798.2 | company | Prime Planet Energy & Solutions, Inc. | JP | Supercapacitors, Batteries & fuel cells |  | METHOD FOR MANUFACTURING ELECTRICITY STORAGE DEVICE AND ELECTRICITY STORAGE DEVICE |
+| 29/07 | 26153873.0 | company | RTX Corporation | US | Combustion |  | TARGETED LOCATION CORRECTION OF THERMAL BARRIER COATED DIFFUSERS |
+| 29/07 | 24855083.2 | company | Wuxi Lead Intelligent Equipment Co., Ltd. | CN | Batteries & fuel cells |  | MATERIAL PICKING AND PLACING APPARATUS |
+| 29/07 | 24882863.4 | company | LG Chem, Ltd. | KR | Batteries & fuel cells |  | COMPOSITE MATERIAL |
+| 29/07 | 25154336.9 | company | Uniper Energy Storage GmbH | DE | Hydrogen |  | PLASMA PROCESS AND DEVICE FOR THE PRODUCTION OF HYDROGEN AND HIGH VALUE CARBON |
+| 29/07 | 25305085.0 | company | Technip Energies France | FR | Hydrogen |  | CRYOGENIC RECOVERY OF CARBON DIOXIDE FROM A HYDROGEN MANUFACTURING PLANT |
+| 29/07 | 26305098.1 | company | Technip Energies France | FR | Hydrogen |  | CRYOGENIC RECOVERY OF CARBON DIOXIDE FROM A HYDROGEN MANUFACTURING PLANT |
+| 29/07 | 25153808.8 | company | OCP SA | MA | Batteries & fuel cells |  | METHOD FOR PRODUCING CARBON COATED LITHIUM IRON PHOSPHATE FOR SECONDARY BATTERIES |
+| 29/07 | 26153388.9 | company | Advanced Lithium Electrochemistry Co., Ltd. | TW | Batteries & fuel cells |  | LITHIUM IRON PHOSPHATE PRECURSOR, LITHIUM IRON PHOSPHATE CATHODE MATERIAL WITH HIGH COMPACTION DENSITY, AND MA |
+| 29/07 | 26153223.8 | company | Hon Hai Precision Industry Co., Ltd. | TW | Batteries & fuel cells |  | NEGATIVE ELECTRODE HETEROATOM-DOPED CARBON MATERIAL, METHOD OF MANUFACTURING AND BATTERY NEGATIVE ELECTRODE TH |
+| 29/07 | 24868730.3 | company | POSTECH Research and Business Development Founda | KR | Supercapacitors, Batteries & fuel cells |  | METHOD FOR WETTABILITY MODIFICATION OF CARBON ALLOTROPES AND WETTABILITY-MODIFIED CARBON ALLOTROPES THEREOF |
+| 29/07 | 26153139.6 | company | SK Innovation Co., Ltd. | KR | Batteries & fuel cells |  | CATHODE ACTIVE MATERIAL FOR LITHIUM SECONDARY BATTERY, METHOD FOR PREPARING THE SAME, AND LITHIUM SECONDARY BA |
+| 29/07 | 26164372.0 | company | Veolia Nuclear Solutions, Inc. | US | Nuclear |  | SYSTEMS AND METHODS FOR ION EXCHANGE |
+| 29/07 | 25214078.5 | company | Indian Oil Corporation Limited | IN | Gas separation & carbon capture |  | A PROCESS FOR CAPTURING CARBON DIOXIDE USING BIO-DIGESTER SLURRY LEADING TO MANURE QUALITY IMPROVEMENT |
+| 29/07 | 25745882.8 | company | Eve Power Co., Ltd. | CN | Batteries & fuel cells |  | CONDUCTIVE ADHESIVE AND PREPARATION METHOD THEREFOR, NEGATIVE ELECTRODE SHEET, AND BATTERY |
+| 29/07 | 24868297.3 | company | Daicel Miraizu Ltd. | JP | Batteries & fuel cells |  | CARBOXYMETHYL CELLULOSE OR SALT THEREOF, AND METHOD FOR PRODUCING SAME |
+| 29/07 | 24881282.8 | company | HUAWEI TECHNOLOGIES CO., LTD. | CN | Batteries & fuel cells |  | BINDER AND PREPARATION METHOD THEREFOR, BATTERY AND ELECTRIC DEVICE |
+| 29/07 | 24863900.7 | company | Petroleo Brasileiro S.A. - PETROBRAS | BR | Gas separation & carbon capture |  | USE OF IRON- OR ZINC-BASED NANOSTRUCTURED COMPOUNDS IN DRILLING FLUIDS FOR H2S SEQUESTRATION |
+| 29/07 | 23797820.0 | company | Greenval Technologies, S.L. | ES | Synthetic fuels |  | APPARATUS FOR THERMOCHEMICAL CONVERSION OF POLYMERS |
+| 29/07 | 24867818.7 | company | JX Metals Circular Solutions Co., Ltd. | JP | Batteries & fuel cells |  | METAL RECOVERY METHOD |
+| 29/07 | 24867838.5 | company | JX Metals Circular Solutions Co., Ltd. | JP | Batteries & fuel cells |  | METHOD FOR RECOVERING METAL |
+| 29/07 | 26151793.2 | company | Robert Bosch GmbH | DE | Gas separation & carbon capture, Electrolysi |  | CARBON DIOXIDE CAPTURE SYSTEM |
+| 29/07 | 25154133.0 | company | Sunfire SE | DE | Electrolysis |  | MODULE FOR HIGH-TEMPERATURE ELECTROLYSIS AND WATER VAPOUR RECOVERY |
+| 29/07 | 26152946.5 | company | Toshiba Energy Systems & Solutions Corporation | JP | Electrolysis |  | ELECTROLYSIS SYSTEM AND ELECTROLYSIS METHOD |
+| 29/07 | 24879749.0 | company | Idemitsu Kosan Co.,Ltd. | JP | Electrolysis |  | AMMONIA PRODUCTION APPARATUS |
+| 29/07 | 25153472.3 | company | Siemens Energy Global GmbH & Co. KG | DE | Electrolysis, Batteries & fuel cells |  | METHOD FOR PRODUCING A MEMBRANE SEAL ASSEMBLY FOR AN ELECTROCHEMICAL CELL, CORRESPONDING CELL ELEMENT AND ELEC |
+| 29/07 | 24885416.8 | company | Mitsubishi Heavy Industries, Ltd. | JP | Electrolysis |  | SEPARATOR AND ELECTROLYTIC DEVICE |
+| 29/07 | 25761441.2 | company | Mitsubishi Heavy Industries, Ltd. | JP | Electrolysis |  | METHOD FOR OPERATING WATER ELECTROLYSIS APPARATUS, CONTROL DEVICE FOR WATER ELECTROLYSIS APPARATUS, AND HYDROG |
+| 29/07 | 25224261.5 | institute | Karlsruher Institut für Technologie, Körperschaf | DE | Solar collectors |  | SHUTTER ASSEMBLY AND METHOD OF MANUFACTURING THE SAME |
+| 29/07 | 25223538.7 | company | RTX Corporation | US | Combustion |  | CMC COMPONENT, BOAS ASSEMBLY, METHOD OF CONTROLLING COOLING AIR FLOW WITHIN A CMC COMPONENT, AND TURBINE ENGIN |
+| 29/07 | 26152134.8 | company | RTX Corporation | US | Combustion |  | COOLING FLOW ARRANGEMENT FOR A CMC COMPONENT OF A TURBINE ENGINE, AND METHOD OF PROVIDING A COOLING FLOW TO A  |
+| 29/07 | 26152156.1 | company | RTX Corporation | US | Combustion |  | CMC COMPONENT, BOAS ASSEMBLY, METHOD OF ASSEMBLING A CMC COMPONENT, AND TURBINE ENGINE |
+| 29/07 | 26152175.1 | company | RTX Corporation | US | Combustion |  | ATTACHMENT PIN COMPRISING AN ELONGATED BODY WITH A LONGITUDINAL AXIS EXTENDING FROM A FIRST END TO A SECOND EN |
+| 29/07 | 24883616.5 | company | Envision Energy Co., Ltd. | CN | Wind |  | CALCULATION METHOD FOR VORTEX-INDUCED RESONANCE REGION OF WIND TURBINE BLADE, AND VORTEX SUPPRESSION APPARATUS |
+| 29/07 | 26167985.6 | company | Nordex Energy SE & Co. KG | DE | Wind |  | METHOD FOR OPERATING A WIND TURBINE AND WIND TURBINE |
+| 29/07 | 25154043.1 | company | Air Innovation SH.P.K. | AL | Solar thermal & other motors |  | MAGNETIC FORCE TRANSDUCER |
+| 29/07 | 26387025.5 | individual | Mavrakis, Emmanouil | GR | Solar thermal & other motors |  | ROTATION SYSTEM FOR CONVERTING GRAVITATIONAL INTO KINETIC ENERGY |
+| 29/07 | 24867854.2 | company | Hitachi, Ltd. | JP | Hydrogen |  | PIPELINE MANAGEMENT SYSTEM |
+| 29/07 | 26150686.9 | company | General Electric Company | US | Combustion |  | COMBUSTION SECTION FOR A TURBINE ENGINE |
+| 29/07 | 26151186.9 | company | General Electric Company | US | Combustion |  | COMBUSTION SECTION FOR A TURBINE ENGINE |
+| 29/07 | 26152330.2 | company | General Electric Company | US | Combustion |  | COMBUSTION SECTION FOR A TURBINE ENGINE |
+| 29/07 | 25221952.2 | company | General Electric Company | US | Combustion |  | METHOD OF OPERATING A TURBINE ENGINE HAVING A FUEL MIXER ASSEMBLY |
+| 29/07 | 26185437.6 | company | RTX Corporation | US | Combustion |  | GASEOUS FUEL AND LIQUID WATER INJECTION FOR TURBINE ENGINE |
+| 29/07 | 26150636.4 | company | General Electric Company | US | Combustion |  | GAS TURBINE ENGINE INCLUDING FLOW TURNING COMBUSTOR |
+| 29/07 | 26153973.8 | company | K-Mäleon Haus GmbH | DE | Thermal storage |  | SUPPORTING STRUCTURE FOR AIR CONDITIONING A BUILDING USING PCM |
+| 29/07 | 26150853.5 | company | Huber SE | DE | Thermal storage |  | HEAT EXCHANGER AND METHOD FOR OPERATING A HEAT EXCHANGER |
+| 29/07 | 23953117.1 | company | Carrier Japan Corporation | JP | Thermal storage |  | HEAT EXCHANGER AND REFRIGERATION CYCLE DEVICE |
+| 29/07 | 23953120.5 | company | Carrier Japan Corporation | JP | Thermal storage |  | HEAT EXCHANGER |
+| 29/07 | 26153049.7 | company | Carrier Corporation | US | Thermal storage |  | HEAT EXCHANGER HEADER CONFIGURATION FOR HVAC SYSTEM |
+| 29/07 | 25154139.7 | company | Sunfire SE | DE | Thermal storage |  | HEAT EXCHANGER DEVICE |
+| 29/07 | 24872940.2 | company | Gigaette Co., Ltd. | KR | Thermal storage |  | THERMAL ENERGY STORAGE DEVICE HAVING TEMPERATURE GRADIENT |
+| 29/07 | 25153872.4 | individual | Intergeo SK, s.r.o. | SK | Thermal storage |  | ENERGY DEVICE FOR THE PRODUCTION, STORAGE AND SUPPLY OF HEAT AND METHOD OF PRODUCTION, STORAGE AND SUPPLY OF H |
+| 29/07 | 26180798.6 | institute | The Regents of the University of California | US | PV devices |  | SYSTEM AND METHOD FOR PHOTOMIXER-BASED HETERODYNE HIGH-FREQUENCY SPECTROMETER AND RECEIVER |
+| 29/07 | 24867794.0 | company | Hitachi GE Vernova Nuclear Energy, Ltd. | JP | Nuclear |  | ABNORMALITY DETECTION DEVICE FOR CONTROL ROD DRIVE MECHANISM AND ABNORMALITY DETECTION METHOD FOR CONTROL ROD  |
+| 29/07 | 25861693.7 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | BATTERY INSPECTION DEVICE, BATTERY INSPECTION METHOD, AND BATTERY MANUFACTURING SYSTEM |
+| 29/07 | 25867146.0 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells, Grid & power network |  | BATTERY MANAGEMENT DEVICE, BATTERY MANAGEMENT METHOD AND BATTERY SYSTEM |
+| 29/07 | 24890879.0 | company | ENERGÍAS RENOVABLES ERÍN, S.L. | ES | Grid & power networks, PV generation |  | DEVICE FOR CONTROLLING VOLTAGE AND DISCONNECTING PHOTOVOLTAIC MODULES FOR STRING |
+| 29/07 | 24878978.6 | company | HUAWEI TECHNOLOGIES CO., LTD. | CN | Thermal storage |  | HEAT EXCHANGER, HEAT DISSIPATION MODULE, AND COMPUTING DEVICE |
+| 29/07 | 25766471.4 | company | Suzhou Metabrain Intelligent Technology Co., Ltd | CN | Power conversion |  | METHOD AND APPARATUS FOR ADJUSTING POWER-OFF HOLDUP TIME, AND MICROCONTROLLER UNIT AND STORAGE MEDIUM |
+| 29/07 | 26165984.1 | company | Infineon Technologies Austria AG | AT | Nuclear |  | ION TRAP MANUFACTURING METHODS |
+| 29/07 | 24834583.7 | institute | China Institute of Atomic Energy | CN | Nuclear |  | PREPARATION METHOD FOR MOX FUEL POWDER |
+| 29/07 | 26151835.1 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | Electrolysis, Nuclear |  | POWER PLANT COGENERATION WITH ESC AND EHT |
+| 29/07 | 24868255.1 | company | Panasonic Intellectual Property Management Co.,  | JP | Batteries & fuel cells |  | SOLID ELECTROLYTE, COATED ACTIVE MATERIAL, ELECTRODE, BATTERY, AND METHOD FOR PRODUCING SOLID ELECTROLYTE |
+| 29/07 | 23954428.1 | company | LG Magna e-Powertrain Co., Ltd. | KR | Power conversion |  | TRANSFORMER AND POWER CONVERSION DEVICE HAVING SAME |
+| 29/07 | 24868311.2 | company | Niterra Co., Ltd. | JP | Supercapacitors, Batteries & fuel cells |  | ELECTRODE, CELL, MODULE, AND PACK |
+| 29/07 | 24867835.1 | company | SCREEN Holdings Co., Ltd. | JP | Electrolysis |  | SUBSTRATE PROCESSING DEVICE AND SUBSTRATE PROCESSING METHOD |
+| 29/07 | 25214970.3 | company | Prime Planet Energy & Solutions, Inc. | JP | Batteries & fuel cells |  | MANUFACTURING METHOD OF NONAQUEOUS ELECTROLYTE SECONDARY BATTERY |
+| 29/07 | 25869644.2 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | APPARATUS FOR MANUFACTURING PRELITHIATED ELECTRODE, LITHIUM SECONDARY BATTERY COMPRISING PRELITHIATED ELECTROD |
+| 29/07 | 26150551.5 | company | Prime Planet Energy & Solutions, Inc. | JP | Batteries & fuel cells |  | METHOD OF PRODUCING NEGATIVE ELECTRODE SLURRY |
+| 29/07 | 24867603.3 | company | SVOLT Energy Technology Co., Ltd. | CN | Batteries & fuel cells |  | NEGATIVE ELECTRODE SHEET, LITHIUM-ION BATTERY AND ELECTRIC DEVICE |
+| 29/07 | 24868328.6 | company | Panasonic Intellectual Property Management Co.,  | JP | Batteries & fuel cells |  | NON-AQUEOUS ELECTROLYTE SECONDARY BATTERY AND NEGATIVE ELECTRODE USED IN SAME |
+| 29/07 | 25861707.5 | company | Eve Power Co., Ltd. | CN | Batteries & fuel cells |  | ANODE SHEET AND BATTERY |
+| 29/07 | 25869608.7 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | NEGATIVE ELECTRODE FOR LITHIUM SECONDARY BATTERY, LITHIUM SECONDARY BATTERY COMPRISING SAME, AND METHOD FOR MA |
+| 29/07 | 26180649.1 | company | Sila Nanotechnologies Inc. | US | Batteries & fuel cells |  | SCAFFOLDING MATRIX WITH INTERNAL NANOPARTICLES |
+| 29/07 | 26152794.9 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | NEGATIVE ELECTRODE FOR RECHARGEABLE LITHIUM BATTERY AND RECHARGEABLE LITHIUM BATTERY INCLUDING SAME |
+| 29/07 | 24914805.7 | company | Contemporary Amperex Technology Co., Limited | CN | Batteries & fuel cells |  | COATING DIE, AND COATING DEVICE FOR BATTERY ELECTRODE SHEET |
+| 29/07 | 24867478.0 | company | BYD Company Limited | CN | Batteries & fuel cells |  | POSITIVE ELECTRODE MATERIAL FOR LITHIUM ION BATTERY AND PREPARATION METHOD THEREFOR, POSITIVE ELECTRODE PIECE, |
+| 29/07 | 24868256.9 | company | PANASONIC INTELLECTUAL PROPERTY MANAGEMENT CO.,  | JP | Batteries & fuel cells |  | COATED ACTIVE MATERIAL, ELECTRODE, BATTERY, AND METHOD FOR PRODUCING COATED ACTIVE MATERIAL |
+| 29/07 | 24868418.5 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | NEGATIVE ELECTRODE ACTIVE MATERIAL AND RECHARGEABLE LITHIUM BATTERY INCLUDING SAME |
+| 29/07 | 24868497.9 | company | Posco Future M Co., Ltd. | KR | Batteries & fuel cells |  | ANODE ACTIVE MATERIAL FOR LITHIUM SECONDARY BATTERY AND METHOD FOR MANUFACTURING SAME |
+| 29/07 | 24868582.8 | company | POSCO Silicon Solution Co., Ltd | KR | Batteries & fuel cells |  | NEGATIVE ELECTRODE MATERIAL FOR SECONDARY BATTERY |
+| 29/07 | 24868588.5 | company | Posco Future M Co., Ltd. | KR | Batteries & fuel cells |  | CATHODE ACTIVE MATERIAL FOR LITHIUM SECONDARY BATTERY AND LITHIUM SECONDARY BATTERY COMPRISING SAME |
+| 29/07 | 24936188.2 | company | HUIZHOU EVE POWER CO., LTD | CN | Batteries & fuel cells |  | POSITIVE ELECTRODE MATERIAL AND PREPARATION METHOD THEREFOR, POSITIVE ELECTRODE SLURRY, POSITIVE ELECTRODE SHE |
+| 29/07 | 25765939.1 | company | Eve Power Co., Ltd. | CN | Batteries & fuel cells |  | POSITIVE ELECTRODE ACTIVE MATERIAL AND PREPARATION METHOD THEREFOR, POSITIVE ELECTRODE SHEET, AND BATTERY |
+| 29/07 | 26150980.6 | company | Prime Planet Energy & Solutions, Inc. | JP | Batteries & fuel cells |  | POSITIVE ELECTRODE ACTIVE MATERIAL, POSITIVE ELECTRODE, AND NONAQUEOUS ELECTROLYTE SECONDARY BATTERY |
+| 29/07 | 24868280.9 | company | Proterial, Ltd. | JP | Batteries & fuel cells |  | PRECURSOR OF POSITIVE ELECTRODE ACTIVE MATERIAL FOR LITHIUM-ION SECONDARY BATTERY, METHOD FOR PRODUCING SAME,  |
+| 29/07 | 24882881.6 | company | LG Chem, Ltd. | KR | Batteries & fuel cells |  | POSITIVE ELECTRODE MATERIAL AND METHOD FOR MANUFACTURING SAME |
+| 29/07 | 24886194.0 | company | LG Chem, Ltd. | KR | Batteries & fuel cells |  | POSITIVE ELECTRODE ACTIVE MATERIAL AND PREPARATION METHOD THEREFOR |
+| 29/07 | 24886196.5 | company | LG Chem, Ltd. | KR | Batteries & fuel cells |  | POSITIVE ELECTRODE MATERIAL AND METHOD FOR MANUFACTURING SAME |
+| 29/07 | 24886256.7 | company | LG Chem, Ltd. | KR | Batteries & fuel cells |  | POSITIVE ELECTRODE ACTIVE MATERIAL, POSITIVE ELECTRODE, AND LITHIUM SECONDARY BATTERY |
+| 29/07 | 26152976.2 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | ELECTRODE PLATE AND RECHARGEABLE BATTERY INCLUDING THE SAME |
+| 29/07 | 25209711.8 | company | TOYOTA JIDOSHA KABUSHIKI KAISHA | JP | Batteries & fuel cells |  | FUEL CELL SYSTEM WITH OXYGEN BACKFLOW SUPPRESION MECHANISM |
+| 29/07 | 25215464.6 | company | Toyota Jidosha Kabushiki Kaisha | JP | Batteries & fuel cells |  | FUEL CELL SYSTEM WITH MASTER UNIT |
+| 29/07 | 24868288.2 | company | TEIJIN LIMITED | JP | Electrolysis, Batteries & fuel cells |  | COMPOSITE MEMBRANE, MEMBRANE-ELECTRODE ASSEMBLY, SOLID POLYMER-TYPE FUEL CELL, SOLID POLYMER-TYPE ELECTROLYSIS |
+| 29/07 | 26184604.2 | company | Bloom Energy Corporation | US | Batteries & fuel cells |  | FUEL CELL SYSTEM CONTAINING WATER INJECTOR AND METHOD OF OPERATING THE SAME |
+| 29/07 | 25220413.6 | company | New Hydrogen IP, LLC | US | Electrolysis, Batteries & fuel cells |  | TIE ROD SPRING ASSEMBLY FOR AN ELECTROCHEMICAL SYSTEM |
+| 29/07 | 24882240.5 | company | GS Yuasa International Ltd. | JP | Supercapacitors, Batteries & fuel cells |  | POWER STORAGE ELEMENT |
+| 29/07 | 24897907.2 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | UNIT CELL TRANSFER APPARATUS FOR SECONDARY BATTERY, MANUFACTURING APPARATUS COMPRISING SAME, AND SECONDARY BAT |
+| 29/07 | 25203009.3 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY INSPECTION APPARATUS, SECONDARY BATTERY INSPECTION METHOD, AND SECONDARY BATTERY MANUFACTURI |
+| 29/07 | 25206874.7 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY AND BATTERY MODULE INCLUDING THE SAME |
+| 29/07 | 25211379.0 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | ELECTRODE ASSEMBLY AND SECONDARY BATTERY INCLUDING SAME |
+| 29/07 | 25226938.6 | company | Prime Planet Energy & Solutions, Inc. | JP | Batteries & fuel cells |  | METHOD OF MANUFACTURING SECONDARY BATTERY |
+| 29/07 | 26150764.4 | company | Prime Planet Energy & Solutions, Inc. | JP | Batteries & fuel cells |  | METHOD OF MANUFACTURING SECONDARY BATTERY |
+| 29/07 | 26184769.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SECONDARY BATTERY |
+| 29/07 | 23960685.8 | company | Sunwoda Mobility Energy Technology Co., Ltd. | CN | Batteries & fuel cells |  | SECONDARY BATTERY AND ELECTRICAL DEVICE |
+| 29/07 | 26184694.3 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | ELECTRODE AND SECONDARY BATTERY INCLUDING SAME |
+| 29/07 | 24866808.9 | company | Tianmulake Excellent Anode Materials Co., Ltd. | CN | Batteries & fuel cells |  | ALKALI METAL-RICH NASICON-TYPE SOLID-STATE ELECTROLYTE, AND PREPARATION METHOD THEREFOR AND USE THEREOF |
+| 29/07 | 24868403.7 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | ARGYRODITE-TYPE SULFIDE-BASED SOLID ELECTROLYTE, SOLID ELECTROLYTE MEMBRANE, AND ALL-SOLID-STATE RECHARGEABLE  |
+| 29/07 | 24907890.8 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SOLID ELECTROLYTE MEMBRANE, METHOD FOR MANUFACTURING SAME, AND ALL-SOLID-STATE BATTERY COMPRISING SAME |
+| 29/07 | 26152323.7 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | COMPOSITION FOR FORMING CATHODE ACTIVE MATERIAL LAYER FOR SOLID BATTERY, SOLID BATTERY INCLUDING CATHODE FORME |
+| 29/07 | 25861776.0 | company | Eve Power Co., Ltd. | CN | Batteries & fuel cells |  | LITHIUM-ION BATTERY |
+| 29/07 | 25208527.9 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | ELECTRODE AND SECONDARY BATTERY INCLUDING THE SAME |
+| 29/07 | 24881193.7 | company | Contemporary Amperex Technology Co., Limited | CN | Batteries & fuel cells |  | MANUFACTURING DEVICE AND METHOD FOR ELECTRODE ASSEMBLY |
+| 29/07 | 25861728.1 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | POUCH CELL ANALYSIS APPARATUS AND POUCH CELL ANALYSIS METHOD USING SAME |
+| 29/07 | 25867208.8 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | POUCH-TYPE SECONDARY BATTERY |
+| 29/07 | 26150669.5 | company | Samsung SDI Co., Ltd. | KR | Batteries & fuel cells |  | APPARATUS AND METHOD OF GENERATING LFP BATTERY MODEL |
+| 29/07 | 26153450.7 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY AND GAS PRESSURE EVALUATION SYSTEM FOR SECONDARY BATTERY |
+| 29/07 | 25154533.1 | company | BASF SE | DE | Batteries & fuel cells |  | METHOD FOR PROCESSING BATTERIES |
+| 29/07 | 25182773.9 | company | Zhejiang Jinko Energy Storage Co., Ltd. | CN | Batteries & fuel cells |  | BATTERY MODULE, ENERGY STORAGE SYSTEM AND ELECTRIC DEVICE |
+| 29/07 | 24898255.5 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | AGING RACK AND AGING SYSTEM INCLUDING SAME |
+| 29/07 | 25212991.1 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY |
+| 29/07 | 25214791.3 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | CAP ASSEMBLY AND SECONDARY BATTERY INCLUDING SAME |
+| 29/07 | 25219166.3 | company | Samsung SDI Co., Ltd. | KR | Batteries & fuel cells |  | SECONDARY BATTERY HAVING BOTTOM RETAINER AND METHOD OF MANUFACTURING THE SAME |
+| 29/07 | 25224256.5 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY |
+| 29/07 | 25225452.9 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY AND METHOD FOR MANUFACTURING SAME |
+| 29/07 | 25168292.8 | company | JINKO SOLAR CO., LTD | CN | Batteries & fuel cells |  | SECONDARY BATTERY AND HOUSING THEREOF |
+| 29/07 | 25187173.7 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY, BATTERY MODULE INCLUDING THE SAME, AND METHOD OF MANUFACTURING THE SAME |
+| 29/07 | 25867209.6 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | CAP, GAS GENERATING DEVICE INCLUDING CAP, AND LEAK MEASURING SYSTEM INCLUDING GAS GENERATING DEVICE |
+| 29/07 | 24868026.6 | company | Panasonic Intellectual Property Management Co.,  | JP | Supercapacitors, Batteries & fuel cells |  | METHOD FOR MANUFACTURING ENERGY STORAGE DEVICE, AND ENERGY STORAGE DEVICE |
+| 29/07 | 24869790.6 | company | Contemporary Amperex Technology Co., Limited | CN | Batteries & fuel cells |  | BATTERY CELL, BATTERY, AND ELECTRICAL DEVICE |
+| 29/07 | 26153468.9 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY AND BATTERY MODULE INCLUDING THE SAME |
+| 29/07 | 26153283.2 | company | Ricoh Company, Ltd. | JP | Batteries & fuel cells |  | BATTERY MEMBER, BATTERY MEMBER ASSEMBLY, METHOD AND APPARATUS FOR PRODUCING BATTERY MEMBER ASSEMBLY, BATTERY L |
+| 29/07 | 25154503.4 | company | Koninklijke Philips N.V. | NL | Batteries & fuel cells |  | BATTERY HOLDER FOR HOLDING AND ELECTRICALLY CONTACTING A BATTERY |
+| 29/07 | 25154001.9 | company | "Rawplug" Spolka Akcyjna | PL | Batteries & fuel cells |  | POWER TOOL BATTERY WITH LOCKING MECHANISM |
+| 29/07 | 25187655.3 | company | Ophir Co., Ltd. | KR | Batteries & fuel cells |  | BATTERY MODULE WITH IMPROVED STABILITY OF ELECTRIC CONNECTION OF BATTERY CELLS |
+| 29/07 | 25154513.3 | company | Volvo Truck Corporation | SE | Batteries & fuel cells |  | BATTERY HOUSING WITH VENTING CHANNEL INTEGRATED IN LOAD BEARING PLATFORM |
+| 29/07 | 26168299.1 | company | SK On Co., Ltd. | KR | Batteries & fuel cells |  | SECONDARY BATTERY |
+| 29/07 | 25214662.6 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | RECHARGEABLE BATTERY |
+| 29/07 | 25202705.7 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY AND METHOD FOR MANUFACTURING SECONDARY BATTERY |
+| 29/07 | 25221546.2 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | SECONDARY BATTERY INCLUDING VENT AND METHOD OF MANUFACTURING THE SECONDARY BATTERY |
+| 29/07 | 25225250.7 | company | Samsung SDI Co., Ltd. | KR | Batteries & fuel cells |  | CAP ASSEMBLY FOR SECONDARY BATTERY |
+| 29/07 | 25154320.3 | company | Volvo Truck Corporation | SE | Batteries & fuel cells |  | BATTERY HOUSING WITH UNIDIRECTIONAL VENTING PATH |
+| 29/07 | 25867247.6 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | BATTERY MODULE |
+| 29/07 | 26153326.9 | company | SK On Co., Ltd. | KR | Batteries & fuel cells |  | SEPARATOR FOR SECONDARY BATTERY, SECONDARY BATTERY INCLUDING THE SAME |
+| 29/07 | 26168995.4 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells |  | SEPARATOR FOR SECONDARY BATTERY |
+| 29/07 | 24867250.3 | company | Sinoma Lithium Battery Separator Co., Ltd. | CN | Batteries & fuel cells |  | COMPOSITE COATED SEPARATOR AND PREPARATION METHOD THEREFOR, AND LITHIUM-ION BATTERY COMPRISING SAME |
+| 29/07 | 24866828.7 | company | Contemporary Amperex Technology Co., Limited | CN | Batteries & fuel cells |  | BATTERY CELL, BATTERY, AND ELECTRICAL APPARATUS |
+| 29/07 | 24895868.8 | company | Contemporary Amperex Technology Co., Limited | CN | Batteries & fuel cells |  | BATTERY CELL, BATTERY, AND ELECTRICAL DEVICE |
+| 29/07 | 24833174.6 | company | Trio Metal (GZ) Co., Ltd | CN | Batteries & fuel cells |  | PREPARATION METHOD FOR COPPER-ALUMINUM COMPOSITE TERMINAL POST SHEET MATERIAL |
+| 29/07 | 25867161.9 | company | LG ENERGY SOLUTION, LTD. | KR | Batteries & fuel cells |  | ELECTRODE LEAD ASSEMBLY AND SECONDARY BATTERY |
+| 29/07 | 25206891.1 | company | SAMSUNG SDI CO., LTD. | KR | Batteries & fuel cells |  | CAP ASSEMBLY AND SECONDARY BATTERY INCLUDING SAME |
+| 29/07 | 26305067.6 | company | SCHNEIDER ELECTRIC INDUSTRIES SAS | FR | Grid & power networks, Power conversion |  | CIRCUIT AND MOTOR RESISTANT TO VOLTAGE SAG |
+| 29/07 | 25227339.6 | company | Prime Planet Energy & Solutions, Inc. | JP | Grid & power networks |  | POWER MANAGEMENT DEVICE AND POWER MANAGEMENT SYSTEM |
+| 29/07 | 26153192.5 | company | Huawei Technologies Co., Ltd. | CN | Grid & power networks, Power conversion |  | POWER CONVERTER, CONTROL METHOD FOR POWER CONVERTER, AND ENERGY STORAGE SYSTEM |
+| 29/07 | 26151735.3 | company | Bender GmbH & Co. KG | DE | Grid & power networks |  | BALANCING DEVICE AND METHOD FOR BALANCING AN UNGROUNDED POWER SUPPLY SYSTEM AND ENHANCED INSULATION MONITORING |
+| 29/07 | 25153982.1 | company | KilianNRGS | BE | Grid & power networks |  | ENERGY HANDLING OF DC ELECTRICAL ENERGY SOURCES |
+| 29/07 | 23952894.6 | company | Sungrow Power Supply Co., Ltd. | CN | Grid & power networks |  | POWER CONVERSION SYSTEM AND CONTROL METHOD THEREFOR |
+| 29/07 | 24892624.8 | institute | ELECTRIC POWER RESEARCH INSTITUTE, CHINA SOUTHER | CN | Grid & power networks |  | OFFSHORE WIND POWER DIRECT CURRENT TRANSMISSION SYSTEM |
+| 29/07 | 24892635.4 | institute | Electric Power Research Institute, China Souther | CN | Grid & power networks |  | OFFSHORE WIND POWER DIRECT-CURRENT DELIVERY SYSTEM |
+| 29/07 | 24870910.7 | company | Contemporary Amperex Technology Co., Limited | CN | Grid & power networks |  | DYNAMIC VOLTAGE SUPPORT METHOD AND APPARATUS OF ENERGY STORAGE CONVERTER, DEVICE AND STORAGE MEDIUM |
+| 29/07 | 24870249.0 | company | HUAWEI TECHNOLOGIES CO., LTD. | CN | Grid & power networks |  | POWER SUPPLY DEVICE, POWERED DEVICE AND CHARGING METHOD |
+| 29/07 | 25169585.4 | company | Guangdong Aoyun Technology Co., Ltd. | CN | Batteries & fuel cells, Grid & power network |  | STARTING POWER SUPPLY DEVICE CAPABLE OF REVERSE CHARGING |
+| 29/07 | 25793212.9 | company | HUAWEI TECHNOLOGIES CO., LTD. | CN | Grid & power networks |  | ELECTRONIC DEVICE, CALIBRATION SYSTEM, AND CONTROL METHOD |
+| 29/07 | 25795024.6 | company | LG Energy Solution, Ltd. | KR | Batteries & fuel cells, Grid & power network |  | CHARGING/DISCHARGING DEVICE FOR SECONDARY BATTERY |
+| 29/07 | 25864528.2 | company | Eve Energy Co., Ltd. | CN | Batteries & fuel cells, Grid & power network |  | ENERGY STORAGE BATTERY MANAGEMENT SYSTEM |
+| 29/07 | 26185240.4 | company | Samsung Electronics Co., Ltd. | KR | Grid & power networks |  | Battery charging method and electronic device |
+| 29/07 | 25765462.4 | company | Samsung Electronics Co., Ltd. | KR | Grid & power networks, Power conversion |  | ELECTRONIC DEVICE FOR CHARGING BATTERY BY USING SWITCHED CAPACITOR VOLTAGE DIVIDER, AND OPERATING METHOD THERE |
+| 29/07 | 25217095.6 | company | Ellenberger & Poensgen GmbH | DE | Grid & power networks |  | METHOD OF OPERATING A PRECHARGE CONTROLLER |
+| 29/07 | 25822878.2 | company | SHENZHEN POWEROAK NEWENER CO., LTD | CN | Grid & power networks |  | PHOTOVOLTAIC CHARGING ACTIVATION CIRCUIT AND PHOTOVOLTAIC CHARGING SYSTEM |
+| 29/07 | 24868034.0 | company | Sony Semiconductor Solutions Corporation | JP | Grid & power networks, Power conversion |  | POWER GENERATION DEVICE AND ELECTRICAL APPARATUS |
+| 29/07 | 24923289.3 | company | HUAWEI TECHNOLOGIES CO., LTD. | CN | Power conversion |  | POWER SUPPLY CIRCUIT, WIRELESS COMMUNICATION SYSTEM AND CHIP |
+| 29/07 | 25153664.5 | company | Siemens Energy Global GmbH & Co. KG | DE | Power conversion |  | A METHOD FOR OPERATING AN ELECTROLYSIS SYSTEM, RELATED CONTROLLER, POWER SUPPLY AND ELECTROLYZER SYSTEM |
+| 29/07 | 25796635.8 | company | Huawei Digital Power Technologies Co., Ltd. | CN | Power conversion |  | POWER CONVERTER AND CONTROL METHOD THEREFOR |
+| 29/07 | 26151184.4 | company | Carrier Corporation | US | Power conversion |  | AIR CONDITIONING SYSTEM INCLUDING DUAL MODE INVERTER CONTROL |
+| 29/07 | 25153384.0 | company | Delta Electronics (Thailand) Public Co., Ltd. | TH | Power conversion |  | MULTI-PHASE CONVERTER |
+| 29/07 | 25225945.2 | company | Analog Devices, Inc. | US | Power conversion |  | BOOST CONVERTER OUTPUT PROTECTION SYSTEMS AND METHODS |
+| 29/07 | 26151815.3 | company | Huawei Technologies Co., Ltd. | CN | Power conversion |  | AC/DC CONVERTER AND CHARGING DEVICE |
+| 29/07 | 24869701.3 | institute | State Grid Smart Grid Research Institute Co., Lt | CN | Power conversion |  | DIRECT-CURRENT TRANSFORMER FOR DIRECT-CURRENT GRID INTERCONNECTION AND CONTROL AND PROTECTION METHOD THEREFOR |
+| 29/07 | 24878818.4 | company | Huawei Digital Power Technologies Co., Ltd. | CN | Grid & power networks, Power conversion |  | DIRECT-CURRENT CONVERTER AND PHOTOVOLTAIC SYSTEM |
+| 29/07 | 25842104.9 | company | SHENZHEN POWEROAK NEWENER CO., LTD | CN | Power conversion |  | GRID CONNECTION CONTROL METHOD AND APPARATUS FOR VOLTAGE CONVERSION CIRCUIT, AND STORAGE MEDIUM |
+| 29/07 | 24866603.4 | company | Hitachi Industrial Equipment Systems Co., Ltd. | JP | Power conversion |  | POWER CONVERSION DEVICE, REMOTE MONITORING SYSTEM FOR POWER CONVERSION DEVICE, AND LIFE ESTIMATION METHOD FOR  |
+| 29/07 | 26153976.1 | company | Huawei Technologies Co., Ltd. | CN | Power conversion |  | POWER CONVERTER |
+| 29/07 | 26153781.5 | company | ABB SCHWEIZ AG | CH | Power conversion |  | APPARATUS AND METHOD FOR OPTIMIZING RESTRICTED PULSE MODULATION SCHEDULE |
+| 29/07 | 25382044.3 | company | Fabricacion de Carpintería de Aluminio Exclusiva | ES | PV generation, PV devices |  | INCLINED RAILING WITH ENERGY-GENERATING SOLAR PANELS |
+| 29/07 | 26153527.2 | individual | Iannuzzi, Maurizio | IT | Solar collectors, PV generation |  | PHOTOVOLTAIC SYSTEM |
+| 29/07 | 26166394.2 | company | Dualsun | FR | Solar collectors, PV generation |  | HYBRID SOLAR PANEL EQUIPPED WITH A DEVICE FOR ATTACHING A HEAT EXCHANGER |
+| 29/07 | 24868734.5 | company | LG Electronics Inc. | KR | Power conversion |  | HOME APPLIANCE |
+| 29/07 | 24868735.2 | company | LG Electronics Inc. | KR | Power conversion |  | COIL MODULE AND HOME APPLIANCE COMPRISING COIL MODULE |
+| 29/07 | 24868737.8 | company | LG Electronics Inc. | KR | Power conversion |  | COIL MODULE AND HOME APPLIANCE INCLUDING COIL MODULE |
+| 29/07 | 25226322.3 | company | Samsung SDI Co., Ltd. | KR | Batteries & fuel cells |  | BATTERY MODULE |
+| 29/07 | 24868689.1 | company | KMW Inc. | KR | Thermal storage |  | HEAT DISSIPATION APPARATUS |
+| 29/07 | 24868691.7 | company | KMW Inc. | KR | Thermal storage |  | HEAT DISSIPATION APPARATUS |
+| 29/07 | 24882832.9 | company | Samsung Electronics Co., Ltd. | KR | Thermal storage |  | ELECTRONIC DEVICE COMPRISING STRUCTURES FOR DISPERSING HEAT |
+| 29/07 | 26153021.6 | company | KABUSHIKI KAISHA TOSHIBA | JP | PV devices |  | SOLAR CELL |
+| 29/07 | 26153369.9 | company | KABUSHIKI KAISHA TOSHIBA | JP | PV devices |  | SOLAR CELL MODULE |
+| 29/07 | 24868495.3 | company | Hanwha Solutions Corporation | KR | PV devices |  | TANDEM TYPE SILICON/PEROVSKITE HETEROJUNCTION SOLAR CELL AND MANUFACTURING METHOD THEREFOR |
+| 29/07 | 26186159.5 | company | Jinko Solar (Haining) Co., Ltd. | CN | PV devices |  | PHOTOVOLTAIC MODULE |
+| 29/07 | 25315022.1 | institute | Commissariat à l'Energie Atomique et aux Energie | FR | PV devices |  | OPTOELECTRONIC STRUCTURE COMPRISING GROUP-IV MATERIAL AND PHOTONIC INSTRUMENT COMPRISING THE SAME |
+| 29/07 | 26152838.4 | company | Samsung Electronics Co., Ltd. | KR | PV devices |  | PHOTODIODE AND ELECTRONIC DEVICE INCLUDING THE SAME |
+| 29/07 | 24878808.5 | company | JIANGSU LEADMICRO NANO TECHNOLOGY CO., LTD. | CN | PV devices |  | TOPCON SOLAR CELL AND PREPARATION METHOD THEREFOR |
+| 29/07 | 25226741.4 | company | Tongwei Solar (Meishan) Co., Ltd. | CN | PV devices |  | SOLAR CELL, SCREEN PRINTING PLATE STRUCTURE AND PHOTOVOLTAIC MODULE |
+| 29/07 | 26184301.5 | company | LONGi Green Energy Technology Co., Ltd. | CN | PV devices |  | SOLAR CELL |
+| 29/07 | 26153422.6 | company | KABUSHIKI KAISHA TOSHIBA | JP | PV devices |  | LAYERED BODY, ELECTRONIC DEVICE, AND SOLAR CELL |
+| 29/07 | 26184119.1 | company | Trina Solar Co., Ltd | CN | PV generation, PV devices |  | SOLAR CELL MODULE |
+| 29/07 | 25878434.7 | company | Zhejiang Aiko Solar Energy Technology Co., Ltd. | CN | PV devices |  | BACK CONTACT CELL AND MODULE |
+| 29/07 | 24868518.2 | company | Hanwha Solutions Corporation | KR | PV devices |  | PEROVSKITE SOLAR CELL AND METHOD FOR PRODUCING SAME |
+| 29/07 | 26184480.7 | company | Jinko Solar (Haining) Co., Ltd. | CN | PV devices |  | SOLAR CELL AND PHOTOVOLTAIC MODULE |
 
 ---
 
