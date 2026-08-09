@@ -122,6 +122,13 @@ step "Working out where each file goes"
 for src in "${FILES[@]}"; do
   [ -f "$src" ] || die "cannot find $src"
   base="$(basename "$src")"
+  # The report pipeline writes an -internal copy of each appendix right next to
+  # the publishable one, and everything published here is world-readable. Refuse
+  # rather than let a mis-selected file go public.
+  case "$base" in
+    *-internal.*|*internal*)
+      die "$base looks like an internal file. This site is public, so it will not be published. If it really is meant to be public, rename it without \"internal\"." ;;
+  esac
   case "$base" in
     # a weekly issue page:  CURRENT-energy-02.html
     CURRENT-*-[0-9][0-9].html)
