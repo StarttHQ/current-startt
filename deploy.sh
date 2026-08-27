@@ -154,7 +154,15 @@ for src in "${FILES[@]}"; do
     robots.txt|favicon.ico|index.html|vercel.json)
       place "$src" "$base" ;;
     *.png)
-      place "$src" "email/$base" ;;   # email marks: filenames are permanent
+      # Both of these are referenced by name from emails already sent, so the
+      # filenames are permanent either way. Which folder is decided by where the
+      # file came from: a funds/ folder means a fund logo, anything else is an
+      # email mark.
+      if [ "$(basename "$(dirname "$src")")" = "funds" ]; then
+        place "$src" "logos/funds/$base"
+      else
+        place "$src" "email/$base"
+      fi ;;
     *)
       die "not sure where $base belongs. Add a rule to deploy.sh, or copy it in by hand." ;;
   esac
