@@ -3,6 +3,7 @@
 #
 #   ./deploy.sh <file> [file ...]        publish these files
 #   ./deploy.sh --dry-run <file> ...     show what would happen, change nothing
+#   ./deploy.sh --as /lookback/august/ report.html    send a file to an exact path
 #
 # It works out where each file belongs, does the bookkeeping a new issue needs,
 # pushes, waits for the site to update, and tells you whether it worked.
@@ -21,12 +22,19 @@ SITE="https://current.startt.ai"
 DRY=0
 FILES=()
 
-for a in "$@"; do
-  case "$a" in
+DESTS=()
+PENDING_DEST=""
+while [ $# -gt 0 ]; do
+  case "$1" in
     --dry-run|-n) DRY=1 ;;
-    -h|--help) sed -n '2,18p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
-    *) FILES+=("$a") ;;
+    -h|--help) sed -n '2,20p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
+    # --as <url-path> sends the NEXT file somewhere the filename cannot imply,
+    # e.g. --as /lookback/august/ for a one-off report page.
+    --as) shift; [ $# -gt 0 ] || { echo "--as needs a path, e.g. --as /lookback/august/"; exit 1; }
+          PENDING_DEST="$1" ;;
+    *) FILES+=("$1"); DESTS+=("$PENDING_DEST"); PENDING_DEST="" ;;
   esac
+  shift
 done
 
 if [ ${#FILES[@]} -eq 0 ]; then
@@ -119,9 +127,18 @@ PYEOF
 
 # ------------------------------------------------------------- routing
 step "Working out where each file goes"
-for src in "${FILES[@]}"; do
+for i in "${!FILES[@]}"; do
+  src="${FILES[$i]}"
   [ -f "$src" ] || die "cannot find $src"
   base="$(basename "$src")"
+  # an explicit --as destination wins over every filename rule
+  want="${DESTS[$i]}"
+  if [ -n "$want" ]; then
+    want="${want#/}"; want="${want%/}"
+    case "$base" in *.html) want="$want/index.html" ;; *) want="$want/$base" ;; esac
+    place "$src" "$want"
+    continue
+  fi
   # The report pipeline writes an -internal copy of each appendix right next to
   # the publishable one, and everything published here is world-readable. Refuse
   # rather than let a mis-selected file go public.
