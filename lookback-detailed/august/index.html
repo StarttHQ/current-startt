@@ -22,6 +22,10 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { background: #09090b; display: flex; align-items: center; justify-content: center; min-height: 100vh; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
     #__bundler_loading { position: fixed; bottom: 20px; right: 20px; font: 13px/1.4 -apple-system, BlinkMacSystemFont, sans-serif; color: #a1a1aa; background: #18181b; padding: 8px 14px; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.12); z-index: 10000; }
+    /* Empty on purpose. The bundle replaces the whole <html> in one step, so any
+   artwork here gets snapped away and replaced by a different layout, which
+   reads as a blink. A flat ground of the page's own colour means the load
+   goes dark -> dark-with-content instead. */
     #__bundler_thumbnail { position: fixed; inset: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: #09090b; z-index: 9999; }
     #__bundler_thumbnail svg { width: 100%; height: 100%; object-fit: contain; }
     #__bundler_placeholder { color: #999; font-size: 14px; }
@@ -34,37 +38,7 @@
   </noscript>
 </head>
 <body>
-  <div id="__bundler_thumbnail">
-  <svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
-    <rect width="1200" height="800" fill="#09090b"></rect>
-    <radialGradient id="g" cx="50%" cy="0%" r="70%">
-      <stop offset="0%" stop-color="#eab308" stop-opacity=".16"></stop>
-      <stop offset="100%" stop-color="#eab308" stop-opacity="0"></stop>
-    </radialGradient>
-    <rect width="1200" height="800" fill="url(#g)"></rect>
-    <text x="600" y="470" text-anchor="middle" font-family="Georgia,serif" font-size="330" fill="#eab308" letter-spacing="-12">37</text>
-    <text x="600" y="560" text-anchor="middle" font-family="Georgia,serif" font-size="76" fill="#a1a1aa">of 95</text>
-    <g fill="#27272a">
-      <rect x="360" y="620" width="14" height="42" rx="2"></rect><rect x="384" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="408" y="620" width="14" height="42" rx="2"></rect><rect x="432" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="456" y="620" width="14" height="42" rx="2"></rect><rect x="480" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="504" y="620" width="14" height="42" rx="2"></rect><rect x="528" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="552" y="620" width="14" height="42" rx="2"></rect><rect x="576" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="600" y="620" width="14" height="42" rx="2"></rect><rect x="624" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="648" y="620" width="14" height="42" rx="2"></rect><rect x="672" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="696" y="620" width="14" height="42" rx="2"></rect><rect x="720" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="744" y="620" width="14" height="42" rx="2"></rect><rect x="768" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="792" y="620" width="14" height="42" rx="2"></rect><rect x="816" y="620" width="14" height="42" rx="2"></rect>
-    </g>
-    <g fill="#eab308">
-      <rect x="384" y="620" width="14" height="42" rx="2"></rect><rect x="432" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="480" y="620" width="14" height="42" rx="2"></rect><rect x="528" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="600" y="620" width="14" height="42" rx="2"></rect><rect x="672" y="620" width="14" height="42" rx="2"></rect>
-      <rect x="744" y="620" width="14" height="42" rx="2"></rect><rect x="816" y="620" width="14" height="42" rx="2"></rect>
-    </g>
-    <text x="600" y="726" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#f4f4f5" letter-spacing="11">STARTT LOOKBACK</text>
-  </svg>
-</div>
+  <div id="__bundler_thumbnail"><!-- deliberately empty: see note in <style> --></div>
   <div id="__bundler_loading">Startt Lookback, August 2026</div>
 
   <script>
