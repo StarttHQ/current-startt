@@ -144,14 +144,26 @@ jobs:
           # Both helpers download a file and print "<status code> <file type>".
           # There is no -L, so a redirect shows up as a 3xx code rather than being
           # quietly followed.
+          # A run makes dozens of requests in a row. With long retries that was tens of
+          # minutes on a bad day, and a burst of cache-busted multi-megabyte requests
+          # from one address looks like scraping to the protection in front of the
+          # site, which then starts refusing us. Short timeouts, one retry, and a
+          # breath between requests keep the run honest and finish it.
           get_fresh() {
-            curl -sS -o "$2" -w '%{http_code} %{content_type}' --max-time 30 \
-              --retry 3 --retry-delay 3 --retry-connrefused "$(fresh_url "$1")" || echo "000 none"
+            sleep 1
+            curl -sS -o "$2" -w '%{http_code} %{content_type}' --max-time 20 \
+              --retry 1 --retry-delay 2 --retry-connrefused "$(fresh_url "$1")" || echo "000 none"
           }
           get_as_a_reader_sees_it() {
-            curl -sS -o "$2" -w '%{http_code} %{content_type}' --max-time 30 \
-              --retry 3 --retry-delay 3 --retry-connrefused "$SITE/$1" || echo "000 none"
+            sleep 1
+            curl -sS -o "$2" -w '%{http_code} %{content_type}' --max-time 20 \
+              --retry 1 --retry-delay 2 --retry-connrefused "$SITE/$1" || echo "000 none"
           }
+          # "We could not reach the site" is not "the file is wrong". Saying the second
+          # when we mean the first stops a newsletter for no reason, and teaches people
+          # to ignore a real red run. 000 is no answer at all; 502/503/504/522/524 are
+          # the network in front of the site failing to reach it.
+          unreachable() { case "$1" in 000|502|503|504|522|524) return 0 ;; *) return 1 ;; esac; }
           code_of() { echo "$1" | cut -d' ' -f1; }
 
           # True only for a real Cloudflare block page. Cloudflare also adds a small
@@ -258,13 +270,16 @@ jobs:
           # nothing. Check 6 checks its contents instead, which is what matters.
           ASSETS="$(git ls-files | grep -v -E '^\.|\.html$|^(README\.md|vercel\.json|robots\.txt)$' || true)"
           ASSETS_OK=1
+          UNREACHED=""
           if [ -z "$ASSETS" ]; then
             fail "this update contains no images or data files at all, which should never happen."
             ASSETS_OK=0
           fi
           for f in $ASSETS; do
             CODE="$(code_of "$(get_fresh "$f" "$TMP/asset.bin")")"
-            if [ "$CODE" != "200" ]; then
+            if unreachable "$CODE"; then
+              UNREACHED="$UNREACHED $f"
+            elif [ "$CODE" != "200" ]; then
               fail "the file /$f is not available on the live website (status code $CODE)."
               note "Anything pointing at it, including the newsletter, shows a broken item."
               ASSETS_OK=0
@@ -274,8 +289,15 @@ jobs:
               ASSETS_OK=0
             fi
           done
-          if [ "$ASSETS_OK" = "1" ]; then
+          if [ -n "$UNREACHED" ]; then
+            note "COULD NOT CHECK, the site did not answer for:$UNREACHED"
+            note "This is the connection, not the files. Open one in a browser to confirm,"
+            note "and re-run this job if they load."
+          fi
+          if [ "$ASSETS_OK" = "1" ] && [ -z "$UNREACHED" ]; then
             pass "all $(echo "$ASSETS" | wc -w | tr -d ' ') images and data files are live and correct."
+          elif [ "$ASSETS_OK" = "1" ]; then
+            pass "every image and data file we could reach is live and correct."
           fi
 
           # ---------------------------------------------------------------

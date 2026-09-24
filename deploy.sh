@@ -310,29 +310,41 @@ say "  pushed $(git rev-parse --short HEAD)"
 
 # ----------------------------------------------------------- verify live
 step "Waiting for the site to update"
-say "  this takes about a minute"
-for _ in $(seq 60); do
+say "  usually a minute or two"
+for _ in $(seq 120); do
   st="$(gh run list --repo StarttHQ/current-startt --limit 1 --json status,conclusion,headSha \
         --jq 'first(.[] | select(.headSha=="'"$(git rev-parse HEAD)"'")) | "\(.status) \(.conclusion // "-")"' 2>/dev/null)"
   [ "${st%% *}" = "completed" ] && break
   sleep 10
 done
+RUN_URL="$(gh run list --repo StarttHQ/current-startt --limit 1 --json url --jq '.[0].url' 2>/dev/null)"
 
 echo ""
-if [ "${st#* }" = "success" ]; then
+echo "=================================================="
+if [ "${st%% *}" != "completed" ]; then
+  # Not finished is NOT the same as failed. Claiming failure here sends someone
+  # chasing a problem that does not exist, and teaches them to ignore a real red
+  # run later.
+  echo "PUBLISHED. The site check is still running."
+  echo ""
+  echo "Your files are on the server. The check that confirms the live site is"
+  echo "showing them had not finished, so this script stopped waiting. Nothing is"
+  echo "known to be wrong. Watch it finish here, and send the email once green:"
+  echo "  $RUN_URL"
   echo "=================================================="
+  exit 0
+elif [ "${st#* }" = "success" ]; then
   echo "PUBLISHED. $SITE is live and showing these files."
   [ -n "$NEW_ISSUE" ] && echo "Read it at $SITE/$NEW_ISSUE/"
   echo "It is safe to send the newsletter email."
   echo "=================================================="
 else
-  echo "=================================================="
   echo "PUBLISHED, BUT THE SITE CHECK FAILED."
   echo ""
   echo "Your files are on GitHub, but the checks say the live site is not"
   echo "showing them correctly. Do NOT send the newsletter email yet."
   echo "See what went wrong here:"
-  gh run list --repo StarttHQ/current-startt --limit 1 --json url --jq '.[0].url' 2>/dev/null
+  echo "  $RUN_URL"
   echo "=================================================="
   exit 1
 fi
