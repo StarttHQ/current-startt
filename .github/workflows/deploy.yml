@@ -164,6 +164,20 @@ jobs:
           # to ignore a real red run. 000 is no answer at all; 502/503/504/522/524 are
           # the network in front of the site failing to reach it.
           unreachable() { case "$1" in 000|502|503|504|522|524) return 0 ;; *) return 1 ;; esac; }
+          # Ask for the headers only. Downloading every file was what broke this job:
+          # large bodies stall between the site and this runner (0 bytes received on
+          # a 2.5MB file, 20s at a time), while small ones are fine. A HEAD is ~650
+          # bytes whatever the file weighs, so size stops mattering.
+          head_fresh() {
+            sleep 1
+            curl -sSI -o /dev/null -w '%{http_code} %{content_type}' --max-time 20 \
+              --retry 1 --retry-delay 2 --retry-connrefused "$(fresh_url "$1")" || echo "000 none"
+          }
+          head_as_a_reader_sees_it() {
+            sleep 1
+            curl -sSI -o /dev/null -w '%{http_code} %{content_type}' --max-time 20 \
+              --retry 1 --retry-delay 2 --retry-connrefused "$SITE/$1" || echo "000 none"
+          }
           code_of() { echo "$1" | cut -d' ' -f1; }
 
           # True only for a real Cloudflare block page. Cloudflare also adds a small
@@ -258,10 +272,18 @@ jobs:
 
           # ---------------------------------------------------------------
           echo ""
-          echo "Check 2: are the images and data files live and identical to this update?"
+          echo "Check 2: is every image and data file live?"
           # Everything a reader downloads, except the pages themselves (Cloudflare
           # adds an invisible script to pages, so those are checked by their content
           # in Check 4 instead) and files that are only repository housekeeping.
+          #
+          # This asks only whether each file is there and served as the right type. It
+          # no longer compares the bytes, because two earlier steps already prove the
+          # contents: the server asserts its own working tree matches this commit
+          # exactly (a dirty tree stops the deploy), and Check 1 reads a receipt back
+          # through current.startt.ai proving the public address serves that server.
+          # Re-downloading every file to prove it a third time is what made this job
+          # time out, so it is gone.
           #
           # robots.txt is excluded here for the same reason as the pages: Cloudflare
           # does not serve ours as written. It puts its own managed block in front of
@@ -276,16 +298,12 @@ jobs:
             ASSETS_OK=0
           fi
           for f in $ASSETS; do
-            CODE="$(code_of "$(get_fresh "$f" "$TMP/asset.bin")")"
+            CODE="$(code_of "$(head_fresh "$f")")"
             if unreachable "$CODE"; then
               UNREACHED="$UNREACHED $f"
             elif [ "$CODE" != "200" ]; then
               fail "the file /$f is not available on the live website (status code $CODE)."
               note "Anything pointing at it, including the newsletter, shows a broken item."
-              ASSETS_OK=0
-            elif [ "$(sha256sum < "$TMP/asset.bin")" != "$(sha256sum < "$f")" ]; then
-              fail "the live website is serving an out-of-date version of /$f."
-              note "The file on the website is not the one in this update."
               ASSETS_OK=0
             fi
           done
@@ -295,9 +313,9 @@ jobs:
             note "and re-run this job if they load."
           fi
           if [ "$ASSETS_OK" = "1" ] && [ -z "$UNREACHED" ]; then
-            pass "all $(echo "$ASSETS" | wc -w | tr -d ' ') images and data files are live and correct."
+            pass "all $(echo "$ASSETS" | wc -w | tr -d ' ') images and data files are live."
           elif [ "$ASSETS_OK" = "1" ]; then
-            pass "every image and data file we could reach is live and correct."
+            pass "every image and data file we could reach is live."
           fi
 
           # ---------------------------------------------------------------
@@ -344,7 +362,19 @@ jobs:
             fail "this update contains no pages at all."
           fi
           for d in $PAGE_DIRS; do
-            CODE="$(code_of "$(get_as_a_reader_sees_it "$d/" "$TMP/issue.html")")"
+            # Only pull the body for a real issue, whose text we have to read. A
+            # standalone page just has to open, and /lookback/august/ alone is 1.7MB
+            # over a link that stalls on big transfers.
+            if [ -f "$d/issue.json" ]; then
+              CODE="$(code_of "$(get_as_a_reader_sees_it "$d/" "$TMP/issue.html")")"
+            else
+              CODE="$(code_of "$(head_as_a_reader_sees_it "$d/")")"
+              : > "$TMP/issue.html"
+            fi
+            if unreachable "$CODE"; then
+              note "COULD NOT CHECK $SITE/$d/, the site did not answer."
+              continue
+            fi
             if [ "$CODE" != "200" ]; then
               if blocked_by_cloudflare "$TMP/issue.html"; then
                 fail "Cloudflare blocked this automated check of $SITE/$d/ (status code $CODE)."
@@ -393,8 +423,10 @@ jobs:
               | sed 's|^href="||; s|"$||' | grep -v '\.' | grep -v '^/$' | sort -u || true)"
             LINKS_OK=1
             for l in $LINKS; do
-              CODE="$(code_of "$(get_as_a_reader_sees_it "${l#/}" "$TMP/link.html")")"
-              if [ "$CODE" != "200" ]; then
+              CODE="$(code_of "$(head_as_a_reader_sees_it "${l#/}")")"
+              if unreachable "$CODE"; then
+                note "COULD NOT CHECK $SITE$l, the site did not answer."
+              elif [ "$CODE" != "200" ]; then
                 fail "the front page links to $SITE$l but that page does not open (status code $CODE)."
                 note "Readers clicking it, in the newsletter or on the site, get a dead page."
                 note "The folder for that issue was most likely never included in this update."
